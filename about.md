@@ -5,11 +5,12 @@ permalink: /about/
 ---
 
 Some information about you!
+Estonia Blockchin Lab.
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
+ICO Landing Service page for your cryptocurrency project
+Decentralized Consulting Platform for ICO Developers, Advisors, Crypto-Experts and Investors.
+http://cubeon.co.in
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:wooriapt79@gmail.com)
