@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Today's questio!?
+title: Today's question!?
 ---
 "Today's question."
 
