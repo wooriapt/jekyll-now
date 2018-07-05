@@ -6,7 +6,8 @@ title: ICO Community Management
 ICO Community Management.
 
 ICOs are becoming the new standard for start-ups and business ventures around the world to gain investment by communities. 
-Since January 2017, start-ups have raised more than USD1.8 billion through Initial Coin Offerings (ICOs). 
+Since January 2017, start-ups have raised more than USD1.8 billion through Initial Coin Offerings (ICOs).
+
 Blockchain technology entrepreneurs worldwide raised more money through ICO than traditional venture capital investment. 
 For most of the tokens, the ICO countdown has already begun.
 
