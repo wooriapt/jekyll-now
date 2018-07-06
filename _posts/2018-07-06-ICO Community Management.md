@@ -192,6 +192,5 @@ The channels and respective community are maintained by the ICO community manage
 In order to access as many people as possible, the community management team do not use a single community but find a good mix of communities.
 
 ![_config.yml]({{ site.baseurl }}/images/github.png) GitHub
-
 Twitter, telegram, bitcointalk, etc. are some of the important channels that ICO community managers use to communicate 
 directly with the community.
