@@ -7,12 +7,9 @@ title: Today's question!?
 Q1. Lite Paper.
 
 Q2. Token Structure and Design.
-
-       ICO period : Start time & Ending Time. 
-       
-       Coin quantity to be issued.
-       
-       1coin expected price.
+1.ICO period : Start time & Ending Time.        
+2.Coin quantity to be issued.       
+3.1coin expected price.
        
 Q3. Ethereum Quantity of distribution.
 
