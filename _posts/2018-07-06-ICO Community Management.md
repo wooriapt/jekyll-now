@@ -194,6 +194,5 @@ In order to access as many people as possible, the community management team do 
 
 ![_config.yml]({{ site.baseurl }}/images/github.png) GitHub.
 
-
 Twitter, telegram, bitcointalk, etc. are some of the important channels that ICO community managers use to communicate 
 directly with the community.
