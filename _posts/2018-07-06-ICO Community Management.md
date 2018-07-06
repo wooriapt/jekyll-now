@@ -191,7 +191,7 @@ right audience.
 The channels and respective community are maintained by the ICO community manager. 
 In order to access as many people as possible, the community management team do not use a single community but find a good mix of communities.
 
-![_config.yml]({{ site.baseurl }}/images/communitymanagement.jpg)
+![_config.yml]({{ site.baseurl }}/images/github.png)
 
 
 Twitter, telegram, bitcointalk, etc. are some of the important channels that ICO community managers use to communicate 
