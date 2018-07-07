@@ -5,7 +5,7 @@ title: Terms of Use of Website
 
 Terms of Use of Website ("TERMS").
 -
-Last updated: March 19, 2018
+Last updated: March 19, 2018.
 PLEASE THEREFORE READ THESE TERMS CAREFULLY EACH TIME YOU USE THIS WEBSITE.
 
 This website is owned and operated by Estonia Blockchain Lab. Belize (hereinafter “cube ON”). CUBE ON has the sole discretion to change any Term at any time.
