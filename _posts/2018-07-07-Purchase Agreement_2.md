@@ -141,5 +141,5 @@ ELECTRONIC COMMUNICATIONS
 
 9.8. Participant agrees and acknowledges that all agreements, notices, disclosures and other communications that the Company provides the Participant pursuant to this Agreement or in connection with or related to Participant’s purchase of CUBE ON Tokens, including this Agreement may be provided by the Company, in its sole discretion, in electronic form.
 
-![_config.yml]({{ site.baseurl }}/_posts/2018-07-07-Purchase Agreement.md)
+![_config.yml]({{ site.baseurl }}_posts/2018-07-07-Purchase Agreement.md)
 [https://wooriapt.github.io/Purchase-Agreement/](https://wooriapt.github.io/Purchase-Agreement/ "Purchase-Agreement.md")
