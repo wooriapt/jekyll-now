@@ -4,10 +4,11 @@ title: CUBE ON Token Sale Agreement
 ---
 
 Purchase Agreement
----
+
 Last updated: June 1, 2018.
 
-PLEASE READ THESE TERMS OF TOKEN SALE CAREFULLY. IF YOU DO NOT AGREE TO THESE TERMS OF SALE, DO NOT PURCHASE TOKENS.
+PLEASE READ THESE TERMS OF TOKEN SALE CAREFULLY. 
+IF YOU DO NOT AGREE TO THESE TERMS OF SALE, DO NOT PURCHASE TOKENS.
 
 CUBE ON Token Sale Agreement
 This agreement is made by and between This agreement is made by and between Estonia Blockchain Lab number: 
@@ -35,7 +36,7 @@ BINDING AGREEMENT.
 https://cubeon.co.in website (the “Website”) to indicate that Participant has read, understands and agrees to the term of 
 this Agreement or upon Company’s receipt of payment from Participant.
 
-WHITE PAPER
+WHITE PAPER.
 1.2. The Company has prepared the white paper and other materials concerning the sale of CUBE ON Tokens which are available at 
 https://cubeon.co.in. The White Paper, as it may be amended from time to time, is hereby incorporated by reference. Participant 
 has to read and understands the White Paper and its contents.
