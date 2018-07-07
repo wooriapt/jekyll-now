@@ -1,9 +1,9 @@
 ---
-title: Jekyll 블로그 운영
+title: CUBE ON Token..?
 layout: post
-category: [setup, draft]
-date: 2016-01-30
-description: 스태틱 블로그 서비스는 Jekyll 설정
+category: [issues]
+date: 2016-07-07
+description: CUBE ON Arbitration and Utility Token (XCB)
 ---
 
 
