@@ -127,4 +127,5 @@ A private key, or a combination of private keys, is necessary to control and dis
 
 Because Tokens are based on the Ethereum protocol, any malfunction, breakdown or abandonment of the Ethereum protocol may have a material adverse effect on the Tokens. Moreover, advances in cryptography, or technical advances such as the development of quantum computing, could present risks to the Tokens by rendering ineffective the cryptographic consensus mechanism that underpins the Ethereum protocol.
 
+![_config.yml]({{ site.baseurl }}/_posts/2018-07-07-Purchase Agreement_2.md)
 
