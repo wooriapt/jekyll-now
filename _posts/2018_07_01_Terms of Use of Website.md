@@ -1,8 +1,7 @@
 ---
-title:Terms of Use of Website
 layout: post
+title: Terms of Use of Website
 ---
-
 
 ###Terms of Use of Website ("TERMS").
 -
