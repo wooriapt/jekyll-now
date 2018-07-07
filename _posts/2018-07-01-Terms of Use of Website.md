@@ -4,8 +4,9 @@ title: Terms of Use of Website
 ---
 
 Terms of Use of Website ("TERMS").
----
+
 Last updated: March 19, 2018.
+---
 PLEASE THEREFORE READ THESE TERMS CAREFULLY EACH TIME YOU USE THIS WEBSITE.
 
 This website is owned and operated by Estonia Blockchain Lab. Belize (hereinafter “cube ON”). CUBE ON has the sole discretion to change any Term at any time.
@@ -30,7 +31,7 @@ This website has been compiled in good faith by CUBE ON.
 IMPORTANT: THIS WEBSITE AND ITS MATERIALS ARE PROVIDED “AS IS” AND WITHOUT WARRANTIES OF ANY KIND EITHER EXPRESS OR IMPLIED. TO THE FULLEST EXTENT PERMISSIBLE AND SUBJECT AND PURSUANT TO APPLICABLE LAW, CUBE ON DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES AS TO FUNCTIONALITY, OPERABILITY, ACCESSIBILITY, ACCURACY, CORRECTNESS, RELIABILITY, UPDATEDNESS, TIMELINESS, SATISFACTORY QUALITY, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. CS DOES NOT WARRANT THAT THE WEBSITE, ITS MATERIALS AND FUNCTIONS CONTAINED IN THE MATERIALS WILL BE UNINTERRUPTED OR ERROR-FREE, OR THAT DEFECTS WILL BE CORRECTED OR THAT THIS WEBSITE AND THIS SERVER THAT MAKES IT AVAILABLE ARE FREE OF ANY COMPUTER VIRUS AND/OR OTHER HARMFUL OR CORRUPTING CODE, PROGRAMME, MACRO AND SUCH LIKE ELEMENTS.
 
 Limitation of Liability.
--
+---
 Subject to applicable law, under no circumstances, including, but not limited to negligence, shall CUBE ON be liable for any direct or indirect damages howsoever caused to any person that result from any person’s use, misuse, abuse, access of, or inability to access or use the website and/or its materials.
 
 Changes & Access.
@@ -78,3 +79,5 @@ All contents posted express the views of only the author. CUBE ON will not be he
 Agreeemnt to Our Terms of Use.
 
 By uploading and posting any material on this site, you indicate to CUBE ON that you have read and agreed to our terms and conditions. These Terms of Use may be changed from time to time. Changes will be posted on this page and your use of this Site after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes.
+
+[http://cubeon.co.in](http://cubeon.co.in "CUBE ON")
