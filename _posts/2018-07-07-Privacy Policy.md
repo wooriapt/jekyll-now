@@ -1,9 +1,6 @@
 ---
 title:Privacy Policy
 layout: post
-category: [Privacy Policy]
-date: 2018-06-07
-description: CUBE ON_Terms of Use of Website ("TERMS")
 ---
 
 
