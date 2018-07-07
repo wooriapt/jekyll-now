@@ -3,7 +3,7 @@ layout: post
 title: Terms of Use of Website
 ---
 
-###Terms of Use of Website ("TERMS").
+###Terms of Use of Website ("TERMS").###
 -
 Last updated: March 19, 2018
 PLEASE THEREFORE READ THESE TERMS CAREFULLY EACH TIME YOU USE THIS WEBSITE.
