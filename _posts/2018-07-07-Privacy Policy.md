@@ -4,7 +4,7 @@ title: Privacy Policy
 ---
 
 
-###Privacy Policy
+Privacy Policy
 ---
 Last updated: March 19, 2018.
 
