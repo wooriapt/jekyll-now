@@ -3,7 +3,7 @@ layout: post
 title: Terms of Use of Website
 ---
 
-###Terms of Use of Website ("TERMS").###
+Terms of Use of Website ("TERMS").
 -
 Last updated: March 19, 2018
 PLEASE THEREFORE READ THESE TERMS CAREFULLY EACH TIME YOU USE THIS WEBSITE.
@@ -29,7 +29,7 @@ This website has been compiled in good faith by CUBE ON.
 
 IMPORTANT: THIS WEBSITE AND ITS MATERIALS ARE PROVIDED “AS IS” AND WITHOUT WARRANTIES OF ANY KIND EITHER EXPRESS OR IMPLIED. TO THE FULLEST EXTENT PERMISSIBLE AND SUBJECT AND PURSUANT TO APPLICABLE LAW, CUBE ON DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES AS TO FUNCTIONALITY, OPERABILITY, ACCESSIBILITY, ACCURACY, CORRECTNESS, RELIABILITY, UPDATEDNESS, TIMELINESS, SATISFACTORY QUALITY, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. CS DOES NOT WARRANT THAT THE WEBSITE, ITS MATERIALS AND FUNCTIONS CONTAINED IN THE MATERIALS WILL BE UNINTERRUPTED OR ERROR-FREE, OR THAT DEFECTS WILL BE CORRECTED OR THAT THIS WEBSITE AND THIS SERVER THAT MAKES IT AVAILABLE ARE FREE OF ANY COMPUTER VIRUS AND/OR OTHER HARMFUL OR CORRUPTING CODE, PROGRAMME, MACRO AND SUCH LIKE ELEMENTS.
 
-###Limitation of Liability.
+Limitation of Liability.
 -
 Subject to applicable law, under no circumstances, including, but not limited to negligence, shall CUBE ON be liable for any direct or indirect damages howsoever caused to any person that result from any person’s use, misuse, abuse, access of, or inability to access or use the website and/or its materials.
 
@@ -45,7 +45,7 @@ Any communications you send to this website or otherwise to CUBE ON by electroni
 
 CUBE ON shall be free to use the content of any such communications, including any ideas, inventions, concepts, techniques or know-how disclosed herein, for any purpose, including the developing, manufacturing and/or marketing of goods or services. Further, CUBE ON shall be free to use any ideas, concepts, know-how or techniques contained in such information for any purpose whatsoever including but not limited to developing and marketing services incorporating such information.
 
-###Hyperlinks.
+Hyperlinks.
 -
 This website contains links to other websites which are not maintained by CUBE ON. Similarly, other websites may contain links to this website.
 
@@ -53,7 +53,7 @@ CUBE ON is not responsible for the contents of those websites and shall not be l
 
 Any third party that wishes to establish links to this website should notify CUBE ON of their intention prior to doing so. CUBE ON reserves the right to deny permission for any such links to this website. If, however CUBE ON gives its permission for any such links, CUBE ON is not under any obligation to establish reciprocal links with the third party.
 
-###Governing Law.
+Governing Law.
 -
 The access and use of this website and its materials, and the Terms shall be governed by the domestic laws of the Belize.
 
