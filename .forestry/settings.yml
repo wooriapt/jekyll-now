@@ -13,5 +13,5 @@ collections:
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
-use_front_matter_path: false
-file_template: ":filename:"
+use_front_matter_path: true
+file_template: ":filename:CUBE_ON_ICO_FAQ.pdf"
