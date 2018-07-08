@@ -1,6 +1,6 @@
 ---
-hide_body: false
-is_partial: false
+hide_body: true
+is_partial: true
 fields:
 - type: boolean
   name: label_1
