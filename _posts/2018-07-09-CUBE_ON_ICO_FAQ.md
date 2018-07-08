@@ -91,4 +91,4 @@ A: CUBE ON is an open source project. More extensive documentation will be relea
 which will explain all of the mechanics of the protocol in depth for developers. Requests for Comments and Pull Requests will 
 also be able to be made on our github.
 
-We are also always looking for developers, emailto ://contact dany.me.park@gmail..com with your Github/Experience/links to past projects.
+We are also always looking for developers, [dany.me.park@gmail.com](dany.me.park@gmail.com "Email") with your Github/Experience/links to past projects.
