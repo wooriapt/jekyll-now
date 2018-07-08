@@ -1,0 +1,9 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: boolean
+  name: label_1
+  label: label_1
+  description: test label
+  hidden: true
