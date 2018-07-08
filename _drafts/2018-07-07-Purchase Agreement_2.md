@@ -3,7 +3,7 @@ layout: post
 title: CUBE ON Token Sale Agreement_
 date: 2018-07-07 00:00:00 +0000
 ---
-Purchase Agreement_2
+Purchase Agreement_
 
 Last updated: June 1, 2018.
 
