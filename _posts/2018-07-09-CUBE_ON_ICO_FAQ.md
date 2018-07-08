@@ -18,7 +18,7 @@ A: The price of CUBE ON to ETH is fixed, where 1ETH = 17,200CUBE ON
 Q: When will you be listed on exchanges?
 
 A: The team strictly cannot comment on exchanges unless it was previously publicly announced information. Refer to our 
-announcement channel https://t.me/cubeon for official news.
+announcement channel [https://t.me/cubeon](https://t.me/cubeon "Telegram") for official news.
 
 Tokens have been transferable September 17th, 2018.
 
@@ -29,9 +29,8 @@ This amount is indicative of the mainnet requirement but amount will only be 100
 testnet period is complete.
 
 Rewards are paid to the nodes in the form of fees paid by the traders for the work done matching orders. 
-See https://wooriapt.github.io  for more general explanation.
-Extensive details will be released closer to the testnet launch — read introduction to nodes here: https://wooriapt.github.io
-
+See [https://wooriapt.github.io ](https://wooriapt.github.io  "Github")  for more general explanation.
+Extensive details will be released closer to the testnet launch — read introduction to nodes here: [https://wooriapt.github.io ](https://wooriapt.github.io  "Github")
 Q: What is the token distribution?
 
 A:
@@ -44,7 +43,7 @@ A: Republic Protocol is based in Estonia >
 Q: Where can I find more information on the team?
 
 A: More information on the team can be found on github at 
-https://github.com/wooriapt79
+[https://github.com/wooriapt79](https://github.com/wooriapt79 "github team info")
 
 Q: What is the vesting schedule for Team and Advisors CUBE ON tokens?
 
