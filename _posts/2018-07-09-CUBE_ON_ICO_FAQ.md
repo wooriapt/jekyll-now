@@ -77,7 +77,8 @@ A: Pre-sale participants received between 0–15% bonus. This bonus is not locke
 Q: Was there any bonus for the main crowdsale participants?
 A: No
 
-Q: What stage of development is the project in and the future roadmap?
+Q: What stage of development is the project in and the future roadmap?.
+
 A: We have an internal testnet prototype with the Testnet for Bitcoin/Ethereum-based assets on track for testnet launch in 
 Q2 2018, most likely in October.
 
@@ -90,4 +91,4 @@ A: CUBE ON is an open source project. More extensive documentation will be relea
 which will explain all of the mechanics of the protocol in depth for developers. Requests for Comments and Pull Requests will 
 also be able to be made on our github.
 
-We are also always looking for developers, contact dany.me.park@gmail..com with your Github/Experience/links to past projects.
+We are also always looking for developers, emailto ://contact dany.me.park@gmail..com with your Github/Experience/links to past projects.
