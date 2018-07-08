@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CUBE ON Token Sale Agreement_
+title: CUBE ON Token Sale Agreement_1
 date: 2018-07-07 00:00:00 +0000
 ---
 Purchase Agreement_
