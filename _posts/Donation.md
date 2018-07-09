@@ -1,0 +1,32 @@
+---
+layout: post
+title: Donate ETH!
+---
+
+<script>
+var tipButton = document.querySelector('.tip-button');
+tipButton.addEventListener('click', function() {
+  if (typeof web3 === 'undefined') {
+    return alert('You need to install MetaMask to use this feature.')
+  }
+  var user_address = web3.eth.accounts[0];
+  if (typeof user_address === 'undefined') {
+    return alert('You need to log in MetaMask to use this feature.')
+  }
+  web3.eth.sendTransaction({
+    to: "0x04f4b14279714abee7b9b1568d487c1586860a8d",
+    from: user_address,
+    value: web3.toWei('0.005', 'ether'),
+  }, function (err, transactionHash) {
+    if (err) return alert('Thanks for trying out!');
+    alert('Thanks for the generosity!!');
+  })
+})
+</script>
+
+[<a href="https://etherdonation.com/d?to=0x04f4b14279714abee7B9b1568D487C1586860a8D&amount=0.002" target="_blank" title="Donate ETH"><img src="https://etherdonation.com/i/btn/donate-btn.png" alt="Donate ETH"/></a>]
+(<a href="https://etherdonation.com/d?to=0x04f4b14279714abee7B9b1568D487C1586860a8D&amount=0.002" target="_blank" title="Donate ETH"><img src="https://etherdonation.com/i/btn/donate-btn.png" alt="Donate ETH"/></a> "A Cup of Coffee")
+
+[https://etherdonation.com/d?to=0x04f4b14279714abee7B9b1568D487C1586860a8D&amount=0.002](https://etherdonation.com/d?to=0x04f4b14279714abee7B9b1568D487C1586860a8D&amount=0.002 "A Cup of Coffee")
+
+[https://goo.gl/i2hNf5](https://goo.gl/i2hNf5 "A Cup of Coffee")
