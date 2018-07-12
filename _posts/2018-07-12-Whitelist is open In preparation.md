@@ -7,8 +7,7 @@ title: Whitelist is open In preparation
 “CUBE ON Whitelist — Live on July 2, 2018y”
 
 
--USD 3 million dollars left for the public round
-
+-USD 3 million dollars left for the public round.
 -Whitelist is open for 5,000 contributors
 
 They are only accepting 5,000 qualified whitelisted applicants to participate in our public contribution round. 
@@ -18,11 +17,11 @@ joined our [Telegram](https://t.me/cubeon) community.
 
 Apply to be whitelisted — [cube on](http://cubeon.co.in)
 
-https://
 
 
 
-### And will cube on ever be able to build the blockchain they are promising?
+
+And will cube on ever be able to build the blockchain they are promising?
 
 cube on is claiming to build a blockchain solution which will eventually reach a cube on transactions per second and will solve the scalability issues for forever. 
 They have recently completed their crowdsale. 
