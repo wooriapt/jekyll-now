@@ -4,7 +4,7 @@ title: CUBE ON Crowd Sale
 ---
 
 
-![_config.yml]({{ site.baseurl }}/images/blockchain.jpg){: .center-image }
+![_config.yml]({{ site.baseurl }}/images/blockchain.jpg){: .center-image }(height="50" width="48")
 
 
 Estonia Blockchain Lab.
