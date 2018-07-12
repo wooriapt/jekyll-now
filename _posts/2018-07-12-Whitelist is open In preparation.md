@@ -8,6 +8,7 @@ title: Whitelist is open In preparation
 
 
 -USD 3 million dollars left for the public round.
+
 -Whitelist is open for 5,000 contributors
 
 They are only accepting 5,000 qualified whitelisted applicants to participate in our public contribution round. 
@@ -16,9 +17,6 @@ joined our [Telegram](https://t.me/cubeon) community.
 
 
 Apply to be whitelisted — [cube on](http://cubeon.co.in)
-
-
-
 
 
 And will cube on ever be able to build the blockchain they are promising?
@@ -32,12 +30,13 @@ The Whitelisting Procedure.(as planned)
 During the whitelisting, CUBE ON Tokens used three main aspects to determine the scores of interested crowdsale participants.
  
  
-      -Timestamp of Telegram join.
-      -Your understanding of the product.
-      -Your contribution to the project
+-Timestamp of Telegram join.
+-Your understanding of the product.
+-Your contribution to the project
     
 
-cube on also explained their system in a blog article. 
+cube on also explained their system in a blog article.
+ 
 Following is a part of their Escrow token of interpersonal transaction system explanation:
 
 
