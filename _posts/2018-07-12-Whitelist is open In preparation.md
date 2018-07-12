@@ -31,7 +31,9 @@ During the whitelisting, CUBE ON Tokens used three main aspects to determine the
  
  
 -Timestamp of Telegram join.
+
 -Your understanding of the product.
+
 -Your contribution to the project
     
 
