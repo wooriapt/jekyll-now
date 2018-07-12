@@ -24,17 +24,24 @@ https://
 
 ### And will cube on ever be able to build the blockchain they are promising?
 
-cube on is claiming to build a blockchain solution which will eventually reach a gazillion transactions per second and will solve the scalability issues for forever. They have recently completed their crowdsale. In this article we will discuss if they have actually met their promises related to their crowdsale.
+cube on is claiming to build a blockchain solution which will eventually reach a cube on transactions per second and will solve the scalability issues for forever. 
+They have recently completed their crowdsale. 
+In this article we will discuss if they have actually met their promises related to their crowdsale.
 
-The Whitelisting Procedure and the lottery (as planned)
+The Whitelisting Procedure.(as planned)
 
-During the whitelisting, QuarkChain used three main aspects to determine the scores of interested crowdsale participants. 
+During the whitelisting, CUBE ON Tokens used three main aspects to determine the scores of interested crowdsale participants.
+ 
       a. Timestamp of Telegram join 
+
       b. Your understanding of the product
+
       c. Your contribution to the project
-cube on also explained their lottery system in a steemit article. Following is a part of their lottery system explanation:
+
+cube on also explained their system in a blog article. 
+Following is a part of their Escrow token of interpersonal transaction system explanation:
 
 
-Before the lottery
----
-Prior to their whitelisting, they uploaded their lottery code on git
+after to their whitelisting, 
+they uploaded their Escrow token of interpersonal transaction system Development Plan on git.
+
