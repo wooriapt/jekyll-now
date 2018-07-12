@@ -31,11 +31,11 @@ The Whitelisting Procedure.(as planned)
 
 During the whitelisting, CUBE ON Tokens used three main aspects to determine the scores of interested crowdsale participants.
  
-      a. Timestamp of Telegram join 
-
-      b. Your understanding of the product
-
+ 
+      a. Timestamp of Telegram join.
+      b. Your understanding of the product.
       c. Your contribution to the project
+    
 
 cube on also explained their system in a blog article. 
 Following is a part of their Escrow token of interpersonal transaction system explanation:
