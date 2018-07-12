@@ -2,7 +2,7 @@
 
 
 
-“CUBE ON Whitelist — Live on 5th July”
+“CUBE ON Whitelist — Live on July 2, 2018y”
 
 -USD 3M left for the public round
 -Whitelist is open for 5,000 contributors
