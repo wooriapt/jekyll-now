@@ -17,10 +17,13 @@ Apply to be whitelisted — https://""/.
 https://
 
 
+
+And will cube on ever be able to build the blockchain they are promising?
 ---
-# And will cube on ever be able to build the blockchain they are promising?
 cube on is claiming to build a blockchain solution which will eventually reach a gazillion transactions per second and will solve the scalability issues for forever. They have recently completed their crowdsale. In this article we will discuss if they have actually met their promises related to their crowdsale.
-# The Whitelisting Procedure and the lottery (as planned)
+
+The Whitelisting Procedure and the lottery (as planned)
+---
 During the whitelisting, QuarkChain used three main aspects to determine the scores of interested crowdsale participants. 
       a. Timestamp of Telegram join 
       b. Your understanding of the product
@@ -28,5 +31,6 @@ During the whitelisting, QuarkChain used three main aspects to determine the sco
 cube on also explained their lottery system in a steemit article. Following is a part of their lottery system explanation:
 
 
-# Before the lottery
+Before the lottery
+---
 Prior to their whitelisting, they uploaded their lottery code on git
