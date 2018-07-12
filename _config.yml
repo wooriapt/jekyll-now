@@ -12,7 +12,7 @@ description: BlockChain Developer from service
 avatar: https://raw.githubusercontent.com/wooriapt/wooriapt.github.io/master/images/blockchain.jpg
 #
 # Flags below are optional
-disqus set
+# disqus set
 disqus_url: https://cubeon.disqus.com/
 disqus_id: danymepark
 #
