@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Whitelist is open In preparation 
+title: Whitelist is open in preparation 
 ---
 
 
 “CUBE ON Whitelist — Live on July 2, 2018y”
-
 
 -USD 3 million dollars left for the public round.
 
