@@ -10,18 +10,24 @@ OTT Coin protocol — head office. Branch. Marketing channel For ERC 2.0 Coi
 
 1. ERC 2,0 : A CLASS OF IDENTICAL TOKENS.
 
-본사. 지사.가맹점용 COIN 발행.
-Risk hatch 기존 지사 모집에 대한 Deposit 자금의 코인 대체를 통한 ‘상장’ 가능성을 열어둠.
+business main frame: head office. Branch. Marketing channel.
 
-1–1. 기존 보증금의 환급개념을 코인 상장이 대체해주기에 보증금의 아쉬움이 조금은 어필하기가 쉬움.
+Risk hatch: 
+Deposit
 
-1.2 공동의 목표-코인상장 -정해지기에 단기적인 비즈니스 집중력과 장기적인 기대심리를 함께 충족시킬수 있다.
+marketing.
 
-1–3. Condition.
+business roadmap
 
-지사 3,000 개
+Developmentroadmap
 
-가맹점 지사*100
+1–2. Condition.
+
+Branch...3000
+
+Marketing channel:Branch*100 
+
+
 
 2. [ERC 721](http://erc721.org) A CLASS OF UNIQUE TOKENS
 
