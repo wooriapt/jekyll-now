@@ -24,11 +24,15 @@ Risk hatch 기존 지사 모집에 대한 Deposit 자금의 코인 대체를 통
 가맹점 지사*100
 
 2. [ERC 721](http://erc721.org) A CLASS OF UNIQUE TOKENS
+
 customer. consumer Coin.
+
 Use like mileage or exchange ERC 20 tokens - for sale
 
-3. Encryption currency exchange 
-ERC 20(5) : ERC 721(10)-Policy decision. Holders of exchange sales on the Encryption currency exchange. And purchasing.
+3. Encryption currency exchange
+
+ERC 20(5) : ERC 721(10)-Policy decision. 
+Holders of exchange sales on the Encryption currency exchange. And purchasing.
 
 
 
