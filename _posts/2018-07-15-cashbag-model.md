@@ -2,10 +2,8 @@
 layout: post
 title: CashBag model
 ---
-
-
 Cashbag Tokens Symbol OTT.
----
+
 OTT Coin protocol — head office. Branch. Marketing channel For ERC 2.0 Coin & User's Coin two Type.
 
 1. ERC 2,0 : A CLASS OF IDENTICAL TOKENS.
