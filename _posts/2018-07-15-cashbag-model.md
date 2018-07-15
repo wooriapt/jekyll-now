@@ -4,12 +4,12 @@ title: CashBag model
 ---
 
 
-Cashbag coin Symbol OTT.
+Cashbag Tokens Symbol OTT.
 ---
 OTT Coin protocol — head office. Branch. Marketing channel For ERC 2.0 Coin & User's Coin two Type.
 
 1. ERC 2,0 : A CLASS OF IDENTICAL TOKENS.
----
+
 본사. 지사.가맹점용 COIN 발행.
 Risk hatch 기존 지사 모집에 대한 Deposit 자금의 코인 대체를 통한 ‘상장’ 가능성을 열어둠.
 
@@ -25,7 +25,7 @@ Risk hatch 기존 지사 모집에 대한 Deposit 자금의 코인 대체를 통
 
 2. [ERC 721](http://erc721.org) A CLASS OF UNIQUE TOKENS
 customer. consumer Coin.
----
+
 마일리지 규칙대로 그대로 소비자에게 주어짐.
 향후 ERc 2.0 상장 후 교환.
 
