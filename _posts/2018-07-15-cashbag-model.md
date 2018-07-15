@@ -25,12 +25,10 @@ Risk hatch 기존 지사 모집에 대한 Deposit 자금의 코인 대체를 통
 
 2. [ERC 721](http://erc721.org) A CLASS OF UNIQUE TOKENS
 customer. consumer Coin.
+Use like mileage or exchange ERC 20 tokens - for sale
 
-마일리지 규칙대로 그대로 소비자에게 주어짐.
-향후 ERc 2.0 상장 후 교환.
-
-ERC 20(5) : ERC 721(10)교환-정책 결정.
-소지자는 교환하여 거래소에 판매. 및 구매.
+3. Encryption currency exchange 
+ERC 20(5) : ERC 721(10)-Policy decision. Holders of exchange sales on the Encryption currency exchange. And purchasing.
 
 
 
