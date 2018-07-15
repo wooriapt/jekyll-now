@@ -2,6 +2,7 @@
 layout: post
 title: CashBag model
 ---
+
 cashbag coin_OTT.
 
 OTT Coin protocol — 본사.지사.가맹점용 Coin과 소비자용 Coin 2가지를 발행한다.
