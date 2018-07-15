@@ -1,9 +1,10 @@
 ---
 layout: post
-title: CashBag model
+title: Whitelist
 ---
 
-cashbag coin_OTT.
+
+cashbag coin OTT.
 
 OTT Coin protocol — 본사.지사.가맹점용 Coin과 소비자용 Coin 2가지를 발행한다.
 
