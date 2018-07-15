@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Whitelist
+title: "CashBag model"
 ---
 
 
