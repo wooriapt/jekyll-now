@@ -7,9 +7,9 @@ title: ERC20,ERC223,ERC777 Ethereum Token Standards
 ERC20,ERC223,ERC777 Ethereum Token Standards
 ---
 
-![_config.yml]({{ site.baseurl }}/images/1_smE2TyCcRv8sa0RZY9GSzw.png)
-
 Very few people know about the existence of other token standards besides the well-known ERC20 standard. It’s not all sunshine and roses for the ERC20 token standard. A security bug has caused the loss of millions of dollars in the ICO space. That’s why ERC223 and ERC777 jumped in to provide security and better transaction handling mechanisms. Let’s explore this.
+
+![_config.yml]({{ site.baseurl }}/images/1_smE2TyCcRv8sa0RZY9GSzw.png)
 
 WHAT IS ERC20?
 Before we can dive deep into the issues with ERC20, let’s give a general overview of what ERC20 is. ERC itself stands for “Ethereum Request for Comment”. It is a document containing improvements for an existing token standard. In Computer Science terminology, this is called a Request for Comments (RFC).
