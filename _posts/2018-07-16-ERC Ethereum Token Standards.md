@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ethereum Token Standards
+title: 'Ethereum Token Standards'
 ---
 
 "ERC20,ERC223,ERC777"- 
