@@ -1,7 +1,6 @@
 ---
 layout: post
-title: ERC20,ERC223,ERC777 Ethereum Token Standards
-
+title: Ethereum Token Standards
 ---
 
 ERC20,ERC223,ERC777 Ethereum Token Standards
