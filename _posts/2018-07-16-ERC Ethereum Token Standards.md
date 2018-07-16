@@ -1,10 +1,11 @@
 ---
 layout: post
 title: ERC20, ERC223, and ERC777 Ethereum Token Standards
+
 ---
 
-####Comparing ERC20, ERC223, and ERC777 Ethereum Token Standards
-by ICO CrowdApril 16, 2018 0 Comments
+Comparing ERC20, ERC223, and ERC777 Ethereum Token Standards
+---
 
 ![](wooriapt.github.io/images/1_smE2TyCcRv8sa0RZY9GSzw.png)
 
