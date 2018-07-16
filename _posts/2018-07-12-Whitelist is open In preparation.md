@@ -2,28 +2,12 @@
 layout: post
 title: Whitelist is open in preparation 
 ---
-# MetaMask Browser Extension
+##CUBE ON Whitelist — Live on July 2, 2018y
+
 [![Build Status](https://circleci.com/gh/MetaMask/metamask-extension.svg?style=shield&circle-token=a1ddcf3cd38e29267f254c9c59d556d513e3a1fd)](https://circleci.com/gh/MetaMask/metamask-extension) [![Coverage Status](https://coveralls.io/repos/github/MetaMask/metamask-extension/badge.svg?branch=master)](https://coveralls.io/github/MetaMask/metamask-extension?branch=master) [![Greenkeeper badge](https://badges.greenkeeper.io/MetaMask/metamask-extension.svg)](https://greenkeeper.io/) [![Stories in Ready](https://badge.waffle.io/MetaMask/metamask-extension.png?label=in%20progress&title=waffle.io)](https://waffle.io/MetaMask/metamask-extension)
 
-## Support
 
-If you're a user seeking support, [here is our support site](https://metamask.helpscoutdocs.com/).
-
-## Introduction
-
-[Mission Statement](./MISSION.md)
-
-[Internal documentation](./docs#documentation)
-
-## Developing Compatible Dapps
-
-If you're a web dapp developer, we've got two types of guides for you:
-
-### New Dapp Developers
-
-
-
-“CUBE ON Whitelist — Live on July 2, 2018y”
+CUBE ON Whitelist — Live on July 2, 2018y
 
 -USD 3 million dollars left for the public round.
 
@@ -35,6 +19,9 @@ joined our [Telegram](https://t.me/cubeon) community.
 
 
 Apply to be whitelisted — [cube on](http://cubeon.co.in)
+
+[![Build Status](https://circleci.com/gh/MetaMask/metamask-extension.svg?style=shield&circle-token=a1ddcf3cd38e29267f254c9c59d556d513e3a1fd)](https://circleci.com/gh/MetaMask/metamask-extension) [![Coverage Status](https://coveralls.io/repos/github/MetaMask/metamask-extension/badge.svg?branch=master)](https://coveralls.io/github/MetaMask/metamask-extension?branch=master) [![Greenkeeper badge](https://badges.greenkeeper.io/MetaMask/metamask-extension.svg)](https://greenkeeper.io/) [![Stories in Ready](https://badge.waffle.io/MetaMask/metamask-extension.png?label=in%20progress&title=waffle.io)](https://waffle.io/MetaMask/metamask-extension)
+
 
 
 And will cube on ever be able to build the blockchain they are promising?
