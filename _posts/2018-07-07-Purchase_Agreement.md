@@ -1,10 +1,20 @@
 ---
+title: Token Sale Agreement
 layout: post
-title: CUBE ON Token Sale Agreement
-date: 2018-07-07 00:00:00 +0000
+description: Projects by CuBe oN College
+publish_date: 2018-07-07 03:00:00 +0000
+menu:
+  footer:
+    identifier: _projects
+    url: "/projects/"
+    weight: 2
+  navigation:
+    identifier: _projects
+    weight: 3
 ---
-Purchase Agreement
 
+Purchase Agreement
+---
 Last updated: June 1, 2018.
 
 PLEASE READ THESE TERMS OF TOKEN SALE CAREFULLY.
@@ -125,4 +135,4 @@ A private key, or a combination of private keys, is necessary to control and dis
 
 Because Tokens are based on the Ethereum protocol, any malfunction, breakdown or abandonment of the Ethereum protocol may have a material adverse effect on the Tokens. Moreover, advances in cryptography, or technical advances such as the development of quantum computing, could present risks to the Tokens by rendering ineffective the cryptographic consensus mechanism that underpins the Ethereum protocol.
 
-[https://wooriapt.github.io/Purchase-Agreement_1/](https://wooriapt.github.io/Purchase-Agreement_2/ "Purchase Agreement_2.md")
+[Purchase-Agreement_1/](https://wooriapt.github.io/Purchase-Agreement_2/ "Purchase Agreement_2.md")
