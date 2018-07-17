@@ -63,15 +63,16 @@ Moreover, if the decentralized exchange contract does not implement an emergency
 
 For example (based on today’s prices 3/7/2018):
 
-•$730,000 worth of EOS stuck in contract
+- $730,000 worth of EOS stuck in contract
+ 
+- $520,000 worth of Qtum stuck in contract
 
-•$520,000 worth of Qtum stuck in contract
+- $123,000 worth of STORJ stuck in contract
 
-•$123,000 worth of STORJ stuck in contract
+- 310,067 GNT are stuck in Golem contract worth of $120,000
 
-•310,067 GNT are stuck in Golem contract worth of $120,000
+- 14,506 1ST are stuck in FirstBlood contract worth of $4,600
 
-•14,506 1ST are stuck in FirstBlood contract worth of $4,600
 
 WHY ARE WE STILL USING ERC20?
 ---
