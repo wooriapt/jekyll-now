@@ -16,9 +16,6 @@ menu:
 ### chat [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/wooriapt?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
 
-
-
-
 ### Cashbag Tokens Symbol OTT.
 
 OTT Coin protocol — head office. Branch. Marketing channel For ERC 2.0 Coin & User's Coin two Type.
@@ -57,7 +54,7 @@ Holders of exchange sales on the Encryption currency exchange. And purchasing.
 
 
 참조.
----
+-----
 [ERC 721](http://erc721.org)
 ERC-721 is a free, open standard that describes how to build non-fungible or unique tokens on the Ethereum blockchain. 
 While most tokens are fungible (every token is the same as every other token), ERC-721 tokens are all unique. 
