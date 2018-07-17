@@ -79,15 +79,15 @@ WHY ARE WE STILL USING ERC20?
 ERC20 is widely adopted in the ICO space, even when knowing about this critical bug. 
 Below are a few reasons as to why we are still using ERC20:
 
-1 Token developers are not responsible for possible losses. Why would they spend time and money investigating new standards like ERC223 and ERC777 when they can easily createa new smart contract for an ICO with little effort? In addition, these standards are new and not yet widely adopted which makes it hard to find proper documentation and examples.
+- Token developers are not responsible for possible losses. Why would they spend time and money investigating new standards like ERC223 and ERC777 when they can easily createa new smart contract for an ICO with little effort? In addition, these standards are new and not yet widely adopted which makes it hard to find proper documentation and examples.
 
-2 The Ethereum Foundation is still promoting its ERC20 standard even though they are aware of the critical bug. It is not clear why the Ethereum Foundation is not moving forward to newer and better token standards as they have officially accepted these standards.
+- The Ethereum Foundation is still promoting its ERC20 standard even though they are aware of the critical bug. It is not clear why the Ethereum Foundation is not moving forward to newer and better token standards as they have officially accepted these standards.
 
-3 The main reason for token development is fund grabbing. Human nature I guess?
+- The main reason for token development is fund grabbing. Human nature I guess?
 
-4 Dexaran told us the usage of a new token standard will lead to higher network effects. The Ethereum network knows about its scalability issues and this is a possible reason for not adopting any other standards.
+- Dexaran told us the usage of a new token standard will lead to higher network effects. The Ethereum network knows about its scalability issues and this is a possible reason for not adopting any other standards.
 
-5 Some token standards like ERC777 are not compatible with ERC20. This implicates that wallets and exchanges will have to change their code to be able to offer support for these new token standards. However, the ERC223 standard created by Dexaran is backward compatible with ERC20. No extra efforts are needed for storing an ERC223 token in your MyEtherWallet for example.
+- Some token standards like ERC777 are not compatible with ERC20. This implicates that wallets and exchanges will have to change their code to be able to offer support for these new token standards. However, the ERC223 standard created by Dexaran is backward compatible with ERC20. No extra efforts are needed for storing an ERC223 token in your MyEtherWallet for example.
 
 ERC223 STANDARD
 ---
