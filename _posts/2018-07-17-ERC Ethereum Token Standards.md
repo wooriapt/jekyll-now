@@ -104,11 +104,9 @@ ERC777 has come up with an excellent way to solve the issues related to the tran
 ...
 The ERC777 standard replaces the following functions:
 
-•transfer -> send
-
-•approve -> authorizeOperator
-
-•tokenFallback -> tokensReceived
+1. transfer -> send 
+1. approve -> authorizeOperator
+1. tokenFallback -> tokensReceived
 
 Using this set of new functions guarantees that the functions of this standard will not cross and override with functions from earlier standards.
 
