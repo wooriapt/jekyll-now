@@ -23,8 +23,8 @@ menu:
 
 OTT Coin protocol — head office. Branch. Marketing channel For ERC 2.0 Coin & User's Coin two Type.
 
-1.ERC 2,0 : A CLASS OF IDENTICAL TOKENS.
-
+ERC 2,0 : A CLASS OF IDENTICAL TOKENS.
+---
 business main frame: head office. Branch. Marketing channel.
 
 Risk hatch: 
@@ -36,27 +36,28 @@ business roadmap
 
 Developmentroadmap
 
-2.Condition.
-
+Condition.
+---
 Branch...3000
 
 Marketing channel:Branch*100 
 
 
 
-3.[ERC 721](http://erc721.org) A CLASS OF UNIQUE TOKENS
-
+[ERC 721](http://erc721.org) A CLASS OF UNIQUE TOKENS
+---
 customer. consumer Coin.
 
 Use like mileage or exchange ERC 20 tokens - for sale
 
-4.Encryption currency exchange.
+Encryption currency exchange.
+---
 ERC 20(5) : ERC 721(10)-Policy decision. 
 Holders of exchange sales on the Encryption currency exchange. And purchasing.
 
 
 참조.
-
+---
 [ERC 721](http://erc721.org)
 ERC-721 is a free, open standard that describes how to build non-fungible or unique tokens on the Ethereum blockchain. 
 While most tokens are fungible (every token is the same as every other token), ERC-721 tokens are all unique. 
