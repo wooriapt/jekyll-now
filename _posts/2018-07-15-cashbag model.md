@@ -1,8 +1,21 @@
 ---
-layout: post
 title: CashBag model
+layout: post
+description: Projects by CuBe oN College
+publish_date: 2018-07-01 03:00:00 +0000
+menu:
+  footer:
+    identifier: _projects
+    url: "/projects/"
+    weight: 2
+  navigation:
+    identifier: _projects
+    weight: 3
 ---
-Cashbag Tokens Symbol OTT.
+
+### chat [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/wooriapt?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+
+### Cashbag Tokens Symbol OTT.
 
 OTT Coin protocol — head office. Branch. Marketing channel For ERC 2.0 Coin & User's Coin two Type.
 
