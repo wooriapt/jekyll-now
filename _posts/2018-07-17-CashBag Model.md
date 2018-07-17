@@ -22,7 +22,7 @@ menu:
 ### Cashbag Tokens Symbol OTT.
 
 OTT Coin protocol — head office. Branch. Marketing channel For ERC 2.0 Coin & User's Coin two Type.
-1. ERC 2,0 : A CLASS OF IDENTICAL TOKENS.
+1.ERC 2,0 : A CLASS OF IDENTICAL TOKENS.
 business main frame: head office. Branch. Marketing channel.
 Risk hatch: 
 Deposit:
@@ -36,13 +36,13 @@ Marketing channel:Branch*100
 
 
 
-3. [ERC 721](http://erc721.org) A CLASS OF UNIQUE TOKENS
+3.[ERC 721](http://erc721.org) A CLASS OF UNIQUE TOKENS
 
 customer. consumer Coin.
 
 Use like mileage or exchange ERC 20 tokens - for sale
 
-4. Encryption currency exchange.
+4.Encryption currency exchange.
 ERC 20(5) : ERC 721(10)-Policy decision. 
 Holders of exchange sales on the Encryption currency exchange. And purchasing.
 
