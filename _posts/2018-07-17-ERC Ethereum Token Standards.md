@@ -20,7 +20,11 @@ menu:
 ERC20, ERC223, ERC777
 ---
 
-Very few people know about the existence of other token standards besides the well-known ERC20 standard. It’s not all sunshine and roses for the ERC20 token standard. A security bug has caused the loss of millions of dollars in the ICO space. That’s why ERC223 and ERC777 jumped in to provide security and better transaction handling mechanisms. Let’s explore this.
+Very few people know about the existence of other token standards besides the well-known ERC20 standard. 
+It’s not all sunshine and roses for the ERC20 token standard. 
+A security bug has caused the loss of millions of dollars in the ICO space. 
+That’s why ERC223 and ERC777 jumped in to provide security and better transaction handling mechanisms. 
+Let’s explore this.
 
 ![_config.yml]({{ site.baseurl }}/images/1_smE2TyCcRv8sa0RZY9GSzw.png)
 
