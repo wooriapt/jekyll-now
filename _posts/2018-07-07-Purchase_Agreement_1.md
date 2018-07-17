@@ -1,10 +1,10 @@
 ---
 layout: post
-title: CUBE ON Token Sale Agreement_1
+title: Token Sale Agreement_1
 date: 2018-07-07 00:00:00 +0000
 ---
-Purchase Agreement_1
-
+Purchase Agreement_one
+---
 Last updated: June 1, 2018.
 
 PLEASE READ THESE TERMS OF TOKEN SALE CAREFULLY.
@@ -140,4 +140,4 @@ ELECTRONIC COMMUNICATIONS
 
 9\.8. Participant agrees and acknowledges that all agreements, notices, disclosures and other communications that the Company provides the Participant pursuant to this Agreement or in connection with or related to Participant’s purchase of CUBE ON Tokens, including this Agreement may be provided by the Company, in its sole discretion, in electronic form.
 
-[https://wooriapt.github.io/Purchase-Agreement/](https://wooriapt.github.io/Purchase-Agreement/ "Purchase-Agreement.md")
+[Purchase-Agreement/](https://wooriapt.github.io/Purchase-Agreement/ "Purchase-Agreement.md")
