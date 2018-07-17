@@ -77,15 +77,15 @@ WHY ARE WE STILL USING ERC20?
 ERC20 is widely adopted in the ICO space, even when knowing about this critical bug. 
 Below are a few reasons as to why we are still using ERC20:
 
-1.Token developers are not responsible for possible losses. Why would they spend time and money investigating new standards like ERC223 and ERC777 when they can easily createa new smart contract for an ICO with little effort? In addition, these standards are new and not yet widely adopted which makes it hard to find proper documentation and examples.
+1 Token developers are not responsible for possible losses. Why would they spend time and money investigating new standards like ERC223 and ERC777 when they can easily createa new smart contract for an ICO with little effort? In addition, these standards are new and not yet widely adopted which makes it hard to find proper documentation and examples.
 
-2.The Ethereum Foundation is still promoting its ERC20 standard even though they are aware of the critical bug. It is not clear why the Ethereum Foundation is not moving forward to newer and better token standards as they have officially accepted these standards.
+2 The Ethereum Foundation is still promoting its ERC20 standard even though they are aware of the critical bug. It is not clear why the Ethereum Foundation is not moving forward to newer and better token standards as they have officially accepted these standards.
 
-3.The main reason for token development is fund grabbing. Human nature I guess?
+3 The main reason for token development is fund grabbing. Human nature I guess?
 
-4.Dexaran told us the usage of a new token standard will lead to higher network effects. The Ethereum network knows about its scalability issues and this is a possible reason for not adopting any other standards.
+4 Dexaran told us the usage of a new token standard will lead to higher network effects. The Ethereum network knows about its scalability issues and this is a possible reason for not adopting any other standards.
 
-5.Some token standards like ERC777 are not compatible with ERC20. This implicates that wallets and exchanges will have to change their code to be able to offer support for these new token standards. However, the ERC223 standard created by Dexaran is backward compatible with ERC20. No extra efforts are needed for storing an ERC223 token in your MyEtherWallet for example.
+5 Some token standards like ERC777 are not compatible with ERC20. This implicates that wallets and exchanges will have to change their code to be able to offer support for these new token standards. However, the ERC223 standard created by Dexaran is backward compatible with ERC20. No extra efforts are needed for storing an ERC223 token in your MyEtherWallet for example.
 
 ERC223 STANDARD
 ---
@@ -107,15 +107,22 @@ The ERC777 standard replaces the following functions:
 •approve -> authorizeOperator
 
 •tokenFallback -> tokensReceived
-...
+
 Using this set of new functions guarantees that the functions of this standard will not cross and override with functions from earlier standards.
 
-ERC777 SECURITY CONCERNS The authorizeOperator() function allows for someone to manage tokens on your behalf. According to Dexaran, this is a deprecated functionality and moreover, it hurts the network’s bandwidth as more transactions are required. The first transaction is the ‘authorizeOperator’ call, next you authorize the withdrawal. Why do we need two transactions to simply send some tokens to a smart contract?
+ERC777 SECURITY CONCERNS The authorizeOperator() function allows for someone to manage tokens on your behalf. 
+According to Dexaran, this is a deprecated functionality and moreover, it hurts the network’s bandwidth as more transactions are required. The first transaction is the ‘authorizeOperator’ call, next you authorize the withdrawal. Why do we need two transactions to simply send some tokens to a smart contract?
 
-Besides that, the check for the tokensReceived() function is set to optional. It’s strange to give developers the possibility to make this check optional as this problem has already led to major losses.
+Besides that, the check for the tokensReceived() function is set to optional. 
+It’s strange to give developers the possibility to make this check optional as this problem has already led to major losses.
 
-Many Reddit users are concerned about the use of a central registry. Firstly, all contracts need to be registered. Next, why should we trust this central registry? Some prefer a trust less registry as there is no need for having a central one. Other users would prefer if each contract simply stated what standards they accept. In this case, we can get rid of all checks for the tokenFallback() function.
+Many Reddit users are concerned about the use of a central registry. 
+Firstly, all contracts need to be registered. Next, why should we trust this central registry? 
+Some prefer a trust less registry as there is no need for having a central one. Other users would prefer if each contract 
+simply stated what standards they accept. In this case, we can get rid of all checks for the tokenFallback() function.
 
 CONCLUSION
 ----
-Use the ERC20 standard if you want your users to lose money. We hope that the Ethereum community will move to better standards like ERC223 (security) or ERC777 (more transaction handling mechanisms & adoption). It’s not only the fault of developers. The Ethereum Foundation itself needs to take responsibility and promote other token standards.
+Use the ERC20 standard if you want your users to lose money. We hope that the Ethereum community will move to better standards 
+like ERC223 (security) or ERC777 (more transaction handling mechanisms & adoption). 
+It’s not only the fault of developers. The Ethereum Foundation itself needs to take responsibility and promote other token standards.
