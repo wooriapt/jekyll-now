@@ -24,15 +24,22 @@ menu:
 OTT Coin protocol — head office. Branch. Marketing channel For ERC 2.0 Coin & User's Coin two Type.
 
 1.ERC 2,0 : A CLASS OF IDENTICAL TOKENS.
+
 business main frame: head office. Branch. Marketing channel.
+
 Risk hatch: 
-Deposit:
-marketing:
+Deposit
+
+marketing.
+
 business roadmap
+
 Developmentroadmap
 
 2.Condition.
+
 Branch...3000
+
 Marketing channel:Branch*100 
 
 
