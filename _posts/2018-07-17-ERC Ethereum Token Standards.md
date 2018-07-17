@@ -34,13 +34,13 @@ WHAT DOES A STANDARD LIKE ERC20 REPRESENT?
 ---
 An Ethereum standard represents a set of functions developers can use when creating smart contract code with Solidity. To give you an idea of some of the available functions:
 
-• balanceOf(address_owner): Returns the balance for the account you gave.
+-balanceOf(address_owner): Returns the balance for the account you gave.
 
-• transfer(address_to, uint256_value): Transfer a certain amount of tokens to another address.
+-transfer(address_to, uint256_value): Transfer a certain amount of tokens to another address.
 
-• approve(address_spender, uint256_value): Give permission to a certain address to withdraw a specified amount of tokens from your account.
+-approve(address_spender, uint256_value): Give permission to a certain address to withdraw a specified amount of tokens from your account.
 
-• totalSupply(): Returns total token supply.
+-totalSupply(): Returns total token supply.
 
 ERC20 CRITICAL BUG
 ---
@@ -50,9 +50,10 @@ The ERC20 standard was proposed in 2015 and officially formalized in September 2
 
 ERC20 ASSUMES TWO WAYS OF PERFORMING A TOKEN TRANSACTION:
 
-1.transfer(): As you have seen above, this function transfers a certain amount of tokens to another wallet address.
+*transfer(): As you have seen above, this function transfers a certain amount of tokens to another wallet address.
 
-2.approve() + transferFrom(): With this combination, you can allow a smart contract to withdraw the specified amount of tokens from your balance. 
+*approve() + transferFrom(): With this combination, you can allow a smart contract to withdraw the specified amount of tokens from your balance. 
+
 For example, you want to send 1 ETH to a new ICO project you like. 
 But what if you use the transfer() function to send tokens to a smart contract by accident? The transaction will succeed but this transaction will not be recognized by the recipient contract.
 
