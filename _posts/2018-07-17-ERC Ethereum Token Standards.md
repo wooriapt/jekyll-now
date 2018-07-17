@@ -5,11 +5,11 @@ description: Projects by CuBe oN College
 publish_date: 2018-07-01 03:00:00 +0000
 menu:
   footer:
-    identifier: _projects
-    url: "/projects/"
+    identifier: _posts
+    url: "/posts/"
     weight: 2
   navigation:
-    identifier: _projects
+    identifier: _posts
     weight: 3
 ---
 
