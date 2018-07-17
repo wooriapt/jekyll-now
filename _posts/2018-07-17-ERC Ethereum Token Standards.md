@@ -32,24 +32,25 @@ Let’s explore this.
 WHAT IS ERC20?
 ---
 Before we can dive deep into the issues with ERC20, let’s give a general overview of what ERC20 is. 
-ERC itself stands for “Ethereum Request for Comment”. 
+ERC itself stands for “Ethereum Request for Comment"
 
 It is a document containing improvements for an existing token standard. 
 In Computer Science terminology, this is called a Request for Comments (RFC).
 
-An Ethereum developer can submit an Ethereum Improvement Proposal (EIP) that describes technical updates for an existing token standard. Once the proposal is accepted by a committee, it becomes an ERC token standard.
+An Ethereum developer can submit an Ethereum Improvement Proposal (EIP) that describes technical updates for an existing token standard. 
+Once the proposal is accepted by a committee, it becomes an ERC token standard.
 
 WHAT DOES A STANDARD LIKE ERC20 REPRESENT?
 ---
-An Ethereum standard represents a set of functions developers can use when creating smart contract code with Solidity. To give you an idea of some of the available functions:
+*An Ethereum standard represents a set of functions developers can use when creating smart contract code with Solidity. To give you an idea of some of the available functions:
 
--balanceOf(address_owner): Returns the balance for the account you gave.
+*balanceOf(address_owner): Returns the balance for the account you gave.*
 
--transfer(address_to, uint256_value): Transfer a certain amount of tokens to another address.
+*transfer(address_to, uint256_value): Transfer a certain amount of tokens to another address.*
 
--approve(address_spender, uint256_value): Give permission to a certain address to withdraw a specified amount of tokens from your account.
+*approve(address_spender, uint256_value): Give permission to a certain address to withdraw a specified amount of tokens from your account.*
 
--totalSupply(): Returns total token supply.
+*totalSupply(): Returns total token supply.*
 
 ERC20 CRITICAL BUG
 ---
@@ -75,7 +76,7 @@ Moreover, if the decentralized exchange contract does not implement an emergency
 For example (based on today’s prices 3/7/2018):
 
 - $730,000 worth of EOS stuck in contract
- 
+
 - $520,000 worth of Qtum stuck in contract
 
 - $123,000 worth of STORJ stuck in contract
@@ -110,16 +111,18 @@ This implicates that wallets and exchanges will have to change their code to be 
 ERC223 STANDARD
 ---
 Dexaran is one of the first developers who reported this bug and in response created the ERC223 standard. 
-This improved standard solves the ERC20 critical bug. Whenever you try to send tokens to a smart contract with the transfer() function an error will be thrown and the transfer will be cancelled.
+This improved standard solves the ERC20 critical bug.
+Whenever you try to send tokens to a smart contract with the transfer() function an error will be thrown and the transfer will be cancelled.
 
-It’s not as simple as that. Dexaran modified the transfer() function to check whether the receiving address is a smart contract. 
-If that’s the case, the transfer() function will cancel the transaction by triggering the tokenFallback() function in the smart contract. 
+Its not as simple as that. Dexaran modified the transfer() function to check whether the receiving address is a smart contract. 
+If that's the case, the transfer() function will cancel the transaction by triggering the tokenFallback() function in the smart contract. 
 The main weakness here is the lack of a tokenFallback() function in the receiving smart contract. If the developers didn’t implement this, the token transfer will still fail. 
 
 The tokenFallback() function is responsible for returning the sent funds.
 
-In brief, ERC223 focuses on security. Dexeran has created a modified transfer() function that can be used for both normal addresses as smart contracts. 
-It will first try to call the tokenFallback() function on the receiver’s contract to see if there is one. 
+In brief, ERC223 focuses on security. 
+Dexeran has created a modified transfer() function that can be used for both normal addresses as smart contracts. 
+It will first try to call the tokenFallback() function on the receiver's contract to see if there is one. 
 If not, the transaction will fail, if there is one, the transaction succeeds. In addition, this new transfer() function holds a data field to allow smart contracts to perform more complex operations using the added transaction data.
 
 ERC777 STANDARD The ERC777 standard tries to offer more transaction handling mechanism to solve ERC20’s poor transaction handling problems. ERC777 is focused on adoption and better transaction handling.
@@ -127,7 +130,7 @@ ERC777 STANDARD The ERC777 standard tries to offer more transaction handling mec
 ERC777 has come up with an excellent way to solve the issues related to the transfer() function. Every contract on the 
 Ethereum network must be registered in a central smart contract registry. 
 Everyone can use this registry to lookup if a certain address supports a certain set of functions. 
-So, this would make it possible to first lookup if the receiver’s smart contract has a tokenFallback() function implemented. 
+So, this would make it possible to first lookup if the receiver's smart contract has a tokenFallback() function implemented. 
 However, the ERC777 token standard inherits the ERC20 critical bug.
 
 The ERC777 standard replaces the following functions:
