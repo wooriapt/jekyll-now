@@ -73,17 +73,17 @@ Reddit user u/Dexaran, creator of the ERC223 token standard, explains what happe
 
 Moreover, if the decentralized exchange contract does not implement an emergency token extraction function, then it’s impossible to get your tokens back in any case, resulting in a permanent loss of the tokens. Due to this bug, the Ethereum ecosystem has lost millions of dollars already.”
 
-For example (based on today’s prices 3/7/2018):
+For example (based on today's prices 3/7/2018):
 
-- $730,000 worth of EOS stuck in contract
+*$730,000 worth of EOS stuck in contract*
 
-- $520,000 worth of Qtum stuck in contract
+*$520,000 worth of Qtum stuck in contract*
 
-- $123,000 worth of STORJ stuck in contract
+*$123,000 worth of STORJ stuck in contract*
 
-- 310,067 GNT are stuck in Golem contract worth of $120,000
+*310,067 GNT are stuck in Golem contract worth of $120,000
 
-- 14,506 1ST are stuck in FirstBlood contract worth of $4,600
+14,506 1ST are stuck in FirstBlood contract worth of $4,600*
 
 
 WHY ARE WE STILL USING ERC20?
@@ -92,20 +92,20 @@ ERC20 is widely adopted in the ICO space, even when knowing about this critical 
 
 Below are a few reasons as to why we are still using ERC20:
 
-- Token developers are not responsible for possible losses. 
+###### Token developers are not responsible for possible losses. 
 Why would they spend time and money investigating new standards like ERC223 and ERC777 when they can easily createa new smart contract for an ICO with little effort? 
 In addition, these standards are new and not yet widely adopted which makes it hard to find proper documentation and examples.
 
-- The Ethereum Foundation is still promoting its ERC20 standard even though they are aware of the critical bug. 
+###### The Ethereum Foundation is still promoting its ERC20 standard even though they are aware of the critical bug. 
 It is not clear why the Ethereum Foundation is not moving forward to newer and better token standards as they have officially 
 accepted these standards.
 
-- The main reason for token development is fund grabbing. Human nature I guess?
+###### The main reason for token development is fund grabbing. Human nature I guess?
 
-- Dexaran told us the usage of a new token standard will lead to higher network effects. 
+###### Dexaran told us the usage of a new token standard will lead to higher network effects. 
 The Ethereum network knows about its scalability issues and this is a possible reason for not adopting any other standards.
 
-- Some token standards like ERC777 are not compatible with ERC20. 
+###### Some token standards like ERC777 are not compatible with ERC20. 
 This implicates that wallets and exchanges will have to change their code to be able to offer support for these new token standards. However, the ERC223 standard created by Dexaran is backward compatible with ERC20. No extra efforts are needed for storing an ERC223 token in your MyEtherWallet for example.
 
 ERC223 STANDARD
@@ -135,9 +135,9 @@ However, the ERC777 token standard inherits the ERC20 critical bug.
 
 The ERC777 standard replaces the following functions:
 
-1. transfer -> send 
-1. approve -> authorizeOperator
-1. tokenFallback -> tokensReceived
+transfer -> send 
+approve -> authorizeOperator
+tokenFallback -> tokensReceived
 
 Using this set of new functions guarantees that the functions of this standard will not cross and override with functions from earlier standards.
 
