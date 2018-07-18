@@ -16,4 +16,4 @@ Q3. Ethereum Quantity of distribution.
 
 Q4. ICO period Gas Fee total.
 
-![_config.yml]({{ site.baseurl }}/images/20170803ddbfe1589fd39a3f9.jpg)
+![_config.yml]({{ site.baseurl }}/images/1_WmRoRbTn1nLAyc7_iTvwWQ.jpeg)
