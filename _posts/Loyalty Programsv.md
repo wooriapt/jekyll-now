@@ -20,17 +20,17 @@ Projects Loyalty Programs
  Loyalty Program Table of Contents	 
  -----------------	 
  	 
--  * [What Is a Loyalty Program?](#envirius")	
+- [What Is a Loyalty Program?](#envirius")	
 -    * [Idea](#idea")	
 -    * [Features](#features")	
--  * [Why does it matter?](#installation")
--  * [But are these points valuable at all?](#uninstallation")
--  * [So Blockchain can add them value?](#available-plugins")
--  * [And how does it benefit merchants?](#usage")	
+- [Why does it matter?](#installation")
+- [But are these points valuable at all?](#uninstallation")
+- [So Blockchain can add them value?](#available-plugins")
+- [And how does it benefit merchants?](#usage")	
 -    * [Check available plugins](#check-available-plugins")	
 -    * [Check available versions for each plugin](#check-available-versions-for-each-plugin")	
 -    * [Create an environment](#create-an-environment")
--  * [How is this valuable to miners?] (#usage")
+- [How is this valuable to miners?] (#usage")
 
 
 #### 1. What Is a Loyalty Program?
