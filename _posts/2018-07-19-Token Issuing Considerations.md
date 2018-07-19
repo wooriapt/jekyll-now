@@ -1,5 +1,5 @@
 ---
-title:Token Issuing Considerations
+title: Token Issuing Considerations
 layout: post
 description: Projects by CuBe oN College
 publish_date: 2018-07-19 12:18:48 Thursday
@@ -12,6 +12,8 @@ menu:
     identifier: _projects
     weight: 3
 ---
+
+
 IEO, IFO, IAO, ICO — Token Issuing Considerations
 ---
 
