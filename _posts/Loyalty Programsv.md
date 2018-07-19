@@ -16,31 +16,21 @@ Projects Loyalty Programs
 ---
 ## chat [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/wooriapt?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
-* List
 
-{:toc}
- Table of Contents	 Table of Contents
- -----------------	 -----------------
+ Loyalty Program Table of Contents	 
+ -----------------	 
  	 
--  * [Envirius](#envirius")	+  * [Envirius](#envirius)
--    * [Idea](#idea")	+    * [Idea](#idea)
--    * [Features](#features")	+    * [Features](#features)
--  * [Installation](#installation")	+  * [Installation](#installation)
--  * [Uninstallation](#uninstallation")	+  * [Uninstallation](#uninstallation)
--  * [Available plugins](#available-plugins")	+  * [Available plugins](#available-plugins)
--  * [Usage](#usage")	+  * [Usage](#usage)
--    * [Check available plugins](#check-available-plugins")	+    * [Check available plugins](#check-available-plugins)
--    * [Check available versions for each plugin](#check-available-versions-for-each-plugin")	+    * [Check available versions for each plugin](#check-available-versions-for-each-plugin)
+-  * [What Is a Loyalty Program?](#envirius")	
+-    * [Idea](#idea")	
+-    * [Features](#features")	
+-  * [Why does it matter?](#installation")
+-  * [But are these points valuable at all?](#uninstallation")
+-  * [So Blockchain can add them value?](#available-plugins")
+-  * [And how does it benefit merchants?](#usage")	
+-    * [Check available plugins](#check-available-plugins")	
+-    * [Check available versions for each plugin](#check-available-versions-for-each-plugin")	
 -    * [Create an environment](#create-an-environment")
-
-|?.   | Loyalty Program?  |
-| ------------ | ------------ |
-|1.  |What Is a Loyalty Program?|
-|2.  |Why does it matter?   |
-|3.  | But are these points valuable at all?  |
-|4.   |So Blockchain can add them value?   |
-|5.   | And how does it benefit merchants?  |
-|6.   |  How is this valuable to miners? |
+-  * [How is this valuable to miners?] (#usage")
 
 
 #### 1. What Is a Loyalty Program?
