@@ -21,15 +21,15 @@ Projects Loyalty Programs
  -----------------	 
  	 
 - [What Is a Loyalty Program?](#envirius")	
--    * [Idea](#idea")	
--    * [Features](#features")	
+     * [Idea](#idea")	
+     * [Features](#features")	
 - [Why does it matter?](#installation")
 - [But are these points valuable at all?](#uninstallation")
 - [So Blockchain can add them value?](#available-plugins")
 - [And how does it benefit merchants?](#usage")	
--    * [Check available plugins](#check-available-plugins")	
--    * [Check available versions for each plugin](#check-available-versions-for-each-plugin")	
--    * [Create an environment](#create-an-environment")
+     * [Check available plugins](#check-available-plugins")	
+     * [Check available versions for each plugin](#check-available-versions-for-each-plugin")	
+     * [Create an environment](#create-an-environment")
 - [How is this valuable to miners?] (#usage")
 
 
