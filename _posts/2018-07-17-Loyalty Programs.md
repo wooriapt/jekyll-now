@@ -23,7 +23,11 @@ Projects Loyalty Programs
 Cashbag Tokens Symbol OTT.
 OTT Coin protocol — head office. Branch. Marketing channel For ERC 2.0 Coin & User’s Coin two Type.
 
-ERC 2,0 : A CLASS OF IDENTICAL TOKENS. business main frame: head office. Branch. Marketing channel.
+ERC 2,0 : A CLASS OF IDENTICAL TOKENS. 
+
+business main frame: 
+
+head office. Branch. Marketing channel.
 
 Risk hatch: 
 Deposit
