@@ -20,7 +20,7 @@ Projects Loyalty Programs
  Loyalty Program Table of Contents	 
  -----------------	 
  	 
-- [What Is a Loyalty Program?](#envirius")	
+- [What Is a Loyalty Program?](#what")	
      * [Idea](#idea")	
      * [Features](#features")	
 - [Why does it matter?](#installation")
