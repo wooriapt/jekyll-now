@@ -117,9 +117,9 @@ ARBITRATION
 
 8\.3. Notice to initiate arbitration proceeding shall be sent by email to the Company at arbitration@bitnation.co. Your notice must include your name, postal address, email address and telephone number, description in reasonable detail of the nature or basis of the Dispute, and the specific relief that you are seeking.
 
-Article 9.
+##### Article 9.
 GOVERNING LAW AND VENUE
----
+
 9\.1. These Terms will be governed by and construed and enforced in accordance with the laws of Belize, without regard to conflict of law rules or principles that would cause the application of the laws of any other jurisdiction.
 
 9\.2. Any Dispute between the Parties arising out or relating to these Terms or its subject matter or formation (including non-contractual Disputes of claims) that is not subject to arbitration will be resolved in the courts of Belize.
