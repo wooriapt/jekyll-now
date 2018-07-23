@@ -1,5 +1,5 @@
 ---
-title: Token Sale Agreement
+title: Token Sale Agreement 1page
 layout: post
 description: Projects by CuBe oN College
 publish_date: 2018-07-07 03:00:00 +0000
@@ -17,10 +17,11 @@ Purchase Agreement
 ---
 Last updated: June 1, 2018.
 
-PLEASE READ THESE TERMS OF TOKEN SALE CAREFULLY.
-IF YOU DO NOT AGREE TO THESE TERMS OF SALE, DO NOT PURCHASE TOKENS.
+*please read these terms of token sale carefully.
+if you do not agree to these terms of sale, do not purchase tokens.*
+2018-07-23 오후 4:11:50
 
-CUBE ON Token Sale Agreement
+##### CUBE ON Token Sale Agreement
 This agreement is made by and between This agreement is made by and between Estonia Blockchain Lab number:
 \(the Company) and the Participant.
 
@@ -38,7 +39,7 @@ by reference. If you have any questions regarding these terms, please contact Co
 
 The Company and the Participant agree as follows:
 
-Article 1.
+##### Article 1.
 BINDING AGREEMENT.
 1\.1. This Agreement shall be effective and binding on the Parties when Participant clicks the check box on the official
 https://cubeon.co.in website (the “Website”) to indicate that Participant has read, understands and agrees to the term of
@@ -49,7 +50,7 @@ WHITE PAPER.
 https://cubeon.co.in. The White Paper, as it may be amended from time to time, is hereby incorporated by reference. Participant
 has to read and understands the White Paper and its contents.
 
-CUBE ON TOKENS
+##### CUBE ON TOKENS
 1\.3. The CUBE ON tokens are non-refundable and purchases cannot be cancelled, the Participant may lose all amounts paid.
 
 1\.4. The CUBE ON tokens do not have any rights, uses, purposes, attributes, functionalities or features, expressed or
@@ -68,7 +69,7 @@ prospectus or offering document, and are not an offer to sell, nor the solicitat
 1\.7. Participant acknowledges and understands that the proceeds from the sale of the CUBE ON tokens will be utilized by
 the Company in its sole discretion, as described in the White Paper.
 
-Article 2.
+##### Article 2.
 CUBE ON TOKEN SALE SPECIFICATIONS
 2\.1. Important information about the procedures and materials specifications of the Company’s Token sale is provided
 in the White Paper document, including, but not limited to, details regarding the timing and pricing of the Token sale,
@@ -81,7 +82,7 @@ through any other means other than the official Website are not sanctioned or ag
 Participant should take great care that the website used to purchase CUBE ON Tokens has the following uniform resource locator
 \(URL): https://cubeon.co.in/.
 
-NO U.S. PURCHASES.
+*no u.s. purchases.*
 
 2\.2. The CUBE ON Tokens are not being offered to U.S. person. U.S. person are strictly prohibited and restricted from
 using the CUBE ON Tokens and/or purchasing CUBE ON Tokens and the Company is not soliciting purchases by U.S.
@@ -103,12 +104,12 @@ any loss of business, revenues, profits, data, use, goodwill or other intangible
 incurred by a Party that arises from or is a result of such U.S. person unlawful, unauthorized or fraudulent use of the
 CUBE ON Token Sale Agreement and/or the receipt or purchase of CUBE ON Tokens.
 
-CANCELLATION AND REFUSAL OF PURCHASE REQUEST.
+##### CANCELLATION AND REFUSAL OF PURCHASE REQUEST.
 2\.5. Participant’s purchase of CUBE ON Tokens during the Sale period is final, and there are no refunds or cancellations,
 except as may be required by applicable law or regulation. The Company reserves the right to refuse or cancel Token purchase
 requests at any time in its sole discretion.
 
-Article 3.
+##### Article 3.
 SECURITY AND DATA PRIVACY
 3\.1. The Company will implement reasonable and appropriate measures designed to secure access to any device associated with the
 Participant and utilized in connection with the Participant’s purchase of CUBE ON Tokens, private keys to the Participant’s
@@ -119,7 +120,7 @@ in its sole discretion, deems necessary or appropriate to comply with any laws, 
 limitation judicial process. The Participant acknowledges that the Company may refuse to distribute CUBE ON Tokens to the
 Participant until such requested information is provided.
 
-Article 4.
+##### Article 4.
 THE PARTICIPANT KNOWLEDGE OF RISKS
 4\.1. The Participant has sufficient knowledge and experience in business and financial matters, including a sufficient understanding of blockchain or cryptographic tokens and other digital assets, smart contracts, storage mechanisms ( such as digital or token wallets), blockchain-based software systems and blockchain technology, to be able to evaluate the risks and merits of purchase of CUBE ON tokens and is able to bear the risks thereof, including loss of all amounts paid or loss of CUBE ON tokens.
 
@@ -131,7 +132,7 @@ THE PARTICIPANT KNOWLEDGE OF RISKS
 
 A private key, or a combination of private keys, is necessary to control and dispose of Tokens stored in your digital wallet or vault. Accordingly, loss of requisite private key(s) associated with your digital wallet or vault storing Tokens will result in loss of such Tokens. Moreover, any third party that gains access to such private key(s), including by gaining access to login credentials of a hosted wallet service you use, may be able to misappropriate your Tokens.
 
-1. Risks Associated with the Ethereum Protocol
+##### Risks Associated with the Ethereum Protocol
 
 Because Tokens are based on the Ethereum protocol, any malfunction, breakdown or abandonment of the Ethereum protocol may have a material adverse effect on the Tokens. Moreover, advances in cryptography, or technical advances such as the development of quantum computing, could present risks to the Tokens by rendering ineffective the cryptographic consensus mechanism that underpins the Ethereum protocol.
 
