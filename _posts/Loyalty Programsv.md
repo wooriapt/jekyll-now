@@ -29,6 +29,7 @@ Projects Loyalty Programs
    - Check 123Cashbag plugins  
    - Check 123Cashbag vision for each plugin  
 6. [How is this valuable to miners?][valuable to miners?]   
+7. [Cashbag Tokens Symbol OTT][Symbol OTT]  
 
 [What Is a Loyalty Program?]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/Loyalty%20Programsv.md#1-what-is-a-loyalty-program "What Is a Loyalty Program?"
 [matter]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/Loyalty%20Programsv.md#2-why-does-it-matter "Why does it matter?"
@@ -36,6 +37,7 @@ Projects Loyalty Programs
 [Blockchain]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/Loyalty%20Programsv.md#4-so-blockchain-can-add-them-value "So Blockchain can add them value?"
 [benefit merchants?]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/Loyalty%20Programsv.md#5-and-how-does-it-benefit-merchants "And how does it benefit merchants?"
 [valuable to miners?]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/Loyalty%20Programsv.md#6-how-is-this-valuable-to-miners "How is this valuable to miners?"
+[Symbol OTT]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/Loyalty%20Programsv.md#7-cashbag-tokens-symbol-ott "7. Cashbag Tokens Symbol OTT"  
 
 #### 1. What Is a Loyalty Program?
 
@@ -82,8 +84,8 @@ Marketing Channel's are also rewarded.
 123 Player in the Element's  network are rewarded 50 Element coins per Local Area and the network allows them to Provision up to 144,000 coins per day. 
 Like most other cryptocurrencies, these coins can be exchanged for other cryptocurrencies or fiat currencies. However, the biggest value is in the market size of the loyalty management market, which researchers at Research and Markets predict would be worth $6.2 bln by 2020. The monetary value and universal usage advantage that a cryptocurrency brings could make customers embrace it en masse, which would drive the value of the cryptocurrency itself.
 
-### 7. Cashbag Tokens Symbol OTT.  
-### OTT Coin protocol:   
+#### 7. Cashbag Tokens Symbol OTT.  
+#### OTT Coin protocol:   
 head office. Branch. Marketing channel For ERC 2.0 Coin & User’s Coin two Type.  
 ### ERC 2,0 : A CLASS OF IDENTICAL TOKENS.   
 
