@@ -11,23 +11,44 @@ Purchase Agreement_one
 *please read these terms of token sale carefully.
 if you do not agree to these terms of sale, do not purchase tokens.*
 
-1. Risk of Mining Attacks  
-2. Risk of Hacking and Security Weaknesses  
-3. Risks Associated with Markets for Tokens
-4. Risk of Uninsured Losses
-5. Risks Associated with Uncertain Regulations and Enforcement Actions
-6. Risks Arising from Taxation
-7. Risk of Alternative Networks
-8. Risk of Insufficient Interest in the Network or Distributed Applications
-9. Risks Associated with the Development and Maintenance of the Network
-10. Risk of an Unfavourable Fluctuation of Ether and Other Currency Value
-11. Risk of Dissolution of the Company or Network
-12. Risks Arising from Lack of Governance Rights
-13. Risks Involving Cloud Storage
-14. Unanticipated Risks
- - Article 5
- - Article 6
- - Article 7
+## index
+
+[1. Risk of Mining Attacks][Mining]  
+[2. Risk of Hacking and Security Weaknesses][Security]  
+[3. Risks Associated with Markets for Tokens][Markets for Tokens]  
+[4. Risk of Uninsured Losses][Uninsured Losses]  
+[5. Risks Associated with Uncertain Regulations and Enforcement Actions][Enforcement Actions]  
+[6. Risks Arising from Taxation][Arising from Taxation]  
+[7. Risk of Alternative Networks][Alternative Networks]  
+[8. Risk of Insufficient Interest in the Network or Distributed Applications][ Distributed Applications]  
+[9. Risks Associated with the Development and Maintenance of the Network][ Development and Maintenance of the Network]  
+[10. Risk of an Unfavourable Fluctuation of Ether and Other Currency Value][Currency Value]  
+[11. Risk of Dissolution of the Company or Network][Company or Network]  
+[12. Risks Arising from Lack of Governance Rights][ Governance Rights]  
+[13. Risks Involving Cloud Storage][Cloud Storage]  
+[14. Unanticipated Risks][Unanticipated Risks]  
+ - [Article 5][Article 5]  
+ - [Article 6][Article 6]  
+ - [Article 7][Article 7]  
+
+[Mining]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/2018-07-07-Purchase_Agreement_1.md#1-risk-of-mining-attacks "1. Risk of Mining Attacks"
+[Security]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/2018-07-07-Purchase_Agreement_1.md#2-risk-of-hacking-and-security-weaknesses "2. Risk of Hacking and Security Weaknesses"
+[Markets for Tokens]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/2018-07-07-Purchase_Agreement_1.md#3-risks-associated-with-markets-for-tokens "3. Risks Associated with Markets for Tokens"
+[Uninsured Losses]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/2018-07-07-Purchase_Agreement_1.md#4-risk-of-uninsured-losses "4. Risk of Uninsured Losses"
+[Enforcement Actions]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/2018-07-07-Purchase_Agreement_1.md#5-risks-associated-with-uncertain-regulations-and-enforcement-actions "5. Risks Associated with Uncertain Regulations and Enforcement Actions"
+[Arising from Taxation]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/2018-07-07-Purchase_Agreement_1.md#6-risks-arising-from-taxation "6. Risks Arising from Taxation"
+[Alternative Networks]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/2018-07-07-Purchase_Agreement_1.md#7-risk-of-alternative-networks "7. Risk of Alternative Networks"
+[ Distributed Applications]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/2018-07-07-Purchase_Agreement_1.md#8-risk-of-insufficient-interest-in-the-network-or-distributed-applications "8. Risk of Insufficient Interest in the Network or Distributed Applications"
+[ Development and Maintenance of the Network]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/2018-07-07-Purchase_Agreement_1.md#9-risks-associated-with-the-development-and-maintenance-of-the-network "9. Risks Associated with the Development and Maintenance of the Network"
+[Currency Value]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/2018-07-07-Purchase_Agreement_1.md#10-risk-of-an-unfavourable-fluctuation-of-ether-and-other-currency-value "10. Risk of an Unfavourable Fluctuation of Ether and Other Currency Value"
+[Company or Network]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/2018-07-07-Purchase_Agreement_1.md#11-risk-of-dissolution-of-the-company-or-network "11. Risk of Dissolution of the Company or Network"
+[ Governance Rights]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/2018-07-07-Purchase_Agreement_1.md#12-risks-arising-from-lack-of-governance-rights "12. Risks Arising from Lack of Governance Rights"
+[Cloud Storage]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/2018-07-07-Purchase_Agreement_1.md#13-risks-involving-cloud-storage "13. Risks Involving Cloud Storage"
+[Unanticipated Risks]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/2018-07-07-Purchase_Agreement_1.md#14-unanticipated-risks "14. Unanticipated Risks"
+[Article 5]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/2018-07-07-Purchase_Agreement_1.md#article-5 "Article 5"
+[Article 6]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/2018-07-07-Purchase_Agreement_1.md#article-6 "Article 6"
+[Article 7]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/2018-07-07-Purchase_Agreement_1.md#article-7 "Article 7"
+
 
 #### 1. Risk of Mining Attacks
 
