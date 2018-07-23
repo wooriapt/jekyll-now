@@ -13,7 +13,7 @@ if you do not agree to these terms of sale, do not purchase tokens.*
 2018-07-23 오후 4:11:50
 
 
-####1. Risk of Mining Attacks
+#### 1. Risk of Mining Attacks
 
 As with other decentralised cryptographic tokens based on the Ethereum protocol, the Tokens are susceptible to attacks by miners in the course of validating Token transactions on the Ethereum blockchain, including, but not limited, to double-spend attacks, majority mining power attacks, and selfish-mining attacks. Any successful attacks present a risk to the Tokens, including, but not limited to, accurate execution and recording of transactions involving Tokens.
 
@@ -144,4 +144,4 @@ ELECTRONIC COMMUNICATIONS
 --------
 9\.8. Participant agrees and acknowledges that all agreements, notices, disclosures and other communications that the Company provides the Participant pursuant to this Agreement or in connection with or related to Participant’s purchase of CUBE ON Tokens, including this Agreement may be provided by the Company, in its sole discretion, in electronic form.
 
-[Purchase-Agreement/](https://wooriapt.github.io/Purchase-Agreement/Purchase-Agreement.md)
+[Purchase-Agreement/](https://wooriapt.github.io/_posts/Purchase-Agreement.md)
