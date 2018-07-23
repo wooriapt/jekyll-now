@@ -17,21 +17,25 @@ Projects Loyalty Programs
 ## chat [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/wooriapt?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
 
- Loyalty Program Table of Contents	 
- -----------------	 
- 	 
-- [What Is a Loyalty Program?](#what")	
-     * [Idea](#idea")	
-     * [Features](#features")	
-- [Why does it matter?](#installation")
-- [But are these points valuable at all?](#uninstallation")
-- [So Blockchain can add them value?](#available-plugins")
-- [And how does it benefit merchants?](#usage")	
-     * [Check available plugins](#check-available-plugins")	
-     * [Check available versions for each plugin](#check-available-versions-for-each-plugin")	
-     * [Create an environment](#create-an-environment")
-- [How is this valuable to miners?] (#usage")
+### Loyalty Program Table of Contents
 
+1. [What Is a Loyalty Program?][What Is a Loyalty Program?]  
+   - Idea   
+   - Features  
+2. [Why does it matter?][matter]  
+3. [But are these points valuable at all?][ valuable at all?]  
+4. [So Blockchain can add them value?][Blockchain]  
+5. [And how does it benefit merchants?][benefit merchants?]  
+   - Check 123Cashbag plugins  
+   - Check 123Cashbag versions for each plugin  
+6. [How is this valuable to miners?][valuable to miners?]   
+
+[What Is a Loyalty Program?]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/Loyalty%20Programsv.md#1-what-is-a-loyalty-program "What Is a Loyalty Program?"
+[matter]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/Loyalty%20Programsv.md#2-why-does-it-matter "Why does it matter?"
+[ valuable at all?]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/Loyalty%20Programsv.md#3-but-are-these-points-valuable-at-all "But are these points valuable at all?"
+[Blockchain]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/Loyalty%20Programsv.md#4-so-blockchain-can-add-them-value "So Blockchain can add them value?"
+[benefit merchants?]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/Loyalty%20Programsv.md#5-and-how-does-it-benefit-merchants "And how does it benefit merchants?"
+[valuable to miners?]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/Loyalty%20Programsv.md#6-how-is-this-valuable-to-miners "How is this valuable to miners?"
 
 #### 1. What Is a Loyalty Program?
 
