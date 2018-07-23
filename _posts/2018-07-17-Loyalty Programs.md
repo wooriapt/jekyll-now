@@ -28,11 +28,11 @@ head office. Branch. Marketing channel For ERC 2.0 Coin & User’s Coin two Type
 business main frame:   
 head office. Branch. Marketing channel.
 
-Risk hatch:   
-Deposit  
-marketing  
-business roadmap  
-Developmentroadmap  
+- Risk hatch:
+- Deposit:
+- marketing:
+- business roadmap:
+- Development roadmap:  
 
 ##### Condition  
 Branch…3000  
