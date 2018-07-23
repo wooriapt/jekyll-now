@@ -31,6 +31,8 @@ if you do not agree to these terms of sale, do not purchase tokens.*
  - [Article 6][Article 6]  
  - [Article 7][Article 7] 
 
+----------  
+
 
 [Mining]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/2018-07-07-Purchase_Agreement_1.md#1-risk-of-mining-attacks "1. Risk of Mining Attacks"
 [Security]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/2018-07-07-Purchase_Agreement_1.md#2-risk-of-hacking-and-security-weaknesses "2. Risk of Hacking and Security Weaknesses"
