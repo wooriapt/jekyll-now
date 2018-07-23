@@ -27,7 +27,7 @@ Projects Loyalty Programs
 4. [So Blockchain can add them value?][Blockchain]  
 5. [And how does it benefit merchants?][benefit merchants?]  
    - Check 123Cashbag plugins  
-   - Check 123Cashbag versions for each plugin  
+   - Check 123Cashbag vision for each plugin  
 6. [How is this valuable to miners?][valuable to miners?]   
 
 [What Is a Loyalty Program?]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/Loyalty%20Programsv.md#1-what-is-a-loyalty-program "What Is a Loyalty Program?"
