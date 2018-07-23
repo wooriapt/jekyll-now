@@ -16,9 +16,11 @@ menu:
 Purchase Agreement
 ---
 Last updated: June 1, 2018.
+List updated: 2018-07-23 오후 4:11:50
 
 *please read these terms of token sale carefully.
 if you do not agree to these terms of sale, do not purchase tokens.*
+
 2018-07-23 오후 4:11:50
 
 ##### CUBE ON Token Sale Agreement
