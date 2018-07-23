@@ -18,9 +18,26 @@ Purchase Agreement
 - Last updated: June 1, 2018
 - List updated: 2018-07-23 오후 4:11:50
 
-*please read these terms of token sale carefully.
+*please read these terms of token sale carefully.  
 if you do not agree to these terms of sale, do not purchase tokens.*
 
+
+### List
+
+
+[CUBE ON Token Sale Agreement][Token Sale]  
+[CUBE ON TOKENS][CUBE ON TOKENS]  
+[cancellation and refusal of purchase request][purchase request]  
+[Risks Associated with the Ethereum Protocol][Ethereum Protocol]  
+
+
+--------
+[Token Sale]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/2018-07-07-Purchase_Agreement.md#cube-on-token-sale-agreement "CUBE ON Token Sale Agreement"
+[CUBE ON TOKENS]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/2018-07-07-Purchase_Agreement.md#cube-on-tokens "CUBE ON TOKENS"
+[purchase request]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/2018-07-07-Purchase_Agreement.md#cancellation-and-refusal-of-purchase-request "cancellation and refusal of purchase request"
+[Ethereum Protocol]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/2018-07-07-Purchase_Agreement.md#cancellation-and-refusal-of-purchase-request "Risks Associated with the Ethereum Protocol"
+
+  
 
 ##### CUBE ON Token Sale Agreement
 This agreement is made by and between This agreement is made by and between Estonia Blockchain Lab number:
