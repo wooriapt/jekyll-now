@@ -75,8 +75,10 @@ Another benefit of a universal loyalty cryptocurrency to merchants is that it co
 
 The traditional loyalty points have no monetary value to the merchant after it’s been spent. And that’s why it’s a win for merchants because, a Blockchain-based currency could be traded for fiat currency, helping them recoup, at least, some of the sales made with loyalty points.
 
-#### 6. How is this valuable to miners?
+#### 6. How is this valuable to Marketing Channel's ?
 
-Miners are also rewarded.
+Marketing Channel's are also rewarded.
 
-Miners in the Elements (ELM) network are rewarded 50 Element coins per block solved and the network allows them to mine up to 144,000 coins per day. Like most other cryptocurrencies, these coins can be exchanged for other cryptocurrencies or fiat currencies. However, the biggest value is in the market size of the loyalty management market, which researchers at Research and Markets predict would be worth $6.2 bln by 2023. The monetary value and universal usage advantage that a cryptocurrency brings could make customers embrace it en masse, which would drive the value of the cryptocurrency itself.
+123 Player in the Element's  network are rewarded 50 Element coins per Local Area and the network allows them to Provision up to 144,000 coins per day. 
+Like most other cryptocurrencies, these coins can be exchanged for other cryptocurrencies or fiat currencies. However, the biggest value is in the market size of the loyalty management market, which researchers at Research and Markets predict would be worth $6.2 bln by 2020. The monetary value and universal usage advantage that a cryptocurrency brings could make customers embrace it en masse, which would drive the value of the cryptocurrency itself.
+
