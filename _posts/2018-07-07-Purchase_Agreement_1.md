@@ -79,16 +79,16 @@ As the Company provides a decentralised cloud storage service to individual and 
 
 Cryptographic tokens such as the Tokens are a new and untested technology. In addition to the risks included in this article, there are other risks associated with your purchase, holding and use of Tokens, including those that the Company cannot anticipate. Such risks may further materialize as unanticipated variations or combinations of the risks discussed in this article.
 
-Article 5.
+##### Article 5.
 ANTI MONEY LAUNDERING-COUNTER TERRORISM FINANCING
---------
+
 5\.1. To the extent required by applicable law, the Participant complies with all anti-money laundering and counter-terrorism financing requirements.
 
 5\.2. The funds, including any fiat, virtual currency or cryptocurrency, the Participant uses to purchase CUBE ON Tokens, are not derived from or related to any unlawful activities, including but not limited to money laundering or terrorist financing, and the Participant will not use the CUBE ON Tokens to finance, engage in, or otherwise support any unlawful activities.
 
-Article 6.
+##### Article 6.
 LIMITATION OF LIABILITY
---------
+
 6\.1. To the fullest extent permitted by applicable law, the Participant disclaims any right or cause of action against the Company of any kind in any jurisdiction that would give rise to any damages whatsoever, on the part of the Company.
 
 6\.2. The Company shall not be liable to the Participant for any type of damages, whether direct, indirect, incidental, special, punitive, consequential or exemplary (including damages for lost profits, goodwill, use or data), even if and notwithstanding the extent to which the Company has been advised of the possibility of such damages.
@@ -99,18 +99,18 @@ LIMITATION OF LIABILITY
 
 6\.5. Participant understands and agrees that the Company shall not be liable and disclaims all liability to the Participant in connection with any force majeure, including any industrial disturbances, electrical, telecommunications, hardware, software or other utility failures, software or smart contract bugs or weaknesses, earthquakes, storms, or other nature-related events, blockages, embargoes, riots, acts or orders of government, acts of terrorism or war, technological change, changes in interest rates or other monetary conditions, and, for the avoidance of doubt, changes to any blockchain-related protocol.
 
-Article 7.
+##### Article 7.
 DISCLAIMERS
---------
+
 7\.1. To the fullest extent permitted by applicable law and except as otherwise specified in a writing by the Company, the tokens are sold on an “as is” and “as available” basis without warranties of any kind, and the Company expressly disclaim all implied warranties as to the tokens, including, without limitation, implied warranties of merchantability, fitness for a particular purpose, title and non-infringement.
 
 7\.2. The Company does not represent or warrant that the tokens are reliable, current or error-free, meet your requirements, or that defects in the tokens will be corrected and cannot and do not represent or warrant that the tokens or the delivery mechanism for tokens are free of viruses or other harmful components.
 
 7\.3. Certain jurisdictions do not allow the exclusion of certain warranties or disclaimer of implied terms in contracts with consumers, so some or all of the exclusions of warranties and disclaimers in this section may not apply to you.
 
-Article 8.
+##### Article 8.
 ARBITRATION
---------
+
 8\.1. Any dispute, controversy or claim arising out of, or in relation to, this agreement, including the validity, invalidity, breach, or termination thereof, shall be resolved by arbitration in accordance with the Rules of International Arbitration in force on the date on which the Notice of Arbitration is submitted in accordance with these Rules.
 
 8\.2. The number of arbitrators shall be three. The seat of the arbitration shall be city of Belize. The arbitral proceedings shall be conducted in English language.
@@ -119,29 +119,29 @@ ARBITRATION
 
 Article 9.
 GOVERNING LAW AND VENUE
---------
+---
 9\.1. These Terms will be governed by and construed and enforced in accordance with the laws of Belize, without regard to conflict of law rules or principles that would cause the application of the laws of any other jurisdiction.
 
 9\.2. Any Dispute between the Parties arising out or relating to these Terms or its subject matter or formation (including non-contractual Disputes of claims) that is not subject to arbitration will be resolved in the courts of Belize.
 
-SEVERABILITY
---------
+##### SEVERABILITY
+
 9\.3. If any term, clause or provision of these Terms is held unlawful, void or unenforceable, then that term, clause or provision will be severable from these Terms and will not affect the validity or enforceability of any remaining part of that term, clause or provision, or any other term, clause or provision of these Terms.
 
-MODIFICATION OF AGREEMENT
---------
+##### MODIFICATION OF AGREEMENT
+
 9\.4. The Company may modify this Agreement at any time by posting a revised version on the Website, available at https://cubeon.co.in/. The modified terms will become effective upon posting. It is Participant’s responsibility to check the Website regularly for modifications to this Agreement. This Agreement was last modified on the date listed at the beginning of this Agreement.
 
-NO PARTNERHIP OF THIRD-PARTY BENEFICIARY.
---------
+##### NO PARTNERHIP OF THIRD-PARTY BENEFICIARY.
+
 9\.5. Nothing in this Agreement and no action taken by the Parties shall constitute, or be deemed to constitute, a partnership, association, joint venture or other co-operative entity between the Parties.
 
 9\.6. Nothing in this Agreement and no action taken by the Parties pursuant to this Agreement shall constitute, or be deemed to constitute, either Party the agent of the other Party for any purpose.
 
 9\.7. No Party has, pursuant to this Agreement, any authority or power to bind or to contract in the name of the other Party. This Agreement does not create any third-party beneficiary rights in any person.
 
-ELECTRONIC COMMUNICATIONS
---------
+##### ELECTRONIC COMMUNICATIONS
+
 9\.8. Participant agrees and acknowledges that all agreements, notices, disclosures and other communications that the Company provides the Participant pursuant to this Agreement or in connection with or related to Participant’s purchase of CUBE ON Tokens, including this Agreement may be provided by the Company, in its sole discretion, in electronic form.
 
 [Purchase-Agreement/](https://wooriapt.github.io/_posts/Purchase-Agreement.md)
