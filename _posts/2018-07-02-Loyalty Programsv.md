@@ -16,7 +16,8 @@ Projects BlockChain Loyalty Programs
 ---
 ## chat [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/wooriapt?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
-
+the documents below will be updated in the future.  
+the updated information will be guided through the lab's social networks and blogs.
 ### Loyalty Program Table of Contents
 
 1. [What Is a Loyalty Program?][What Is a Loyalty Program?]  
