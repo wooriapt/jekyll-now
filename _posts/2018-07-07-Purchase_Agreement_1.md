@@ -11,7 +11,23 @@ Purchase Agreement_one
 *please read these terms of token sale carefully.
 if you do not agree to these terms of sale, do not purchase tokens.*
 
-
+1. Risk of Mining Attacks  
+2. Risk of Hacking and Security Weaknesses  
+3. Risks Associated with Markets for Tokens
+4. Risk of Uninsured Losses
+5. Risks Associated with Uncertain Regulations and Enforcement Actions
+6. Risks Arising from Taxation
+7. Risk of Alternative Networks
+8. Risk of Insufficient Interest in the Network or Distributed Applications
+9. Risks Associated with the Development and Maintenance of the Network
+10. Risk of an Unfavourable Fluctuation of Ether and Other Currency Value
+11. Risk of Dissolution of the Company or Network
+12. Risks Arising from Lack of Governance Rights
+13. Risks Involving Cloud Storage
+14. Unanticipated Risks
+ - Article 5
+ - Article 6
+ - Article 7
 
 #### 1. Risk of Mining Attacks
 
