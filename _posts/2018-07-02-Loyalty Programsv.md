@@ -29,7 +29,7 @@ the updated information will be guided through the lab's social networks and blo
 5. [And how does it benefit merchants?][benefit merchants?]  
    - Check 123Cashbag plugins  
    - Check 123Cashbag vision for each plugin  
-6. [How is this valuable to miners?][valuable to miners?]   
+6. [How is this valuable to Marketing Channel's ?][valuable to miners?]   
 7. [Cashbag Tokens Symbol OTT][Symbol OTT]  
 
 [What Is a Loyalty Program?]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/Loyalty%20Programsv.md#1-what-is-a-loyalty-program "What Is a Loyalty Program?"
