@@ -27,35 +27,35 @@ Use of Information.
 
 We may use information about you for various purposes, including to:
 
-•	operate and improve our Services;
-•	provide and deliver products and services and send you related information, including confirmations, technical notices, updates, security alerts, and support and administrative messages;
-•	respond to your comments and questions and provide customer service;
-•	communicate with you about new updates, upcoming events, and other news about services offered by Cube ON and our selected partners;
-•	link or combine with other information we obtain from third parties to help understand your needs and provide you with better service;
-•	monitor and analyse trends, usage and activities in connection with our Services;
+•	operate and improve our Services;  
+•	provide and deliver products and services and send you related information, including confirmations, technical notices, updates, security alerts, and support and administrative messages;  
+•	respond to your comments and questions and provide customer service;  
+•	communicate with you about new updates, upcoming events, and other news about services offered by Cube ON and our selected partners;  
+•	link or combine with other information we obtain from third parties to help understand your needs and provide you with better service;  
+•	monitor and analyse trends, usage and activities in connection with our Services;  
 •	personalise and improve the Services and provide advertisements, content or features that match user profiles or interests; and
-•	carry out any other purpose for which the information was collected.
+•	carry out any other purpose for which the information was collected.  
 Sharing of Information.
 
 We may share information about you as follows:
 
-•	with your consent or at your direction;
-•	with third party vendors, consultants and other service providers who are working on our behalf and need access to your information to carry out their work for us;
-•	in response to a request for information if we believe disclosure is in accordance with any applicable law, regulation or legal process, or as otherwise required by any applicable law, rule or regulation;
+•	with your consent or at your direction;  
+•	with third party vendors, consultants and other service providers who are working on our behalf and need access to your information to carry out their work for us;  
+•	in response to a request for information if we believe disclosure is in accordance with any applicable law, regulation or legal process, or as otherwise required by any applicable law, rule or regulation;  
 •	if we believe your actions are inconsistent with the spirit or language of our user agreements or policies or to protect the rights, property and safety of Cube ON or others; and
-•	in connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company.
-We may also share aggregated or de-identified information that cannot reasonably be used to identify you.
+•	in connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company.  
+We may also share aggregated or de-identified information that cannot reasonably be used to identify you.  
 
-Social Sharing Features
-The Services may offer social plug-ins (such as the Facebook “Like” button) or other tools or features which let you share actions you take on our Services with other websites, and vice versa. The use of such social sharing features enables the sharing of certain information with your friends or the public, depending on the settings you establish with the third party that provides the feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the third parties that provide these features.
-Security
-Cube ON takes reasonable measures to help protect information we collect about you in an effort to prevent loss, misuse and unauthorized access, disclosure, alteration and destruction.
-Your Information Choices and Changes
-Account Information. You may update, correct or delete your account information at any time by logging into your account or emailing us at privacy@CubeON.co.in Please note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of your information for a certain period of time.
-Promotional Communications. You may opt out of receiving promotional emails from Cube ON by following the instructions in those emails or by modifying your preferences in your account settings. If you opt out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations.
-Your Privacy Rights. Data Protection Act 2018 governs the collection, use and disclosure of personal data by organisations in a manner that recognises both the right of individuals to protect their personal data and the need of organisations to collect, use or disclose personal data for purposes that a reasonable person would consider appropriate in the circumstances.
-Changes to This Policy
-Cube ON may change this Policy from time to time. If we make any changes to this Policy, we will notify you by revising the date at the top of the Policy, and in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you an email notification). We encourage you to review this Policy whenever you access the Services to stay informed about our information practices and the ways you can help protect your privacy.
+Social Sharing Features  
+The Services may offer social plug-ins (such as the Facebook “Like” button) or other tools or features which let you share actions you take on our Services with other websites, and vice versa. The use of such social sharing features enables the sharing of certain information with your friends or the public, depending on the settings you establish with the third party that provides the feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the third parties that provide these features.  
+Security  
+Cube ON takes reasonable measures to help protect information we collect about you in an effort to prevent loss, misuse and unauthorized access, disclosure, alteration and destruction.  
+Your Information Choices and Changes  
+Account Information. You may update, correct or delete your account information at any time by logging into your account or emailing us at privacy@CubeON.co.in Please note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of your information for a certain period of time.  
+Promotional Communications. You may opt out of receiving promotional emails from Cube ON by following the instructions in those emails or by modifying your preferences in your account settings. If you opt out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations.  
+Your Privacy Rights. Data Protection Act 2018 governs the collection, use and disclosure of personal data by organisations in a manner that recognises both the right of individuals to protect their personal data and the need of organisations to collect, use or disclose personal data for purposes that a reasonable person would consider appropriate in the circumstances.  
+Changes to This Policy  
+Cube ON may change this Policy from time to time. If we make any changes to this Policy, we will notify you by revising the date at the top of the Policy, and in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you an email notification). We encourage you to review this Policy whenever you access the Services to stay informed about our information practices and the ways you can help protect your privacy.  
 Contact Us
 
 If you have any questions about this Policy, please contact us at privacy@cubeon.co.in.
