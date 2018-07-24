@@ -1,6 +1,6 @@
 ---
+layout:post
 title:ERC Ethereum Token Standards
-layout: post
 ---
 
 ### chat [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/wooriapt?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
