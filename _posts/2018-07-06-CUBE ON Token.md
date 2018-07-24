@@ -8,7 +8,7 @@ description: CUBE ON Arbitration and Utility Token (XCB)
 
 
 
-CUBE ON Arbitration and Utility Token (XCB)..?
+### CUBE ON Arbitration and Utility Token (XCB)..?
 
 The CUBE ON Arbitration and Utility Token (XCB) is an ERC20 compatible in-app token for the CUBE ON Jurisdiction.
 
@@ -18,7 +18,7 @@ through creating a contract, successfully completing a contract or resolving a d
 XCB is an algorithmic reputation token, an arbitration currency based on performance rather than purchasing power, 
 popularity or attention. 
 
-The distribution mechanism for XCB tokens on CUBE ON is an autonomous agent, Lucy, which will initially 
+The distribution mechanism for XCB tokens on CUBE ON is an autonomous agent, which will initially 
 launch on Ethereum as a smart contract. 
 
 This mechanism is blockchain agnostic and can be ported to any viable smart contract platform.
