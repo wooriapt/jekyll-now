@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Managing ERC20 Tokens-MetaMask 
+title: ERC Ethereum Token Standards 
 
 ---
 
