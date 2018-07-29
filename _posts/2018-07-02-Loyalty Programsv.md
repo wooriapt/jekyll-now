@@ -23,7 +23,7 @@ the updated information will be guided through the lab's social networks and blo
 |:----------------------------------------------------:|
 |**Earn OTT points for every purchase**|
 
-
+---  
 ### Loyalty Program Table of Contents
 
 1. [What Is a Loyalty Program?][What Is a Loyalty Program?]  
