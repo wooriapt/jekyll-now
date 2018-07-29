@@ -46,6 +46,8 @@ the updated information will be guided through the lab's social networks and blo
 [valuable to miners?]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/Loyalty%20Programsv.md#6-how-is-this-valuable-to-miners "How is this valuable to miners?"
 [Symbol OTT]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/Loyalty%20Programsv.md#7-cashbag-tokens-symbol-ott "7. Cashbag Tokens Symbol OTT"  
 
+---  
+
 #### 1. What Is a Loyalty Program?
 
 A loyalty program is an organized marketing strategy.
