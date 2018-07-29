@@ -19,7 +19,7 @@ Projects BlockChain Loyalty Programs
 the documents below will be updated in the future.  
 the updated information will be guided through the lab's social networks and blogs.
 
-|![logo](https://github.com/wooriapt/wooriapt.github.io/blob/master/images/points_20180730_015804025.jpg)|
+|![logo](https://github.com/wooriapt/wooriapt.github.io/raw/master/images/points_20180730_015804025.jpg)|
 |:----------------------------------------------------:|
 |**Earn OTT points for every purchase**|
 
