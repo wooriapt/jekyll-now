@@ -20,10 +20,13 @@ the updated information will be guided through the lab's social networks and blo
 
 ### The Future of Consumer Loyalty Rewards Programs using Cryptocurrency
 
-|![logo](https://github.com/wooriapt/wooriapt.github.io/raw/master/images/points_20180730_015804025.jpg)|  
+![logo](https://github.com/wooriapt/wooriapt.github.io/raw/master/images/points_20180730_015804025.jpg)     
 **Summary:**   
-Consumer acquisition and retention are a critical component of business growth and success, especially for Small to Medium Enterprises (SMEs). SMEs are the largest job creators in the world and offer great value to local communities however they are struggling to compete with large Multinational Corporations (MNCs).SMEs cannot compete on price due to the ability of MNC’s to take advantage of their economies of scale. However, with businesses working together they can reach a scale to compete on value.                    
-|:-----------------------------------------------------|:------------------------------------------|  
+Consumer acquisition and retention are a critical component of business growth and success, especially for Small to Medium Enterprises (SMEs). SMEs are the largest job creators in the world and offer great value to local communities however they are struggling to compete with large Multinational Corporations (MNCs).SMEs cannot compete on price due to the ability of MNC’s to take advantage of their economies of scale. However, with businesses working together they can reach a scale to compete on value.   
+
+> 123 OTT helps small to medium sized businesses create a loyalty rewards program to improve customer loyalty and retention.  
+
+
 123 OTT believes that through a business-to-business universal loyalty rewards program SME's can increase consumer acquisition and retention. Native loyalty reward programs are difficult to manage, due to the time and resource requirements, and lack of an effective platform to measure success. Third party loyalty reward programs don’t directly benefit the business and are not customizable. Due to these challenges only companies with the resources, subject matter expertise and ability to create and manage loyalty rewards programs can take advantage of such an opportunity. SMEs that can’t allocate the necessary time and resources to managing a loyalty rewards program are deprived of a powerful tool for business growth and success.  
 
 Blockchain technology is a business game changer for how business-to-business and business-to-consumer agreements can be created, managed, and leveraged. Tokens (coins) are critical to incentivize users to act favorably within the terms of the agreement. We built 123 OTT to take advantage of these technological advancements and make decentralized loyalty rewards programs easier to create, manage and draw value from for SMEs. Now, with 123 OTT, businesses can be connected in partnerships to create a universal loyalty rewards system. With 123 OTT, there’s no need to build years of trust between businesses.   
