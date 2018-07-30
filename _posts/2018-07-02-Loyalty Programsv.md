@@ -15,10 +15,11 @@ menu:
 Projects BlockChain Loyalty Programs
 ---
 ## chat [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/wooriapt?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
-
 the documents below will be updated in the future.  
 the updated information will be guided through the lab's social networks and blogs.
 
+The Future of Consumer Loyalty Rewards Programs using Cryptocurrency
+-
 |![logo](https://github.com/wooriapt/wooriapt.github.io/raw/master/images/points_20180730_015804025.jpg)|
 |:----------------------------------------------------:|
 |**Earn OTT points for every purchase**|
@@ -46,7 +47,7 @@ the updated information will be guided through the lab's social networks and blo
 [valuable to miners?]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/Loyalty%20Programsv.md#6-how-is-this-valuable-to-miners "How is this valuable to miners?"
 [Symbol OTT]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/Loyalty%20Programsv.md#7-cashbag-tokens-symbol-ott "7. Cashbag Tokens Symbol OTT"  
 
----  
+---
 
 #### 1. What Is a Loyalty Program?
 
