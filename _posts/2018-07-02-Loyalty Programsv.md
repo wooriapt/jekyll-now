@@ -18,11 +18,13 @@ Projects BlockChain Loyalty Programs
 the documents below will be updated in the future.  
 the updated information will be guided through the lab's social networks and blogs.
 
-The Future of Consumer Loyalty Rewards Programs using Cryptocurrency
--
-|![logo](https://github.com/wooriapt/wooriapt.github.io/raw/master/images/points_20180730_015804025.jpg)|
-|:----------------------------------------------------:|
-|**Earn OTT points for every purchase**|
+#### The Future of Consumer Loyalty Rewards Programs using Cryptocurrency
+
+|![logo](https://github.com/wooriapt/wooriapt.github.io/raw/master/images/points_20180730_015804025.jpg)|Summary
+Consumer acquisition and retention are a critical component of business growth and success, especially for Small to Medium Enterprises (SMEs). SMEs are the largest job creators in the world and offer great value to local communities however they are struggling to compete with large Multinational Corporations (MNCs).SMEs cannot compete on price due to the ability of MNC’s to take advantage of their economies of scale. However, with businesses working together they can reach a scale to compete on value.               |  
+|:----------------------------------------------------:|:-----------------------------------------:|  
+|**Earn OTT points for every purchase**|   
+|The Future of Consumer Loyalty Rewards Programs using Cryptocurrency|
 
 ---  
 ### Loyalty Program Table of Contents
