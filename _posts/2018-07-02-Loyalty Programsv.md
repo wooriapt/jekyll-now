@@ -108,7 +108,32 @@ Marketing Channel's are also rewarded.
 123 Player in the Element's  network are rewarded 50 Element coins per Local Area and the network allows them to Provision up to 144,000 coins per day. 
 Like most other cryptocurrencies, these coins can be exchanged for other cryptocurrencies or fiat currencies. However, the biggest value is in the market size of the loyalty management market, which researchers at Research and Markets predict would be worth $6.2 bln by 2020. The monetary value and universal usage advantage that a cryptocurrency brings could make customers embrace it en masse, which would drive the value of the cryptocurrency itself.
 
-#### 7. Cashbag Tokens Symbol OTT.  
+#### 7. Cashbag Tokens Symbol OTT.
+OttCoin Tokens-updateds 2018-07-31 12:29:56 Tuesday
+
+It's essential for business-to-business partnerships to have a way to track progress and pass the value of their partnership onto their consumers. Currently this is often done through coupon codes, referral links, and loyalty points. However, the current tools available can’t answer fundamental questions such as: How many coupons/referral codes/points were distributed? Exactly how many are being used by consumers?   
+How many are held by consumers? How do I, as a business stakeholder know that my partner is promoting the partnership?   
+And most importantly what incentives are in place to ensure both businesses adhere to the terms of the partnership?   
+The Ott token solves these problems and many others. By tying a digital coin to the terms of the agreement Ott tokens can now track exactly how the partnership is progressing. Also, in the unlikely event that one business is generating more transactions (referrals or coupons for example) than the other; the value of the coins given to the consumers for each transaction will increase for the business generating more transactions and decrease for the business generating less transactions.   
+
+The consumer will naturally go to the business that gives them more coins per transaction, 
+therefore, incentivizing both businesses to generate as many transactions as possible and allowing the behavior of the network and its software to become aligned with the interests of its users. This is critical to having successful partnerships.  
+
+Currently, many blockchain companies are issuing tokens that have no actual utility.  
+ 
+The Ott token can be used for many possibilities including:  
+● Incentives to follow and promote the terms of the strategic partnership  
+● Governance of the platform  
+● Track progress of partnership  
+● Increase value proposition by having consumers accumulate coins  
+● A way for consumers to buy products  
+● A store of value for investors  
+
+The Ott tokens is a unit of value that is used to self-govern our business model and incentivize business and consumers to interact with each other properly. As CollabCoin grows in usage and market share, our token will help to distribute and share the rewards and benefits to all our stakeholders.  
+The Ott tokens are “mined” by consumers buying products from businesses in the Ott token network. Each time they buy a product, a certain amount a Ott tokens are released from a smart contract on the blockchain to the consumer. When the consumer buys a product with Ott token the coins are sent back to the smart contract to be recycled. Therefore, Ott token does not hold any coins. The process is fully automated and controlled by smart contracts.    
+
+Since the Ott token will be traded on exchanges the value of the coin itself can change minute to minute. The value of the coins will be correlated to the cost of the product being purchased or redeemed. For example, if a Ott token is worth $1 each and a pair of shoes costs $100 and a  
+
 #### OTT Coin protocol:   
 head office. Branch. Marketing channel For ERC 2.0 Coin & User’s Coin two Type.  
 ### ERC 2,0 : A CLASS OF IDENTICAL TOKENS.   
