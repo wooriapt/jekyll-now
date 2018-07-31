@@ -14,6 +14,7 @@ menu:
 ---
 Projects BlockChain Loyalty Programs
 ---
+updateds 2018-07-31 12:29:56 Tuesday  
 ## chat [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/wooriapt?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 the documents below will be updated in the future.  
 the updated information will be guided through the lab's social networks and blogs.
