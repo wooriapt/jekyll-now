@@ -143,11 +143,13 @@ head office. Branch. Marketing channel For ERC 2.0 Coin & User’s Coin two Type
 business main frame:   
 head office. Branch. Marketing channel.
 
-- Risk hatch:
-- Deposit:
-- marketing:
-- business roadmap:
-- Development roadmap:  
+- Risk hatch:Token Economy  
+- Deposit: Affiliate Costs Basic  
+- marketing:  
+  - Branch: 3000*100  
+  - Merchants 300,000  
+- business roadmap: Completed August 15, 2018    
+- Development roadmap: Completed August 20, 2018   
 
 ##### Condition  
 Branch…3000  
@@ -157,8 +159,8 @@ Marketing channel:Branch*100
 Use like mileage or exchange ERC 20 tokens:for sale  
 
 Encryption currency exchange. ERC 20(5) :  
-ERC 721(10)-Policy decision. Holders of exchange sales on the Encryption currency exchange. And purchasing.
-
+ERC 721(10)-Policy decision. Holders of exchange sales on the Encryption currency exchange. And purchasing.  
+**Reference**
 News  
 [Blockchain Will Transform Customer Loyalty Programs](https://hbr.org/2017/03/blockchain-will-transform-customer-loyalty-programs)  
 
