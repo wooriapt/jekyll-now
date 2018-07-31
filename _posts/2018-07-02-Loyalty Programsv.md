@@ -51,8 +51,9 @@ Our mission aligns with Ethereum’s to “facilitate transactions between conse
    - Check 123Cashbag plugins  
    - Check 123Cashbag vision for each plugin  
 6. [How is this valuable to Marketing Channel's ?][valuable to miners?]   
-7. [Cashbag Tokens Symbol OTT][Symbol OTT]  
-
+7. [Cashbag Tokens Symbol OTT][Symbol OTT]      
+   - OttTokens-updateds 2018-07-31 12:29:56 Tuesday.  
+   
 [What Is a Loyalty Program?]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/Loyalty%20Programsv.md#1-what-is-a-loyalty-program "What Is a Loyalty Program?"
 [matter]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/Loyalty%20Programsv.md#2-why-does-it-matter "Why does it matter?"
 [ valuable at all?]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/Loyalty%20Programsv.md#3-but-are-these-points-valuable-at-all "But are these points valuable at all?"
@@ -109,7 +110,7 @@ Marketing Channel's are also rewarded.
 Like most other cryptocurrencies, these coins can be exchanged for other cryptocurrencies or fiat currencies. However, the biggest value is in the market size of the loyalty management market, which researchers at Research and Markets predict would be worth $6.2 bln by 2020. The monetary value and universal usage advantage that a cryptocurrency brings could make customers embrace it en masse, which would drive the value of the cryptocurrency itself.
 
 #### 7. Cashbag Tokens Symbol OTT.
-OttCoin Tokens-updateds 2018-07-31 12:29:56 Tuesday
+OttTokens-updateds 2018-07-31 12:29:56 Tuesday
 
 It's essential for business-to-business partnerships to have a way to track progress and pass the value of their partnership onto their consumers. Currently this is often done through coupon codes, referral links, and loyalty points. However, the current tools available can’t answer fundamental questions such as: How many coupons/referral codes/points were distributed? Exactly how many are being used by consumers?   
 How many are held by consumers? How do I, as a business stakeholder know that my partner is promoting the partnership?   
@@ -132,7 +133,8 @@ The Ott token can be used for many possibilities including:
 The Ott tokens is a unit of value that is used to self-govern our business model and incentivize business and consumers to interact with each other properly. As CollabCoin grows in usage and market share, our token will help to distribute and share the rewards and benefits to all our stakeholders.  
 The Ott tokens are “mined” by consumers buying products from businesses in the Ott token network. Each time they buy a product, a certain amount a Ott tokens are released from a smart contract on the blockchain to the consumer. When the consumer buys a product with Ott token the coins are sent back to the smart contract to be recycled. Therefore, Ott token does not hold any coins. The process is fully automated and controlled by smart contracts.    
 
-Since the Ott token will be traded on exchanges the value of the coin itself can change minute to minute. The value of the coins will be correlated to the cost of the product being purchased or redeemed. For example, if a Ott token is worth $1 each and a pair of shoes costs $100 and a  
+Since the Ott tokens will be traded on exchanges the value of the coin itself can change minute to minute. The value of the coins will be correlated to the cost of the product being purchased or redeemed. For example, if a Ott token is worth $1 each and a pair of shoes costs $100 and a customer has 100 points than the customer will use 100 coins to get the shoes. If the next day the points are worth $100 each the customer will use one coin to buy the shoes. 
+Ott tokens will generate a total of 400MM coins, these coins will be distributed during a token sale, please refer to Site or Blog for more information on how to support small business and join the movement.   
 
 #### OTT Coin protocol:   
 head office. Branch. Marketing channel For ERC 2.0 Coin & User’s Coin two Type.  
