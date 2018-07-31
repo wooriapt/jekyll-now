@@ -22,10 +22,9 @@ the updated information will be guided through the lab's social networks and blo
 
 ![logo](https://github.com/wooriapt/wooriapt.github.io/raw/master/images/points_20180730_015804025.jpg)     
 **Summary:**   
-Consumer acquisition and retention are a critical component of business growth and success, especially for Small to Medium Enterprises (SMEs). SMEs are the largest job creators in the world and offer great value to local communities however they are struggling to compete with large Multinational Corporations (MNCs).SMEs cannot compete on price due to the ability of MNC’s to take advantage of their economies of scale. However, with businesses working together they can reach a scale to compete on value.   
+Consumer acquisition and retention are a critical component of business growth and success, especially for Small to Medium Enterprises (SMEs). SMEs are the largest job creators in the world and offer great value to local communities however they are struggling to compete with large Multinational Corporations (MNCs).SMEs cannot compete on price due to the ability of MNC’s to take advantage of their economies of scale. However, with businesses working together they can reach a scale to compete on value.
 
-> 123 OTT helps small to medium sized businesses create a loyalty rewards program to improve customer loyalty and retention.  
-
+> 123 OTT helps small to medium sized businesses create a loyalty rewards program to improve customer loyalty and retention.
 
 123 OTT believes that through a business-to-business universal loyalty rewards program SME's can increase consumer acquisition and retention. Native loyalty reward programs are difficult to manage, due to the time and resource requirements, and lack of an effective platform to measure success. Third party loyalty reward programs don’t directly benefit the business and are not customizable. Due to these challenges only companies with the resources, subject matter expertise and ability to create and manage loyalty rewards programs can take advantage of such an opportunity. SMEs that can’t allocate the necessary time and resources to managing a loyalty rewards program are deprived of a powerful tool for business growth and success.  
 
