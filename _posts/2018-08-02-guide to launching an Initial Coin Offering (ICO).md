@@ -273,8 +273,8 @@ After the ICO the top two questions you will get are:
 **What exchange are you going to be listed on? When?**
 
 - Most exchanges have an application page, if you wish to be listed on them, start building out these relationships early.
-- - At the same time, various exchanges will list your token for sale regardless of whether you want to or not. For example: EtherDelta is a peer-to-peer exchange, where anyone can offer any tokens or currencies for sale without your permission.
-- - Write a blog post afterwards. Example: https://blog.0xproject.com/analyzing-the-zrx-token-sale-a94b8642c78e
+- At the same time, various exchanges will list your token for sale regardless of whether you want to or not. For example: EtherDelta is a peer-to-peer exchange, where anyone can offer any tokens or currencies for sale without your permission.
+- Write a blog post afterwards. Example: https://blog.0xproject.com/analyzing-the-zrx-token-sale-a94b8642c78e
 - Give an update shortly after your ICO is completed. The worst case is to not communicate at all and look like you took the ICO money and ran, don’t do this.
 
 **Running the project**
@@ -284,7 +284,7 @@ After the ICO the top two questions you will get are:
 **Fiscal policy**
 
 - Fiscal policy is the buying, spending, freezing, discounting, and burning of tokens. If you retain a lot of tokens in the treasury, people will wonder when those will flood the market. If you pay people in tokens with no vesting, they can dump them. If you pay in locked-up tokens, you will also have to supplement those with some cash. All of this requires clear communication, so people know what’s coming.
-- - In addition, how the tokens are taxed for the team, advisors, investors, etc. need to be communicated early on. You need to think about compensation plans for employees and advisors early on.
+- In addition, how the tokens are taxed for the team, advisors, investors, etc. need to be communicated early on. You need to think about compensation plans for employees and advisors early on.
 - Moreover, if large institutional buyers participated in your pre-sale, there is a large risk they will dump a large portion of their holdings depending on how well the ICO goes. If you do allow institutional investors, you need to decide if you will enforce lockup periods for them or not. Above all, the most important thing is you need to be transparent on what is going on.
 
 **Monetary policy**
@@ -293,7 +293,7 @@ After the ICO the top two questions you will get are:
 
 **Money management.**
 
-- - Once you raise your funding through an ICO, you’ll need to decide how much of your contributions cash out into fiat, and how much to stay in crypto (if any). You should decide this before you complete the ICO.
+- Once you raise your funding through an ICO, you’ll need to decide how much of your contributions cash out into fiat, and how much to stay in crypto (if any). You should decide this before you complete the ICO.
 - You should also start the conversations with banks early on so you don"t run into issues when converting funds from the token sale to fiat or wiring funds for company expenses, taxes, etc.
 
 Following all of these won't make an ICO successful, but hopefully it shares better insight on the process as a whole from the perspective of the project team owners.
