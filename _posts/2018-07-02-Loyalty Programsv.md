@@ -52,7 +52,7 @@ Our mission aligns with Ethereum’s to “facilitate transactions between conse
    - Check 123Cashbag vision for each plugin  
 6. [How is this valuable to Marketing Channel's ?][valuable to miners?]   
 7. [Cashbag Tokens Symbol OTT][Symbol OTT]      
-   - OttTokens-updateds 2018-07-31 12:29:56 Tuesday.
+   - OTT Tokens-updateds 2018-07-31 12:29:56 Tuesday.
 8. [Token Structure](https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/Token%20Structure.md "Token Structure")
 updateds 2018-08-01 22:59:13 Wednesday  
 
