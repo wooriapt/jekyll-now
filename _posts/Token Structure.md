@@ -3,7 +3,14 @@ layout: post
 title: Token Structure
 
 ---
-### How to Buy Our Tokens
+
+#### How to Buy Our Tokens
+1. Token Structure
+2.  Token Price
+3.  TOKEN DISTRIBUTION
+4.  PROJECTED USE OF FUNDS  
+
+
 
 **1. Token Structure**  
 
