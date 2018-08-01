@@ -3,10 +3,9 @@ layout: post
 title: Token Structure
 
 ---
-
+### How to Buy Our Tokens
 
 **1. Token Structure**  
-How to Buy Our Tokens
 
 |ERC 2.0|||||
 |------|-----:|----:|----:|----:|
@@ -34,7 +33,7 @@ How to Buy Our Tokens
 | 34%  | token sale  |   |
 | 10%  | future contributors  |   |
 | 18% |core contributors   |   |
-|38% |ERC 20 - 721 For exchange prepare | -  |
+|38% |ERC 20 - 721 For exchange prepare |Simulation recommended |
 
 **4. PROJECTED USE OF FUNDS**
 
