@@ -125,7 +125,7 @@ therefore, incentivizing both businesses to generate as many transactions as pos
 
 Currently, many blockchain companies are issuing tokens that have no actual utility.  
  
-The Ott token can be used for many possibilities including:  
+### The Ott token can be used for many possibilities including:  
 ● Incentives to follow and promote the terms of the strategic partnership  
 ● Governance of the platform  
 ● Track progress of partnership  
