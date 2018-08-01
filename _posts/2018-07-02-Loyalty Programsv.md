@@ -52,7 +52,9 @@ Our mission aligns with Ethereum’s to “facilitate transactions between conse
    - Check 123Cashbag vision for each plugin  
 6. [How is this valuable to Marketing Channel's ?][valuable to miners?]   
 7. [Cashbag Tokens Symbol OTT][Symbol OTT]      
-   - OttTokens-updateds 2018-07-31 12:29:56 Tuesday.  
+   - OttTokens-updateds 2018-07-31 12:29:56 Tuesday.
+8. [Token Structure](https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/Token%20Structure.md "Token Structure")
+updateds 2018-08-01 22:59:13 Wednesday
    
 [What Is a Loyalty Program?]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/Loyalty%20Programsv.md#1-what-is-a-loyalty-program "What Is a Loyalty Program?"
 [matter]: https://github.com/wooriapt/wooriapt.github.io/blob/master/_posts/Loyalty%20Programsv.md#2-why-does-it-matter "Why does it matter?"
