@@ -1,6 +1,6 @@
 ---
 layout: post
-title: guide to launching an Initial Coin Offering (ICO)
+title: guide to launching an ICO
 ---
 
 ## Guide to launching an Initial Coin Offering (ICO)
@@ -8,7 +8,7 @@ title: guide to launching an Initial Coin Offering (ICO)
 There has been a lot of confusion on what an initial coin offering is (ICO — also sometimes called a token generation event or token sale),
 what kinds of companies an ICO can be used for, and what goes into launching an ICO — from a project’s perspective.
 
-**Disclaimer: **This is not to be construed as investment or legal advice, but rather meant as a template to show the process behind an 
+**Disclaimer:** This is not to be construed as investment or legal advice, but rather meant as a template to show the process behind an 
 ICO, and what a project’s stakeholders (team, board, stakeholders) should think about when conducting an ICO.
 
 Given the blockchain industry is relatively new, there isn’t a whole lot of information on the topic
@@ -125,7 +125,7 @@ Other legal considerations:
 
 This guide doesn’t contain any legal advice so be sure to talk to a lawyer who has been through this process before.
 
-**Communication******
+**Communication**  
 In general, the communication strategy for your team will encompass of all of the channels you will use to communicate about your project (website, whitepaper, slack, social, etc). All of your channels need to be in sync, your whole team needs to be on deck, and you need to respond to people on time.
 
 It’s a huge task, and here are some of the key components:
@@ -244,7 +244,8 @@ This is not an exhaustive list by any means. If you are worried you should consu
 - Registration — If you are doing a registration system based ICO, release all of the details and have people register beforehand. Example: https://blog.0xproject.com/0x-token-sale-and-registration-details-75d84af11c60
 - Create a tutorial for the registration. Example: https://blog.0xproject.com/tutorials-for-the-0x-token-sale-registration-766064955d12
 - Release a tutorial video and tutorial blog post on how to participate.
-- Create explainer videos to show how to purchase tokens. You need at least a semi-professional 2–3 minute video with professional voice talent. Set this to private and don’t release it till the day of the ICO. Example: https://blog.0xproject.com/zrx-token-sale-purchase-tutorial-612c2ffe1e0d
+- Create explainer videos to show how to purchase tokens. You need at least a semi-professional 2–3 minute video with professional voice talent. Set this to private and don’t release it till the day of the ICO. 
+Example: https://blog.0xproject.com/zrx-token-sale-purchase-tutorial-612c2ffe1e0d
 - Watch out for all potential hackers. Example: https://blog.0xproject.com/a-note-on-scams-and-phishing-attempts-e2d72577a470
 - Write blog posts about every step of the process.
 - Livestream video Q&A
