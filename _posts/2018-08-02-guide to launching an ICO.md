@@ -153,7 +153,7 @@ It’s a huge task, and here are some of the key components:
 **Github**
 
 - Need to have a clean, updated Github repository.
-- Example: https://github.com/0xProject.
+- Example: https://github.com/wooriapt/Peer-to-Peer-Crypto-exchange.
 - Anything that has been built should be in a public repository so potential contributors can review everything themselves beforehand.
 
 **Internal communication channel (Slack, Rocket Chat, Riot, etc)**
@@ -181,7 +181,7 @@ Newsletter
 Blog
 
 - Need to have a clean, updated blog ideally with a history of posts already.
-- Example: https://blog.district0x.io/ & https://blog.0xproject.com
+- Example: https://wooriapt.github.io/
 
 Twitter
 
