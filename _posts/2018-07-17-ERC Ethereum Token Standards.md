@@ -3,10 +3,11 @@ layout: post
 title: ERC Ethereum Token Standards 
 ---
 
+%%
  <!-- 
 ### chat [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/wooriapt?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 -->
-
+%%
 
 ERC20, ERC223, ERC777
 ---
