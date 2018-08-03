@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ERC Ethereum Token Standards 
-
 ---
 
 ### chat [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/wooriapt?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
@@ -17,7 +16,9 @@ A security bug has caused the loss of millions of dollars in the ICO space.
 That’s why ERC223 and ERC777 jumped in to provide security and better transaction handling mechanisms.   
 Let’s explore this.  
 
-![_config.yml]({{ site.baseurl }}/images/1_smE2TyCcRv8sa0RZY9GSzw.png)
+![_config.yml]({{ site.baseurl }}/images/1_smE2TyCcRv8sa0RZY9GSzw.png)  
+
+[========]
 
 WHAT IS ERC20?
 ---
