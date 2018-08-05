@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Useless news(쓸데없는 뉴스)
+title: Useless news
 Date: 2018-08-05 14:24:09 Sunday
-
 ---
 
-**Useless news_쓸데없는 뉴스**
+**Useless news**
 
 1.[단독][원희룡 지사, 제주 크립토밸리 조성 위해 로저버와 손잡아](https://www.blockinpress.com/archives/7618#.W2aD9Sd1GKM.link "원희룡 지사, 제주 크립토밸리 조성 위해 로저버와 손잡아")
 
