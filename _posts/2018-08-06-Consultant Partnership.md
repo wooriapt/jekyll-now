@@ -22,6 +22,13 @@ For reference, a small non-profit engaging stakeholders for strategic planning m
 collect around 750 opinions over three months.
 A large city hosting a dialogue about an important topic may collect closer to 5000 opinions.
 ~~~~
+**What counts as an opinion? Why do you charge "per opinion" in the paid plans?**  
+An opinion is collected when someone slides and saves their position on a question in your forum.   
+Pro/con points are not counted.  
+**27 opinions**    
+<img src="https://d2rtgkroh5y135.cloudfront.net/images/product_page/opinions_count.png" width="500">
+
+
 Shy about filling out a form? Mail us a nice letter instead!   
 Deliver Electronically  
 hello@consider.it
