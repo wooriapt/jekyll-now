@@ -9,7 +9,7 @@ All registered members of the whitelist must pass our Know Your Customer (KYC) c
 KYC checks are necessary to identify crowdsale participants and comply with anti-money laundering rules in different jurisdictions.
 
 
-*CUBE ON Arbitration and Utility Token (XCB)..?
+**CUBE ON Arbitration and Utility Token (XCB)..?**
 
 The CUBE ON Arbitration and Utility Token (XCB) is an ERC20 compatible in-app token 
 for the CUBE ON Jurisdiction. 
