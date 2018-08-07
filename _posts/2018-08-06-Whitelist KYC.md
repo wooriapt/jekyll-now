@@ -8,6 +8,21 @@ title: Whitelist KYC Instructions
 All registered members of the whitelist must pass our Know Your Customer (KYC) checks to participate in the Republic Protocol crowdsale on the 8/01/18.   
 KYC checks are necessary to identify crowdsale participants and comply with anti-money laundering rules in different jurisdictions.
 
+~~~~
+*CUBE ON Arbitration and Utility Token (XCB)..?
+
+The CUBE ON Arbitration and Utility Token (XCB) is an ERC20 compatible in-app token for the 
+CUBE ON Jurisdiction. 
+The XCB token rewards good reputation and is issued on CUBE ON when Citizens accumulate 
+non-tradable reputation tokens through creating a contract, successfully completing a contract or 
+resolving a dispute attached to a contract. XCB is an algorithmic reputation token, an arbitration 
+currency based on performance rather than purchasing power, popularity or attention. 
+The distribution mechanism for XCB tokens on CUBE ON is an autonomous agent, which will initially 
+launch on Ethereum as a smart contract. 
+This mechanism is blockchain agnostic and can be ported to any viable smart contract platform. 
+LitePaper*
+~~~~
+
 ---
 **Private Sale**  
 - Sales: 4,429,480,24 US Dollars (KRW \5,000,000,000)
