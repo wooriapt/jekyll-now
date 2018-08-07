@@ -4,6 +4,9 @@ title: Consultant Partnership
 ---
 
 #### [Consultant Partnership](https://consider.it/pricing#consulting "Consultant Partnership")
+
+**We are now sailing with a large wind**
+
 Are you a consultant?   
 We  consultants. We offer special training and support for consultants looking to use  
 **Consider.it** with their clients, as well as access to pricing incentives you can pass onto clients.  
