@@ -8,7 +8,7 @@ title: Whitelist KYC Instructions
 All registered members of the whitelist must pass our Know Your Customer (KYC) checks to participate in the Republic Protocol crowdsale on the 8/01/18.   
 KYC checks are necessary to identify crowdsale participants and comply with anti-money laundering rules in different jurisdictions.
 
-~~~~
+
 *CUBE ON Arbitration and Utility Token (XCB)..?
 
 The CUBE ON Arbitration and Utility Token (XCB) is an ERC20 compatible in-app token 
@@ -23,7 +23,7 @@ will initially launch on Ethereum as a smart contract.
 This mechanism is blockchain agnostic and can be ported to any viable smart 
 contract platform. 
 LitePaper*
-~~~~
+
 
 ---
 **Private Sale**  
