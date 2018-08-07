@@ -53,3 +53,12 @@ Pro/con points are not counted.
 Shy about filling out a form? Mail us a nice letter instead!   
 Deliver Electronically  
 hello@consider.it
+
+
+
+```html
+<a id="tokenmarket-ico-calendar" href=https://tokenmarket.net/ico-calendar?partner_id=5af84f6e82a07095&mode=all>
+TokenMarket ICO calendar
+<script async src="https://tokenmarket.net/calendar-embed.js"></script>
+</a>
+```
