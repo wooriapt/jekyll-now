@@ -59,4 +59,8 @@ There is a ‘check status’ button you can use, emails will also be sent out p
 application has been processed    
 **7. Users will be only able to make a maximum of 3 submissions, so make them count**  
 If having any difficulties talk to us in our telegram group https://t.me/cubeon or for more personal questions,   
-email <dany.me.park@gmail.com>  
+email <dany.me.park@gmail.com>    
+
+
+ [ Estonis Blockchain Lab.](https://wooriapt.github.io " Estonis Blockchain Lab.")
+
