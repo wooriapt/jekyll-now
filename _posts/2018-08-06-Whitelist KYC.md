@@ -29,8 +29,11 @@ Acceptance of the terms and conditions is confirmed by pressing the ‘I have re
 **3. The bot will request these fields one-by-one, type your answer and send message to the bot**
 - First name:  
 - Surname:  
-Ethereum Address - DO NOT USE AN EXCHANGE OR CENTRALIZED WALLET SERVICE   
- MyEtherWallet, Mist, Ledger, imToken or **Metamask wallet** addresses are acceptable     
+Ethereum Address:  
+ *Do Not Use An Exchange Or Centralized Wallet Service*
+   
+ MyEtherWallet, Mist, Ledger, imToken or **Metamask wallet** addresses are acceptable 
+ 
 - Country of Origin:  
 - Country of Citizenship:  
 - Country of Residence:  
