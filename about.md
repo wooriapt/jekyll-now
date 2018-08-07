@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Estonia Blockchin Lab.
+### Estonia Blockchin Lab.
 
-### More Information
+**More Information**  
 ICO Landing Service page for your cryptocurrency project  
 Decentralized Consulting Platform for ICO Developers, Advisors, Crypto-Experts and Investors.  
 <a href="http://cubeon.co.in"> Wibsite cube on </a>
