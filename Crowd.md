@@ -13,12 +13,12 @@ updated 2018-08-08 15:31:27 Wednesday
 
 ### List  
 -  [Whitelist KYC Instructions][Whitelist ]
-  - [PrivateSale][Private]
-  - [Landing page if whitelisted][Landing page if whitelisted]  
+   - [PrivateSale][Private]
+   - [Landing page if whitelisted][Landing page if whitelisted]  
 - [CrowdSale Cube on][CrowdSale]
   -  Ethereum to account:   0x04f4b14279714abee7B9b1568D487C1586860a8D
-  - [Please confirm][Please]
-  - [Related posts][Related posts]
+  -  [Please confirm][Please]
+  -  [Related posts][Related posts]
 - [Contact Us][Contact ]
 
 [Whitelist ]: https://github.com/wooriapt/wooriapt.github.io/blob/master/Crowd.md#whitelist-kyc-instructions "Whitelist KYC Instructions"
