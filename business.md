@@ -35,6 +35,8 @@ Estonia blockchain lab four core businesses include
 
 ---
 **BlockChain Application**
-- [Projects BlockChain Loyalty Programs](https://wooriapt.github.io/wooriapt.github.io/Loyalty-Programsv/ "Projects BlockChain Loyalty Programs")
+- [Projects BlockChain Loyalty Programs](https://wooriapt.github.io/wooriapt.github.io/Loyalty-Programsv/ "Projects BlockChain Loyalty Programs")  
 
-[CUBE ON_ICO FAQ](https://wooriapt.github.io/wooriapt.github.io/CUBE_ON_ICO_FAQ/ "FAQ")
+
+**Related posts**  
+- [CUBE ON_ICO FAQ](https://wooriapt.github.io/wooriapt.github.io/CUBE_ON_ICO_FAQ/ "FAQ")
