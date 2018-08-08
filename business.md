@@ -14,7 +14,7 @@ Estonia blockchain lab four core businesses include
 - altcoin Mall
 - and ICO Support Program,
 
-
+- [Projects BlockChain Loyalty Programs](https://wooriapt.github.io/wooriapt.github.io/Loyalty-Programsv/ "Projects BlockChain Loyalty Programs")
 
 <!--![_config.yml]({{ site.baseurl }}/images/  ) --> 
 [CUBE ON_ICO FAQ](https://wooriapt.github.io/wooriapt.github.io/CUBE_ON_ICO_FAQ/ "FAQ")
