@@ -12,13 +12,22 @@ updated 2018-08-08 15:31:27 Wednesday
 ![_config.yml]({{ site.baseurl }}/images/9bb40a8e13dfec71a89bbd184095d486.jpg)  
 
 ### List  
-- [Whitelist KYC Instructions](https://wooriapt.github.io/wooriapt.github.io/Whitelist-KYC/ "Whitelist KYC Instructions")
-  - Private Sale
-  - Landing page if whitelisted  
-- CrowdSale Cube on
-  - Donate & Crowd Sale cube on Ethereum to account:
-- Please confirm
+-  [Whitelist KYC Instructions][Whitelist ]
+  - [PrivateSale][Private]
+  - [Landing page if whitelisted][Landing page if whitelisted]  
+- [CrowdSale Cube on][CrowdSale]
+  -  Ethereum to account:   0x04f4b14279714abee7B9b1568D487C1586860a8D
+  - [Please confirm][Please]
+  - [Related posts][Related posts]
+- [Contact Us][Contact ]
 
+[Whitelist ]: https://github.com/wooriapt/wooriapt.github.io/blob/master/Crowd.md#whitelist-kyc-instructions "Whitelist KYC Instructions"
+[Private]: https://github.com/wooriapt/wooriapt.github.io/blob/master/Crowd.md#private-sale "Private Sale"
+[Landing page if whitelisted]: https://github.com/wooriapt/wooriapt.github.io/blob/master/Crowd.md#landing-page-if-whitelisted "Landing page if whitelisted"
+[CrowdSale]: https://github.com/wooriapt/wooriapt.github.io/blob/master/Crowd.md#donate--crowd-sale-cube-on-ethereum-to-account "CrowdSale Cube on"
+[Please]: https://github.com/wooriapt/wooriapt.github.io/blob/master/Crowd.md#please-confirm "Please confirm"
+[Related posts]: https://github.com/wooriapt/wooriapt.github.io/blob/master/Crowd.md#related-posts "Related posts"
+[Contact ]: https://github.com/wooriapt/wooriapt.github.io/blob/master/Crowd.md#contact-us- "Contact Us"
 
 ---
 ### Whitelist KYC Instructions
