@@ -6,7 +6,7 @@ permalink: /about/
 
 ### Estonia Blockchin Lab.
 ![_config.yml]({{ site.baseurl }}/images/About-US_web.jpg)  
-
+![_config.yml]({{ site.baseurl }}/images/1_smE2TyCcRv8sa0RZY9GSzw.png)
 **More Information**  
 ICO Landing Service page for your cryptocurrency project  
 Decentralized Consulting Platform for ICO Developers, Advisors, Crypto-Experts and Investors.  
