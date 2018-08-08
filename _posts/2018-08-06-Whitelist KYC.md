@@ -5,6 +5,8 @@ title: Whitelist KYC Instructions
 
 
 ### Whitelist KYC Instructions
+![_config.yml]({{ site.baseurl }}/images/a8b4666afefc9c2400d3f52c12d0b7f6.jpg) 
+
 All registered members of the whitelist must pass our Know Your Customer (KYC) checks to participate in the Republic Protocol crowdsale on the 8/01/18.   
 KYC checks are necessary to identify crowdsale participants and comply with anti-money laundering rules in different jurisdictions.  
 ![_config.yml]({{ site.baseurl }}/images/a8b4666afefc9c2400d3f52c12d0b7f6.jpg)  
