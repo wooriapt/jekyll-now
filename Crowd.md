@@ -1,4 +1,4 @@
-### CrowdSale Cube on
+## Crowd_Sale Cube on
 ---
 updated 2018-08-08 15:31:27 Wednesday
 ## chat [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/wooriapt?utm_source=share-link&utm_medium=link&utm_campaign=share-link)  
@@ -73,17 +73,28 @@ Ethereum Address:
 .jpg or .png file types only Photo of self with Passport    
   
 All of this information will be optional but less information given means a greater chance of failure for KYC.   
-We strongly recommend you give as much detailed and accurate information as possible.    
+We strongly recommend you give as much detailed and accurate information as possible.  
+
 **4. All ID docs uploaded for KYC must be clear with all information easily readable**  
 All parts of ID and important information must be able to be seen and not obscured
-Blurry or hard to read applications will be rejected    
+Blurry or hard to read applications will be rejected   
+
 **5. Confirm that information is correct and submit**  
 Click no to change any information that may be incorrect, e.g. spelling mistakes, and bot will take you back through the different fields for editing  
+- [Please confirm][confirm]
+
+
+[confirm]: https://github.com/wooriapt/wooriapt.github.io/blob/master/Crowd.md#please-confirm "Please confirm"
 
 **Click yes to submit your application**  
 **6. Notification of success or failure of will be sent via email and via the bot**  
 There is a ‘check status’ button you can use, emails will also be sent out periodically to update you of your status after your 
 application has been processed    
+- [Please confirm][confirm]
+
+
+[confirm]: https://github.com/wooriapt/wooriapt.github.io/blob/master/Crowd.md#please-confirm "Please confirm"
+
 **7. Users will be only able to make a maximum of 3 submissions, so make them count**  
 If having any difficulties talk to us in our telegram group https://t.me/cubeon or for more personal questions,   
 email <dany.me.park@gmail.com>    
@@ -96,7 +107,7 @@ email <dany.me.park@gmail.com>
 
 
 
-### Donate & Crowd Sale cube on Ethereum to account:
+## Donate & Crowd Sale cube on Ethereum to account:
 
 ---
 Ethereum account for donations CUBE ON Address:
