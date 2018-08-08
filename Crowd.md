@@ -119,9 +119,10 @@ the updated information will be guided through the lab's social networks and blo
 
 ---
 
-**Related posts**
+### Related posts   
 - [http://cubeon.co.in](http://cubeon.co.in "CUBE ON")  
 - [Wiki:Cube on info](https://github.com/wooriapt/wooriapt.github.io/wiki)
 
 ---
-**Contact Us :** <dany.me.park@gmail.com>
+### Contact Us :  
+<dany.me.park@gmail.com>
