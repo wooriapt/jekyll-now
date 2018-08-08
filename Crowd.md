@@ -48,4 +48,4 @@ the updated information will be guided through the lab's social networks and blo
 - [Wiki:Cube on info](https://github.com/wooriapt/wooriapt.github.io/wiki)
 
 ---
-Contact Us : <dany.me.park@gmail.com>
+**Contact Us :** <dany.me.park@gmail.com>
