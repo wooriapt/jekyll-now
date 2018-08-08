@@ -59,7 +59,7 @@ Acceptance of the terms and conditions is confirmed by pressing the ‘I have re
 Ethereum Address:  
  *Do Not Use An Exchange Or Centralized Wallet Service*
    
- MyEtherWallet, Mist, Ledger, imToken or **Metamask wallet** addresses are acceptable 
+ MyEtherWallet, Mist, Ledger, imToken or **[Metamask wallet(download)](https://metamask.io/ "Metamask wallet(download)")** addresses are acceptable 
  
 - Country of Origin:  
 - Country of Citizenship:  
@@ -109,7 +109,7 @@ email <dany.me.park@gmail.com>
 
 ## Donate & Crowd Sale cube on Ethereum to account:
 
----
+
 Ethereum account for donations CUBE ON Address:
 0x04f4b14279714abee7B9b1568D487C1586860a8D  
 <a href="https://etherdonation.com/d?to=0x04f4b14279714abee7B9b1568D487C1586860a8D" target="_blank" title="Donate ETH"><img src="https://etherdonation.com/i/btn/donate-btn.png" alt="Donate ETH"/></a>  
