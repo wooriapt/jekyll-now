@@ -9,7 +9,7 @@ title: Whitelist KYC Instructions
 
 All registered members of the whitelist must pass our Know Your Customer (KYC) checks to participate in the Republic Protocol crowdsale on the 8/01/18.   
 KYC checks are necessary to identify crowdsale participants and comply with anti-money laundering rules in different jurisdictions.  
-![_config.yml]({{ site.baseurl }}/images/a8b4666afefc9c2400d3f52c12d0b7f6.jpg)  
+
 
 **CUBE ON Arbitration and Utility Token (XCB)..?**
 
@@ -28,7 +28,7 @@ LitePaper*
 
 
 ---
-**Private Sale**  
+### Private Sale  
 - Sales: 4,429,480,24 US Dollars (KRW \5,000,000,000)
 - Quantity: 100,000,000 XCB (one hundred million 100 million XCB)
 - Investment deadline: Aug 31, 2018
