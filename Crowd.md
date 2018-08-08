@@ -11,11 +11,18 @@ updated 2018-08-08 15:31:27 Wednesday
 
 ![_config.yml]({{ site.baseurl }}/images/9bb40a8e13dfec71a89bbd184095d486.jpg)  
 
+### List  
+- [Whitelist KYC Instructions](https://wooriapt.github.io/wooriapt.github.io/Whitelist-KYC/ "Whitelist KYC Instructions")
+  - Private Sale
+- CrowdSale Cube on
+  - Donate & Crowd Sale cube on Ethereum to account:
+- Please confirm
+
 ### Donate & Crowd Sale cube on Ethereum to account:
 
 ---
 Ethereum account for donations CUBE ON Address:
-0x04f4b14279714abee7B9b1568D487C1586860a8D
+0x04f4b14279714abee7B9b1568D487C1586860a8D  
 <a href="https://etherdonation.com/d?to=0x04f4b14279714abee7B9b1568D487C1586860a8D" target="_blank" title="Donate ETH"><img src="https://etherdonation.com/i/btn/donate-btn.png" alt="Donate ETH"/></a>  
 <!--<a href="https://etherdonation.com/d?to=0x04f4b14279714abee7B9b1568D487C1586860a8D&amount=0.002" target="_blank" 
 title="Donate ETH A Cup of Coffee"><img src="https://etherdonation.com/i/btn/donate-btn.png" alt="Donate ETH A Cup of Coffee"/></a>-->
