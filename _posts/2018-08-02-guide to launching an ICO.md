@@ -3,8 +3,7 @@ layout: post
 title: guide to launching an ICO
 ---
 
-## Guide to launching an Initial Coin Offering (ICO)
-
+### Guide to launching an Initial Coin Offering (ICO)  
 There has been a lot of confusion on what an initial coin offering is (ICO — also sometimes called a token generation event or token sale),
 what kinds of companies an ICO can be used for, and what goes into launching an ICO — from a project’s perspective.
 
@@ -16,7 +15,8 @@ Given the blockchain industry is relatively new, there isn’t a whole lot of in
 Below is a guide of all of the information we collected about the ICO process, with input from people who experienced the 
 process first hand.
 
-A big thank you to Linda Xie, Ankur Nandwani, and Kim Cellere for contributing and reviewing this post.
+A big thank you to Linda Xie, Ankur Nandwani, and Kim Cellere for contributing and reviewing this post.  
+![_config.yml]({{ site.baseurl }}/images/a8b4666afefc9c2400d3f52c12d0b7f6.jpg)
 
 #### Contents
 1. Pre-Planning
