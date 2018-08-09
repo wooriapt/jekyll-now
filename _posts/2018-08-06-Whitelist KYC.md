@@ -22,10 +22,9 @@ The distribution mechanism for XCB tokens on CUBE ON is an autonomous agent, whi
 will initially launch on Ethereum as a smart contract. 
 This mechanism is blockchain agnostic and can be ported to any viable smart 
 contract platform. 
-LitePaper*
+LitePaper*  
 
 
----
 ![_config.yml]({{ site.baseurl }}/images/a8b4666afefc9c2400d3f52c12d0b7f6.jpg) 
 
 ### CUBE ON Token ICO Tokenholder Benefits ?
