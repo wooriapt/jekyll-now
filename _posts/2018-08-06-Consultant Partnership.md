@@ -11,7 +11,7 @@ We  consultants. We offer special training and support for consultants looking t
 **Consider.it** with their clients, as well as access to pricing incentives you can pass onto clients.  
 [Please introduce yourself](https://consider.it/contact?form=consultant_partnership "Please introduce yourself").
 
-![_config.yml]({{ site.baseurl }}/images/Bitnation_corecontributors.jpg)
+
 
 **We are now sailing with a large wind**
 
@@ -31,6 +31,9 @@ You only pay for how much you use.
 For reference, a small non-profit engaging stakeholders for strategic planning might 
 collect around 750 opinions over three months.
 A large city hosting a dialogue about an important topic may collect closer to 5000 opinions.
+
+![_config.yml]({{ site.baseurl }}/images/Bitnation_corecontributors.jpg)
+
 
 ### Pricing Questions
 Can you explain how the Free Forum works?
