@@ -3,12 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
-#### Estonia Blockchin Lab.
-#### List
-
- - [Estonia Blockchin Lab.](#estonia-blockchin-lab)
+### Estonia Blockchin Lab.
+#### List  
+- [Estonia Blockchin Lab.](#estonia-blockchin-lab)
   * [Dear CUBE ON community](#dear-cube-on-community)
-  * [About us:](#about-us-)
+  * [About us](#about-us)
   * [Estonia blockchain lab four core businesses include](#estonia-blockchain-lab-four-core-businesses-include)
   * [More Information](#more-information)
 - [Our Roadmap](#our-roadmap)
@@ -18,9 +17,8 @@ permalink: /about/
 - [Partner](#partner)
 - [Contact me](#contact-me)
 
-<!--
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
--->
+
 
 ### Estonia Blockchin Lab.
 ![_config.yml]({{ site.baseurl }}/images/About-US_web.jpg)  
@@ -32,7 +30,7 @@ Please see an updated version of our roadmap below.
 
 We thank you for your support.
 
-### About us:  
+#### About us  
 CUBE ON is an Estonia-based blockchain Lab. 
 with roots in Korea. We use blockchain technology to create practical and innovative solutions for companies, helping them unlock new markets.  Estonia blockchain Lab is developing an ecosystem for the incubation of projects that have the potential to benefit from blockchain technology.
 
