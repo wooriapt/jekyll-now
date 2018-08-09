@@ -3,6 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+#### Estonia Blockchin Lab.
+#### List
 
   * [Estonia Blockchin Lab.](#estonia-blockchin-lab)
   * [About us:](#about-us-)
@@ -13,9 +15,9 @@ permalink: /about/
 - [Team](#team)
 - [Partner](#partner)
 - [Contact me](#contact-me)
-
+<!--
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
+-->
 
 #### Estonia Blockchin Lab.
 ![_config.yml]({{ site.baseurl }}/images/About-US_web.jpg)  
