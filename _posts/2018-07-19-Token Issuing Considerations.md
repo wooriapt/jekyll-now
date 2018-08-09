@@ -12,18 +12,15 @@ menu:
     identifier: _projects
     weight: 3
 ---
-
-
 ### IEO, IFO, IAO, ICO 
-**IEO, IFO, IAO, ICO — Token Issuing Considerations**
-
-*IEO*****
-
-Or** Initial Exchange Offering**, means a project gets listed on an exchange directly without going through an ICO. We see more of these types of token issuing in countries where ICOs are restricted.
+*IEO*****  
+Or**Initial Exchange Offering**, means a project gets listed on an exchange directly without going through an ICO. 
+We see more of these types of token issuing in countries where ICOs are restricted.
 
 There is a fundamental problem with IEOs, though. Namely, a high percentage of coins are held by a small number of people.
 
-After listing on an exchange, if the price goes up, then a small number of people would have made far more profit than the rest. If the price goes down, that means the small number of holders are selling heavily (potentially taking profit or stop-loss), and all the new investors (buyers) are at a loss. Either way, a small number of people benefit at the expense of a large number of retail investors.
+After listing on an exchange, if the price goes up, then a small number of people would have made far more profit than the rest. 
+If the price goes down, that means the small number of holders are selling heavily (potentially taking profit or stop-loss), and all the new investors (buyers) are at a loss. Either way, a small number of people benefit at the expense of a large number of retail investors.
 
 The second problem with a high concentration of coins in the hands of the few is that it is quite easy to control or manipulate the price of the coin by the few large holders. For this reason, we advise people not to invest in coins where circulation supply is small and not evenly distributed.
 
