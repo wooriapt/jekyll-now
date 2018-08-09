@@ -26,7 +26,7 @@ LitePaper*
 
 
 ---
-![_config.yml]({{ site.baseurl }}/images/4c9ecfb42c0c85c499fa94cde9b807b3.jpg) 
+![_config.yml]({{ site.baseurl }}/images/1_akY6ZRmE6OD_08Va8oKxTA.jpeg) 
 
 ### CUBE ON Token ICO Tokenholder Benefits ?
 
