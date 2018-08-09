@@ -14,6 +14,17 @@ Decentralized Consulting Platform for ICO Developers, Advisors, Crypto-Experts a
 
 ### Our Roadmap
 Where we have been and where we are going.
+![_config.yml]({{ site.baseurl }}/images/About-US_web.jpg)  
+
+
+### Exchange Listing Roadmap.
+- P2P Trading System Development and Test Net Operation  December(Practical Test)
+- CRYPTOCURRENCY P2P Trading System  
+  Seven months later, they started operations and started services on the main net..
+- Estonia, May 2019. Vietnam. Korea "Currency Committee“
+- Goals listed on the Estonian & Korea Exchange as of October-December 2019
+- Listed target price:1 XCB = 1 USD / 1,071.23KRW / 0.81225EUR
+
 
 **Dear CUBE ON community**   
 Please see an updated version of our roadmap below. 
