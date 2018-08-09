@@ -7,6 +7,28 @@ permalink: /about/
 ### Estonia Blockchin Lab.
 ![_config.yml]({{ site.baseurl }}/images/About-US_web.jpg)  
 <!--![_config.yml]({{ site.baseurl }}/images/1_smE2TyCcRv8sa0RZY9GSzw.png)-->  
+**Dear CUBE ON community**   
+Please see an updated version of our roadmap below. 
+Details of our plans will be announced one by one going forward. 
+Please see an updated version of our roadmap below. 
+
+We thank you for your support.
+
+**About us:**  
+CUBE ON is an Estonia-based blockchain Lab. 
+with roots in Korea. We use blockchain technology to create practical and innovative solutions for companies, helping them unlock new markets.  Estonia blockchain Lab is developing an ecosystem for the incubation of projects that have the potential to benefit from blockchain technology.
+
+**Estonia blockchain lab four core businesses include**  
+
+- a smart wallet called CUBE, 
+- a Token Factory
+- BlockChain Loyalty Programs
+- P to P Cryptoexchange
+- altcoin Mall 
+
+and ICO Support Program, 
+
+
 **More Information**  
 ICO Landing Service page for your cryptocurrency project  
 Decentralized Consulting Platform for ICO Developers, Advisors, Crypto-Experts and Investors.  
