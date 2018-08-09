@@ -16,7 +16,7 @@ Below is a guide of all of the information we collected about the ICO process, w
 process first hand.
 
 A big thank you to Linda Xie, Ankur Nandwani, and Kim Cellere for contributing and reviewing this post.  
-![_config.yml]({{ site.baseurl }}/images/a8b4666afefc9c2400d3f52c12d0b7f6.jpg)
+![_config.yml]({{ site.baseurl }}/images/startapy_iko.png)
 
 #### Contents
 1. Pre-Planning
