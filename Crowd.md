@@ -1,4 +1,4 @@
-## Crowd_Sale CubeONn
+## Crowd_Sale CubeON
 
 updated 2018-08-08 15:31:27 Wednesday
 <!--
@@ -118,8 +118,8 @@ email <dany.me.park@gmail.com>
 
 Ethereum account for donations CUBE ON Address:
 0x04f4b14279714abee7B9b1568D487C1586860a8D  
-<a href="https://etherdonation.com/d?to=0x04f4b14279714abee7B9b1568D487C1586860a8D" target="_blank" title="Donate ETH"><img src="https://etherdonation.com/i/btn/donate-btn.png" alt="Donate ETH"/></a>  
-<!--<a href="https://etherdonation.com/d?to=0x04f4b14279714abee7B9b1568D487C1586860a8D&amount=0.002" target="_blank" 
+<!--<a href="https://etherdonation.com/d?to=0x04f4b14279714abee7B9b1568D487C1586860a8D" target="_blank" title="Donate ETH"><img src="https://etherdonation.com/i/btn/donate-btn.png" alt="Donate ETH"/></a>  
+<a href="https://etherdonation.com/d?to=0x04f4b14279714abee7B9b1568D487C1586860a8D&amount=0.002" target="_blank" 
 title="Donate ETH A Cup of Coffee"><img src="https://etherdonation.com/i/btn/donate-btn.png" alt="Donate ETH A Cup of Coffee"/></a>-->
 [Donation:](https://goo.gl/gg31cg "Donation") https://goo.gl/gg31cg  
 *Please join the donation.Thank you.*  
