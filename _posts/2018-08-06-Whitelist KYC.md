@@ -28,6 +28,23 @@ LitePaper*
 ---
 ![_config.yml]({{ site.baseurl }}/images/a8b4666afefc9c2400d3f52c12d0b7f6.jpg) 
 
+### CUBE ON Token ICO Tokenholder Benefits ?
+
+**Finding an escrow agent**
+A fair escrow lowers transaction fees and costs associated with buyer fraud for sellers while providing you with buyer protection. 
+If you are buying/selling on a forum, we recommend having a forum moderator to escrow for your transaction. 
+It is important  to choose a good escrow agent for your protection.
+Never use an unknown
+
+**escrow agent.**
+TX Fee 0.1% - 10%
+
+Charge a percentage fee in exchange for your escrow services.  
+Accepted fee range 0.1% - 10%, in increments of 0.1%.   
+Allow Percentage Fees as Exchanges for Your Delegated Service  
+Fees range 0.1% -10% (increase by 0.1%)  
+
+
 ### Private Sale  
 - Sales: 4,429,480,24 US Dollars (KRW \5,000,000,000)
 - Quantity: 100,000,000 XCB (one hundred million 100 million XCB)
