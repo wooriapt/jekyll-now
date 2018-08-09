@@ -26,10 +26,8 @@ with roots in Korea. We use blockchain technology to create practical and innova
 - P to P Cryptoexchange
 - altcoin Mall 
 
-and ICO Support Program, 
-
-
-**More Information**  
+#### More Information
+**and ICO Support Program** 
 ICO Landing Service page for your cryptocurrency project  
 Decentralized Consulting Platform for ICO Developers, Advisors, Crypto-Experts and Investors.  
 <a href="http://cubeon.co.in"> Wibsite cube on </a>
@@ -48,27 +46,7 @@ Where we have been and where we are going.
 - Listed target price:1 XCB = 1 USD / 1,071.23KRW / 0.81225EUR
 
 
-**Dear CUBE ON community**   
-Please see an updated version of our roadmap below. 
-Details of our plans will be announced one by one going forward. 
-Please see an updated version of our roadmap below. 
-
-We thank you for your support.
-
-**About us:**  
-CUBE ON is an Estonia-based blockchain Lab. 
-with roots in Korea. We use blockchain technology to create practical and innovative solutions for companies, helping them unlock new markets.  Estonia blockchain Lab is developing an ecosystem for the incubation of projects that have the potential to benefit from blockchain technology.
-
-**Estonia blockchain lab four core businesses include**  
-
-- a smart wallet called CUBE, 
-- a Token Factory
-- BlockChain Loyalty Programs
-- P to P Cryptoexchange
-- altcoin Mall 
-
-and ICO Support Program, 
-
+### community
 Join our Telegram channel today to show your support!   
 Please also follow and like us on [github](https://github.com/wooriapt "github"), [Twitter](https://twitter.com/wooriapt79 "Twitter"), and [Telegram](https://t.me/cubeon "Telegram").
 
