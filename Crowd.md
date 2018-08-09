@@ -1,9 +1,9 @@
-## Crowd_Sale CubeON
+## CrowdSale CubeON
 
 updated 2018-08-08 15:31:27 Wednesday
 <!--
-## chat [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/wooriapt?utm_source=share-link&utm_medium=link&utm_campaign=share-link)  
--->
+## chat [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/wooriapt?utm_source=share-link&utm_medium=link&utm_campaign=share-link) --> 
+
 ### CUBE ON Arbitration and Utility Token (XCB)..?  
 
 The CUBE ON Arbitration and Utility Token (XCB) is an ERC20 compatible in-app token for the CUBE ON Jurisdiction.
