@@ -27,13 +27,14 @@ with roots in Korea. We use blockchain technology to create practical and innova
 - altcoin Mall 
 
 #### More Information
-**and ICO Support Program** 
-ICO Landing Service page for your cryptocurrency project  
-Decentralized Consulting Platform for ICO Developers, Advisors, Crypto-Experts and Investors.  
+**and ICO Support Program**   
+ICO Landing Service page for your cryptocurrency project    
+Decentralized Consulting Platform for ICO Developers, Advisors, Crypto-Experts and Investors.    
 <a href="http://cubeon.co.in"> Wibsite cube on </a>
 
 ### Our Roadmap
-Where we have been and where we are going.  
+Where we have been and where we are going.
+  
 ![_config.yml]({{ site.baseurl }}/images/ico roadmap.PNG)  
 
 
@@ -52,6 +53,7 @@ Please also follow and like us on [github](https://github.com/wooriapt "github")
 
 ### Team  
 ### Partner  
+![_config.yml]({{ site.baseurl }}/images/ico roadmap.PNG)  
 ### Contact me  
 <dany.me.park@gmail.com>
 
