@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Consultant Partnership
+title: Our Consultant Partnership
 ---
 
 #### [Consultant Partnership](https://consider.it/pricing#consulting "Consultant Partnership")
