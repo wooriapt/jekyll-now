@@ -5,19 +5,17 @@ Date: 2018-08-05 14:24:09 Sunday
 ---
 
 **Useless news**
-
-1.[단독][원희룡 지사, 제주 크립토밸리 조성 위해 로저버와 손잡아](https://www.blockinpress.com/archives/7618#.W2aD9Sd1GKM.link "원희룡 지사, 제주 크립토밸리 조성 위해 로저버와 손잡아")
-
----
+1.[단독][원희룡 지사, 제주 크립토밸리 조성 위해 로저버와 손잡아]
+(https://www.blockinpress.com/archives/7618#.W2aD9Sd1GKM.link "원희룡 지사, 제주 크립토밸리 조성 위해 로저버와 손잡아")
 
 2.[베트남 암호화폐 채굴 대행업체, CEO 투자금과 함께 잠적](https://www.blockinpress.com/archives/7514#.W2aFv3gBNjc.link)   
 미국 현지 매체 보도에 따르면, 베트남 소재 암호화폐 채굴 스타트업 스카이 마이닝(Sky Mining)의 레민탐(LeMinhTam) CEO는 고객 투자금 3,500만 달러(391억 원)를 가지고 26일부터 잠적했다.  
 
 스카이 마이닝은 암호화폐 채굴기를 적게는 100 달러에서 많게는 5,000 달러에 투자자들에게 대여하는 식으로 약 5,000명의 투자자들으로부터 자금을 조달 받았다.
 
----
 
-3.[적립 포인트 대신 암호화폐 증정, 소비자 반응 실험해보니…](http://www.ciokorea.com/news/37009#csidx3e1e1e7a06770e28c3fab5ee4094c17) 
+3.[적립 포인트 대신 암호화폐 증정, 소비자 반응 실험해보니…]
+(http://www.ciokorea.com/news/37009#csidx3e1e1e7a06770e28c3fab5ee4094c17)   
 ** 게임 체인저 **  
 
 ** 참여자는 4가지 방법으로 암호화폐인 이더를 사용할 수 있었다.**
