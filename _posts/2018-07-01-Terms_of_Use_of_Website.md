@@ -10,7 +10,8 @@ Last updated: March 19, 2018.
 **PLEASE THEREFORE READ THESE TERMS CAREFULLY EACH TIME YOU USE THIS WEBSITE.**
 
 This website is owned and operated by Estonia Blockchain Lab. Belize (hereinafter “cube ON”). CUBE ON has the sole discretion to change any Term at any time.
-By accessing or using this website, you unconditionally accept these Terms. If you do not agree to be bound by any Term, please do not access or use this website.  
+By accessing or using this website, you unconditionally accept these Terms. If you do not agree to be bound by any Term, 
+please do not access or use this website.      
 
 ![_config.yml]({{ site.baseurl }}/images/terms.jpg)    
 
