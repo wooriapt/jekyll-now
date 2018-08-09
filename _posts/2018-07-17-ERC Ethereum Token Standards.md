@@ -7,8 +7,8 @@ title: ERC Ethereum Token Standards
 ### chat [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/wooriapt?utm_source=share-link&utm_medium=link&utm_campaign=share-link) -->
 
 
-ERC20, ERC223, ERC777
----
+### ERC20, ERC223, ERC777
+
 
 Very few people know about the existence of other token standards besides the well-known ERC20 standard. 
 It’s not all sunshine and roses for the ERC20 token standard.  
@@ -20,8 +20,8 @@ Let’s explore this.
 
 
 
-WHAT IS ERC20?
----
+### WHAT IS ERC20?
+
 Before we can dive deep into the issues with ERC20, let’s give a general overview of what ERC20 is. 
 ERC itself stands for Ethereum Request for Comment
 
@@ -31,7 +31,8 @@ An Ethereum developer can submit an Ethereum Improvement Proposal (EIP) that des
 an existing token standard.   
 Once the proposal is accepted by a committee, it becomes an ERC token standard.  
 
-WHAT DOES A STANDARD LIKE ERC20 REPRESENT?
+**WHAT DOES A STANDARD LIKE ERC20 REPRESENT?**
+
 ---
 *An Ethereum standard represents a set of functions developers can use when creating smart contract code with Solidity. To give you an idea of some of the available functions:
 
@@ -41,7 +42,8 @@ WHAT DOES A STANDARD LIKE ERC20 REPRESENT?
 
 *totalSupply(): Returns total token supply.*  
 
-ERC20 CRITICAL BUG
+**ERC20 CRITICAL BUG**
+
 ---
 Ethereum is a gold standard in the world of smart contracts and has the biggest capitalization among other platforms. 
 Most token sales happen on the Ethereum platform, using the ERC20 token standard.  
