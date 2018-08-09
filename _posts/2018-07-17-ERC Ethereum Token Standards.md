@@ -2,14 +2,9 @@
 layout: post
 title: ERC Ethereum Token Standards 
 ---
-
+### ERC20, ERC223, ERC777
 <!--- 
 ### chat [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/wooriapt?utm_source=share-link&utm_medium=link&utm_campaign=share-link) -->
-
-
-### ERC20, ERC223, ERC777
-
-
 Very few people know about the existence of other token standards besides the well-known ERC20 standard. 
 It’s not all sunshine and roses for the ERC20 token standard.  
 A security bug has caused the loss of millions of dollars in the ICO space.   
