@@ -14,14 +14,7 @@ menu:
 ---
 
 
-IEO, IFO, IAO, ICO — Token Issuing Considerations
----
-
-
-## chat [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/wooriapt?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
-
-
-
+### IEO, IFO, IAO, ICO 
 **IEO, IFO, IAO, ICO — Token Issuing Considerations**
 
 *IEO*****
@@ -73,3 +66,6 @@ Currently, I recommend selling no less than 30%, and no more than 70% of your to
 Hope this article helped realize a few points that you haven’t thought about before. As far as listing on the exchange goes, we still prefer coins that went through an ICO, especially those accepting BNB during their ICO.
 
 Source:[ Changpeng Zhao](https://www.linkedin.com/pulse/ieo-ifo-iao-ico-token-issuing-considerations-changpeng-zhao/http:// " Changpeng Zhao")
+
+
+## chat [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/wooriapt?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
