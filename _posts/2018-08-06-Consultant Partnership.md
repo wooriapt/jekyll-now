@@ -4,7 +4,7 @@ title: Our Consultant Partnership
 ---
 
 #### [Consultant Partnership](https://consider.it/pricing#consulting "Consultant Partnership")
-![_config.yml]({{ site.baseurl }}/images/hqdefault.jpg)  
+![_config.yml]({{ site.baseurl }}/images/bitnation.jpg)  
 
 Are you a consultant?
 We  consultants. We offer special training and support for consultants looking to use  
