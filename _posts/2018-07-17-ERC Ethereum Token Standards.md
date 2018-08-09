@@ -5,18 +5,19 @@ title: ERC Ethereum Token Standards
 ### ERC20, ERC223, ERC777
 <!--- 
 ### chat [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/wooriapt?utm_source=share-link&utm_medium=link&utm_campaign=share-link) -->
-Very few people know about the existence of other token standards besides the well-known ERC20 standard. 
-It’s not all sunshine and roses for the ERC20 token standard.  
-A security bug has caused the loss of millions of dollars in the ICO space.   
-That’s why ERC223 and ERC777 jumped in to provide security and better transaction handling mechanisms.   
+Very few people know about the existence of other token standards besides the well-known ERC20 standard.   
+It’s not all sunshine and roses for the ERC20 token standard.    
+A security bug has caused the loss of millions of dollars in the ICO space.     
+That’s why ERC223 and ERC777 jumped in to provide security and better transaction handling mechanisms.     
 Let’s explore this.  
+
+
 
 ![_config.yml]({{ site.baseurl }}/images/1_smE2TyCcRv8sa0RZY9GSzw.png)  
 
 
 
 ### WHAT IS ERC20?
-
 Before we can dive deep into the issues with ERC20, let’s give a general overview of what ERC20 is. 
 ERC itself stands for Ethereum Request for Comment
 
@@ -37,9 +38,7 @@ Once the proposal is accepted by a committee, it becomes an ERC token standard.
 
 *totalSupply(): Returns total token supply.*  
 
-**ERC20 CRITICAL BUG**
-
----
+**ERC20 CRITICAL BUG**  
 Ethereum is a gold standard in the world of smart contracts and has the biggest capitalization among other platforms. 
 Most token sales happen on the Ethereum platform, using the ERC20 token standard.  
 The ERC20 standard was proposed in 2015 and officially formalized in September 2017.   
