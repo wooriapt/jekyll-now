@@ -13,8 +13,8 @@ Decentralized Consulting Platform for ICO Developers, Advisors, Crypto-Experts a
 <a href="http://cubeon.co.in"> Wibsite cube on </a>
 
 ### Our Roadmap
-Where we have been and where we are going.
-![_config.yml]({{ site.baseurl }}/images/About-US_web.jpg)  
+Where we have been and where we are going.  
+![_config.yml]({{ site.baseurl }}/images/ico roadmap.PNG)  
 
 
 ### Exchange Listing Roadmap.
@@ -48,8 +48,10 @@ with roots in Korea. We use blockchain technology to create practical and innova
 and ICO Support Program, 
 
 Join our Telegram channel today to show your support!   
-Please also follow and like us on github, Twitter, and Telegram.  
+Please also follow and like us on [github](https://github.com/wooriapt "github"), [Twitter](https://twitter.com/wooriapt79 "Twitter"), and [Telegram](https://t.me/cubeon "Telegram").
 
-### Contact me
+### Team  
+### Partner  
+### Contact me  
+<dany.me.park@gmail.com>
 
-<a href="mailto:dany.me.park@gmail.com">Email Me</a> 
