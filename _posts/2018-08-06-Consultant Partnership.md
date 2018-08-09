@@ -3,8 +3,8 @@ layout: post
 title: Our Consultant Partnership
 ---
 
-#### [Consultant Partnership](https://consider.it/pricing#consulting "Consultant Partnership")
-![_config.yml]({{ site.baseurl }}/images/bitnation.jpg)  
+### [Consultant Partnership](https://consider.it/pricing#consulting "Consultant Partnership")
+ 
 
 Are you a consultant?
 We  consultants. We offer special training and support for consultants looking to use  
@@ -42,9 +42,9 @@ You can create a free forum and use it for as long as you want.
 This forum is public by default, but you can make it invite-only. 
 The forum comes with most of the standard features. The main limitation is that only the 25 most recent questions will 
 be listed on the forum homepage. Upgrade to the Unlimited Forum if you want access to all the questions posted in your forum 
-(or any of the other additional features with Unlimited, like a branded homepage).  
+(or any of the other additional features with Unlimited, like a branded homepage).    
 
-
+![_config.yml]({{ site.baseurl }}/images/bitnation.jpg) 
 
 
 
