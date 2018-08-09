@@ -1,3 +1,20 @@
+---
+title: CrowdSale CubeON 
+layout: post
+description: Projects by CuBe oN College
+publish_date: 2018-07-01 03:00:00 +0000
+menu:
+  footer:
+    identifier: _projects
+    url: "/projects/"
+    weight: 2
+  navigation:
+    identifier: _projects
+    weight: 3
+---
+
+
+
 ## Crowd_Sale Cube on
 ---
 updated 2018-08-08 15:31:27 Wednesday
