@@ -15,7 +15,9 @@ Given the blockchain industry is relatively new, there isn’t a whole lot of in
 Below is a guide of all of the information we collected about the ICO process, with input from people who experienced the 
 process first hand.
 
-A big thank you to Linda Xie, Ankur Nandwani, and Kim Cellere for contributing and reviewing this post.  
+A big thank you to Linda Xie, Ankur Nandwani, and Kim Cellere for contributing and reviewing this post.
+
+  
 ![_config.yml]({{ site.baseurl }}/images/startapy_iko.png)
 
 #### Contents
