@@ -12,7 +12,7 @@ The XCB token rewards good reputation and is issued on CUBE ON when Citizens acc
 through creating a contract, successfully completing a contract or resolving a dispute attached to a contract. 
 XCB is an algorithmic reputation token, an arbitration currency based on performance rather than purchasing power, popularity or attention. The distribution mechanism for XCB tokens on CUBE ON is an autonomous agent, which will initially launch on Ethereum as a smart contract. This mechanism is blockchain agnostic and can be ported to any viable smart contract platform. LitePaper**   
 
-![_config.yml]({{ site.baseurl }}/images/4c9ecfb42c0c85c499fa94cde9b807b3)  
+![_config.yml]({{ site.baseurl }}/images/4c9ecfb42c0c85c499fa94cde9b807b3.jpg)  
 
 ### List  
 -  [Whitelist KYC Instructions][Whitelist ]
