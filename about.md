@@ -53,7 +53,7 @@ Please also follow and like us on [github](https://github.com/wooriapt "github")
 
 ### Team  
 ### Partner  
-![_config.yml]({{ site.baseurl }}/images/ico roadmap.PNG)  
+![_config.yml]({{ site.baseurl }}/images/c8782d04abb57149d47d24d789e6786d.jpg)  
 ### Contact me  
 <dany.me.park@gmail.com>
 
