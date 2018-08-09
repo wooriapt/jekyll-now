@@ -3,16 +3,17 @@ layout: post
 title: Terms of Use of Website
 ---
 
-Terms of Use of Website ("TERMS").
-
+### Terms of Use of Website ("TERMS").  
 Last updated: March 19, 2018.
+
 ---
 PLEASE THEREFORE READ THESE TERMS CAREFULLY EACH TIME YOU USE THIS WEBSITE.
 
 This website is owned and operated by Estonia Blockchain Lab. Belize (hereinafter “cube ON”). CUBE ON has the sole discretion to change any Term at any time.
 By accessing or using this website, you unconditionally accept these Terms. If you do not agree to be bound by any Term, please do not access or use this website.
+![_config.yml]({{ site.baseurl }}/images/terms.jpg)    
 
-Restriction on Use of Materials.
+**Restriction on Use of Materials.**
 
 No material including without limitation, the website design and layout, graphics, images and hyperlinks from this website may be imitated, modified, reproduced, republished, uploaded, posted, transmitted or distributed in any way, without the prior written permission of CUBE ON.
 
@@ -26,15 +27,15 @@ When we host any software and enable you to access and use such software through
 
 Disclaimer of Warranties and Liability.
 
-This website has been compiled in good faith by CUBE ON.
+**This website has been compiled in good faith by CUBE ON.**
 
-IMPORTANT: THIS WEBSITE AND ITS MATERIALS ARE PROVIDED “AS IS” AND WITHOUT WARRANTIES OF ANY KIND EITHER EXPRESS OR IMPLIED. TO THE FULLEST EXTENT PERMISSIBLE AND SUBJECT AND PURSUANT TO APPLICABLE LAW, CUBE ON DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES AS TO FUNCTIONALITY, OPERABILITY, ACCESSIBILITY, ACCURACY, CORRECTNESS, RELIABILITY, UPDATEDNESS, TIMELINESS, SATISFACTORY QUALITY, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. CS DOES NOT WARRANT THAT THE WEBSITE, ITS MATERIALS AND FUNCTIONS CONTAINED IN THE MATERIALS WILL BE UNINTERRUPTED OR ERROR-FREE, OR THAT DEFECTS WILL BE CORRECTED OR THAT THIS WEBSITE AND THIS SERVER THAT MAKES IT AVAILABLE ARE FREE OF ANY COMPUTER VIRUS AND/OR OTHER HARMFUL OR CORRUPTING CODE, PROGRAMME, MACRO AND SUCH LIKE ELEMENTS.
+*Important: This Website And Its Materials Are Provided “As Is” And Without Warranties Of Any Kind Either Express Or Implied. To The Fullest Extent Permissible And Subject And Pursuant To Applicable Law, Cube On Disclaims All Warranties, Express Or Implied, Including, But Not Limited To, Any Warranties As To Functionality, Operability, Accessibility, Accuracy, Correctness, Reliability, Updatedness, Timeliness, Satisfactory Quality, Merchantability And Fitness For A Particular Purpose. Cs Does Not Warrant That The Website, Its Materials And Functions Contained In The Materials Will Be Uninterrupted Or Error-Free, Or That Defects Will Be Corrected Or That This Website And This Server That Makes It Available Are Free Of Any Computer Virus And/Or Other Harmful Or Corrupting Code, Programme, Macro And Such Like Elements.*  
 
 Limitation of Liability.
 ---
 Subject to applicable law, under no circumstances, including, but not limited to negligence, shall CUBE ON be liable for any direct or indirect damages howsoever caused to any person that result from any person’s use, misuse, abuse, access of, or inability to access or use the website and/or its materials.
 
-Changes & Access.
+**Changes & Access.**
 
 Any change may be made to the website and any of its materials from time to time at CUBE ON’s sole discretion.
 
