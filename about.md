@@ -68,7 +68,11 @@ Join our Telegram channel today to show your support!
 Please also follow and like us on [github](https://github.com/wooriapt "github"), [Twitter](https://twitter.com/wooriapt79 "Twitter"), and [Telegram](https://t.me/cubeon "Telegram").
 
 ### Team  
-### Partner  
+### Partner
+Cube ON
+Contact us for partnership opportunities
+<a href="mailto:dany.me.park@gmail.com" class="btn btn-block"><i class="fa fa-user-circle-o"></i> Get in touch</a>
+
 ![_config.yml]({{ site.baseurl }}/images/cuberain.jpg)
 ### Contact me  
 <dany.me.park@gmail.com>
