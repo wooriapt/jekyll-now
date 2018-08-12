@@ -69,7 +69,7 @@ Please also follow and like us on [github](https://github.com/wooriapt "github")
 
 ### Team  
 ### Partner
-Cube ON  
+**Cube ON**  
 Contact us for partnership opportunities  
 <a href="mailto:dany.me.park@gmail.com" class="btn btn-block"><i class="fa fa-user-circle-o"></i> Get in touch</a>
 
