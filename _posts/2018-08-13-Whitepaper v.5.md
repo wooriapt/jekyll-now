@@ -151,9 +151,9 @@ Loyalty rewards and blockchain technology are a perfect match. It’s truly a ne
 |  Current Loyalty Programs | 123OTT Loyalty Program   |
 | ------------ | ------------ |
 | Points must be accumulated before customer is able to redeem for a product  | Tokens can be used instantly to receive a discount, sold for cash, donated to charity, or given to a friend  |
-|Points can be redeemed at either the same store or a small selection of stores and products   | Points can be redeemed at any business with the CollabCoin network, sold for cash, donated to charity, or given to a friend.  |
+|Points can be redeemed at either the same store or a small selection of stores and products   | Points can be redeemed at any business with the 123OTT token network, sold for cash, donated to charity, or given to a friend.  |
 | Consumer data is required and stored locally on company servers or on a cloud-based system  |No detailed customer information needed in signup and data is not stored locally or in the cloud   |
-|Loyalty reward platforms aren't tailored to the consumer   |  Using innovative recommendation algorithms CollabCoin will suggest products and services that are specifically curated elevating the customer experience |
+|Loyalty reward platforms aren't tailored to the consumer   |  Using innovative recommendation algorithms 123OTT token will suggest products and services that are specifically curated elevating the customer experience |
 |When multiple businesses are in a joint loyalty rewards program a point is valued the same everywhere   |  Businesses that are active in the 123OTT token network will have higher rewards than inactive businesses. For consumers their reward points increase the more they shop at a business encouraging further spend |
 |Normally a customer is rewarded for purchasing a product or service   |Customers can be rewarded for many actions including; referring a friend, promoting a business/product on social media, staying loyal to a business for a certain amount of time, etc.   |
 |No network effects to existing participants as the number of participants increases   |As the demand for coins increases the coins themselves become more valuable.   |
