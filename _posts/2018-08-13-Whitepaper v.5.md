@@ -66,11 +66,11 @@ The decentralized structure of the blockchain brings several key features in con
 What Ethereum intends to provide is a blockchain with a built-in fully fledged Turing-complete programming language that can be used to create "contracts", encode arbitrary state transition functions, allowing users to create any of the systems described above, as well as many others that we have not yet imagined, simply by writing up the logic in a few lines of code. (https://github.com/ethereum/wiki/wiki/White-Paper)
 
 ---
-CollabCoin helps small to medium sized businesses create a loyalty rewards program to improve customer loyalty and retention.
+123OTT token helps small to medium sized businesses create a loyalty rewards program to improve customer loyalty and retention.
 
 ---
 
-#### What is the CollabCoin business network?  
+#### What is the 123OTT token business network?  
 The 123OTT token business network is a group of SMEs in agreement with each other to have a loyalty rewards system. 
 As a SME joins the 123OTT token network they agree to join the loyalty rewards program and offer customers tokens as a reward for shopping with them as well as redeem tokens for products within their store. 
 These agreements are strictly business-to-business and are stored in smart contracts on the Ethereum blockchain. 
