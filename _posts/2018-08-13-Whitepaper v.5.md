@@ -232,7 +232,7 @@ For customers, the ability to use points more readily and quickly will increase 
 #### technology   
 have the capability to operate without intermediaries. This environment is perfectly suited for a loyalty network platform.
 
-####123OTT Tokens  
+#### 123OTT Tokens  
 It's essential for business-to-business partnerships to have a way to track progress and pass the value of their partnership onto their consumers. Currently this is often done through coupon codes, referral links, and loyalty points. 
 
 However, the current tools available can't answer fundamental questions such as: How many coupons/referral codes/points were distributed? Exactly how many are being used by consumers? How many are held by consumers? How do I, as a business stakeholder know that my partner is promoting the partnership? And most importantly what incentives are in place to ensure both businesses adhere to the terms of the partnership? 
@@ -258,16 +258,17 @@ The 123OTT token  are “mined” by consumers buying products from businesses i
 Since the 123OTT token will be traded on exchanges the value of the coin itself can change minute to minute. The value of the coins will be correlated to the cost of the product being purchased or redeemed. For example, if a 123OTT token is worth $1 each and a pair of shoes costs $100 and a
 
 #### customer   
-has 100 points than the customer will use 100 coins to get the shoes. If the next day the points are worth $100 each the customer will use one coin to buy the shoes. CollabCoin will generate a total of 400MM coins, these coins will be distributed during a token sale, please refer to www.collabcoin.com for more information on how to support small business and join the movement.
+has 100 points than the customer will use 100 coins to get the shoes. If the next day the points are worth $100 each the customer will use one coin to buy the shoes. CollabCoin will generate a total of 400MM coins, these coins will be distributed during a token sale, please refer to wooriapt.github.io for more information on how to support small business and join the movement.
 
 Competitive Analysis Company Value Prop Risks Targeted Companies 123OTT token Universal loyalty reward program that is simple and easy to use. Helps businesses increase revenue and customer retention and rewards customers for shopping at SMEs Adoption, Legal SMEs (online and brick and mortar)
 **Competitor 1**
 Issues digital points using the Blockchain ledger (Ethereum) and utilizes smart-contracts to enable instantaneous issuance and redemption of digital points.
 
 Scalability, Adoption, Legal
-Currently targeting travel, hotels, banks and financial services companies, healthcare, government, large-scale retail companies and e-commerce Competitor 2 Transforms traditional discount coupons, loyalty points and shopping vouchers into liquid, tradable digital tokens. Tokens from multiple merchants can be stored in one convenient app which also allows for in app shopping and features the GAT Exchange GAT exchange scale, loyalty points conversion 60000+ companies globally, mostly targeted in Asia
+Currently targeting travel, hotels, banks and financial services companies, healthcare, government, large-scale retail companies and e-commerce Competitor 2 Transforms traditional discount coupons, loyalty points and shopping vouchers into liquid, tradable digital tokens. Tokens from multiple merchants can be stored in one convenient app which also allows for in app shopping and features the GAT Exchange GAT exchange scale, loyalty points conversion 60000+ companies globally, mostly targeted in Asia  
+
 **Competitor 3**
-Bitrewards works as a "crypto cash back" for rewards systems. A percentage of customer purchases is given back in the form of crypto currency
+Bitrewards works as a "crypto cash back" for rewards systems. A percentage of customer purchases is given back in the form of crypto currency   
 Scalability, Adoption, Legal, Payment tech
 500 retailers
 
