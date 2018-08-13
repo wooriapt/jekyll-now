@@ -1,3 +1,8 @@
+---
+layout: post
+title: Loyalty Rewards Programs
+
+---
 
 
 
@@ -11,28 +16,42 @@
 #### Whitepaper v.5  
 2018-08-13 21:32:56 monday
 
+#### Summary    
+Consumer acquisition and retention are a critical component of business growth and success, especially for Small to Medium Enterprises (SMEs). SMEs are the largest job creators in the world and offer great value to local communities however they are struggling to compete with large Multinational Corporations (MNCs). SMEs cannot compete on price due to the ability of MNC’s to take advantage of their economies of scale. However, with businesses working together they can reach a scale to compete on value. 
+123OTT token believes that through a business-to-business universal loyalty rewards program SME's can increase consumer acquisition and retention. Native loyalty reward programs are difficult to manage, due to the time and resource requirements, and lack of an effective platform to measure success. Third party loyalty reward programs don't directly benefit the business and are not customizable. 
+Due to these challenges only companies with the resources, subject matter expertise and ability to create and manage loyalty rewards programs can take advantage of such an opportunity. SMEs that can’t allocate the necessary time and resources to managing a loyalty rewards program are deprived of a powerful tool for business growth and success.
+  
 
 
 
 
-
-
-
+  * [Summary](#summary)
   * [Intro](#intro)
     + [What is the Blockchain?](#what-is-the-blockchain-)
+  * [What is the 123OTT token business network?](#what-is-the-123ott-token-business-network-)
     + [Why Small to Medium Sized Enterprises?](#why-small-to-medium-sized-enterprises-)
-  * [The reduction in customer loyalty program participation has left huge numbers of dormant accounts credited with only a few points, with no hope of ever accumulating enough points to get something worthwhile. Often consumers need to earn many credits, often taking months or even years, to receive the most basic rewards in the program.](#the-reduction-in-customer-loyalty-program-participation-has-left-huge-numbers-of-dormant-accounts-credited-with-only-a-few-points--with-no-hope-of-ever-accumulating-enough-points-to-get-something-worthwhile-often-consumers-need-to-earn-many-credits--often-taking-months-or-even-years--to-receive-the-most-basic-rewards-in-the-program)
-    + [Trust](#trust)
+  * [Technological advancements are improving our lives and how the world does business.](#technological-advancements-are-improving-our-lives-and-how-the-world-does-business)
+  * [The Problem](#the-problem)
+  * [The reduction in customer loyalty program](#the-reduction-in-customer-loyalty-program)
+  * [Trust](#trust)
+  * [Manage](#manage)
+  * [ROI](#roi)
 - [What is 123OTT Coin?](#what-is-123ott-coin-)
-    + [Current Loyalty Programs vs the 123OTT token Loyalty Program](#current-loyalty-programs-vs-the-123ott-token-loyalty-program)
+  * [Why Focus on Customer Loyalty Programs?](#why-focus-on-customer-loyalty-programs-)
+  * [Current Loyalty Programs vs the 123OTT token Loyalty Program](#current-loyalty-programs-vs-the-123ott-token-loyalty-program)
   * [Unique Value Proposition for Businesses](#unique-value-proposition-for-businesses)
   * [Unique Value Proposition for Consumers](#unique-value-proposition-for-consumers)
   * [How it works for businesses](#how-it-works-for-businesses)
   * [How it works for Consumers](#how-it-works-for-consumers)
-  * [Business Model & Go to Market Strategy](#14business-model---go-to-market-strategy)
+  * [Business Model & Go to Market Strategy](#business-model---go-to-market-strategy)
+  * [Technical Architecture](#technical-architecture)
   * [WHY BLOCKCHAIN?](#why-blockchain-)
+  * [technology](#technology)
+  * [123OTT Tokens](#123ott-tokens)
+  * [customer](#customer)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 
 
@@ -97,7 +116,7 @@ SMEs don’t have the time, money, or expertise to engage in strategic partnersh
 
 Therefore, we have developed a service for the addressable market that is under served, making it simple to use as well as secure and low cost to meet their needs. When it comes to loyalty programs large enterprises are incentivized not to disrupt their current loyalty program, as they won't be able to control the supply, demand and infrastructure.
 
-##### The Problem  
+#### The Problem  
 Creating strategic business partnerships can help a SMEs grow their customer base, increase revenue, and mitigate risks. Large MNCs often have dedicated resources with the sole responsibility of developing partnerships with complementary businesses. However, for most SMEs finding, managing, and leveraging strategic partnerships is a very difficult task.
 
 A fundamental problem with traditional loyalty programs is delayed fulfillment. Customers must continue shopping to earn enough points to get a free gift sometime in the future. This post-transactional rewards system exists because in the past instant payout or immediate reductions were impossible due to the banking and retail infrastructure. Now, with the recent improvements in technology, customers expect instant returns without any complex redemption process. In addition, customers expect more freedom in redemption options for their loyalty points. Currently a customer can only redeem points at a few stores or for a select number of items. 123OTT token is a universal loyalty points system where coins can be redeemed for products and services across any business within the network.
@@ -114,11 +133,11 @@ Not only a significant liability for the business, the loyalty program has also 
 Without tangible rewards in real time, the existing inflexible post-transactional loyalty schemes are out of step with demand. Once they have earned enough credits, consumers are no longer prepared to make the effort needed to redeem rewards – they want it now. 
 123OTT token aims to remedy this issue by issuing coins instead of reward points. These coins can be redeemed immediately against products, cash or sent to a friend as a gift.
 
-##### Trust  
+#### Trust  
 When a SME is considering entering a strategic partnership they often wonder how one business can trust another, and what parameters are in place to ensure that each will fulfill their end of the bargain? It’s critical to have restrictions in place so fraud, misrepresentation and theft do not occur. In this environment of distrust and skepticism there must be clear and actionable rules in the partnership that reward a business when they perform according to the terms of the agreements and discipline those who try to abuse or game the system.
-##### Manage  
+#### Manage  
 To manage a strategic partnership takes time and resources, which is something SMEs have in short supply. Often, there are legal costs involved and time spent negotiating terms. Consequently, since SMEs don’t have subject matter expertise in creating and managing strategic partnerships they often decide it’s not worth the time and effort. For SMEs to participate in strategic partnerships it must be incredibly easy and simple to manage, with very little time or experience needed to manage the relationship.
-##### ROI  
+#### ROI  
 Oftentimes, even if a SME has developed a great strategic partnership it's difficult to calculate and track the return on investment. A SME wants to quickly and easily know exactly how the strategic partnership is improving their business. Without a trackable and dynamic value mechanism, it’s difficult to have exact details on the success or failure of a partnership. The metrics need to be displayed in a manner that is easy to comprehend, quick to generate, and usable for decision making. In fact, the technology should be smart enough to suggest actionable info the SME can implement immediately to improve the partnership or if the partnership is failing and should be divested.
 
 ###  What is 123OTT Coin?  
@@ -146,7 +165,7 @@ There are many variations of programs in the market from travel rewards, punch c
 “Unclaimed rewards are accounted for as liabilities on company balance sheets. Those who do not redeem points are 2.7 times more likely to join another loyalty program” - The 2016 Bond Loyalty Report,
 Loyalty rewards and blockchain technology are a perfect match. It’s truly a new way for businesses to grow their customer base and improve retention. The 123OTT token user experience is so overwhelmingly better than the legacy experience that it quickly invalidates the legacy model.
 
-##### Current Loyalty Programs vs the 123OTT token Loyalty Program   
+#### Current Loyalty Programs vs the 123OTT token Loyalty Program   
 
 |  Current Loyalty Programs | 123OTT Loyalty Program   |
 | ------------ | ------------ |
