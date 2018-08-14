@@ -17,6 +17,7 @@ with roots in Korea. We use blockchain technology to create practical and innova
 #### Technology development
  - **a smart wallet called CUBE**
  - **a Token Factory**  
+   2018-08-15 01:26:28 Wednesday.  
    Each brand and company enters the platform in the form of a consortium and publishes its own brand token. 
    Customers can use this token as well as freely exchange them for a new shopping experience. 
    Lab Tokens, which is its own token in Lab Tokens functions as a kind of key telephone. Each brand must issue tokens in conjunction
