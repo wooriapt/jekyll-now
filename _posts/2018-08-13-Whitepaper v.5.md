@@ -11,22 +11,6 @@ Consumer acquisition and retention are a critical component of business growth a
 123OTT token believes that through a business-to-business universal loyalty rewards program SME's can increase consumer acquisition and retention. Native loyalty reward programs are difficult to manage, due to the time and resource requirements, and lack of an effective platform to measure success. Third party loyalty reward programs don't directly benefit the business and are not customizable. 
 Due to these challenges only companies with the resources, subject matter expertise and ability to create and manage loyalty rewards programs can take advantage of such an opportunity. SMEs that can’t allocate the necessary time and resources to managing a loyalty rewards program are deprived of a powerful tool for business growth and success.
   
-<!doctype html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>qLabel Test</title>
-</head>
-<body>
-    <!-- 번역 테스트 -->
-    <span class="qlabel" its-ta-ident-ref="https://github.com/wooriapt/wooriapt.github.io/wiki/Loyalty-Rewards-Programs">Korean</span>
-    <button onclick="$.qLabel.switchLanguage('ko')">한국어 번역</button>
-
-    <!-- 자바스크립트 라이브러리 -->
-    <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
-    <script src="//googleknowledge.github.io/qlabel/src/jquery.qlabel.js"></script>
-</body>
-</html>
 
 ### List
 
