@@ -5,7 +5,25 @@ title: Loyalty Rewards Programs
 ---
 ### The Future of Consumer Loyalty Rewards Programs using Cryptocurrency
 ### Whitepaper v.5  
-2018-08-13 21:32:56 monday
+2018-08-13 21:32:56 monday  
+
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>qLabel Test</title>
+</head>
+<body>
+    <!-- 번역 테스트 -->
+    <span class="qlabel" its-ta-ident-ref="http://www.wikidata.org/entity/Q9176">Korean</span>
+    <button onclick="$.qLabel.switchLanguage('ko')">한국어 번역</button>
+
+    <!-- 자바스크립트 라이브러리 -->
+    <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script src="//googleknowledge.github.io/qlabel/src/jquery.qlabel.js"></script>
+</body>
+</html>  
+
 #### Summary    
 Consumer acquisition and retention are a critical component of business growth and success, especially for Small to Medium Enterprises (SMEs). SMEs are the largest job creators in the world and offer great value to local communities however they are struggling to compete with large Multinational Corporations (MNCs). SMEs cannot compete on price due to the ability of MNC’s to take advantage of their economies of scale. However, with businesses working together they can reach a scale to compete on value. 
 123OTT token believes that through a business-to-business universal loyalty rewards program SME's can increase consumer acquisition and retention. Native loyalty reward programs are difficult to manage, due to the time and resource requirements, and lack of an effective platform to measure success. Third party loyalty reward programs don't directly benefit the business and are not customizable. 
