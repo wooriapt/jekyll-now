@@ -51,7 +51,7 @@ Decentralized Consulting Platform for ICO Developers, Advisors, Crypto-Experts a
 ### Our Roadmap
 Where we have been and where we are going.
   
-![_config.yml]({{ site.baseurl }}/images/ico roadmap.PNG)![_config.yml]({{ site.baseurl }}/images/ico roadmap.PNG)  
+![_config.yml]({{ site.baseurl }}/images/ico roadmap.PNG)![_config.yml]({{ site.baseurl }}/images/123cashbag.jpg)  
 
 
 ### Exchange Listing Roadmap.
