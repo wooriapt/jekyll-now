@@ -73,7 +73,7 @@ Please also follow and like us on [github](https://github.com/wooriapt "github")
 Contact us for partnership opportunities  
 <a href="mailto:dany.me.park@gmail.com" class="btn btn-block"><i class="fa fa-user-circle-o"></i> Get in touch</a>
 #### | Doosung Global| 123CashBag|
-![_config.yml]({{ site.baseurl }}/images/cuberain.jpg) ### Doosung Global 123CashBag. 
+![_config.yml]({{ site.baseurl }}/images/cuberain.jpg)   
 ### Contact me  
 <dany.me.park@gmail.com>
 
