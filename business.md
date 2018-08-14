@@ -16,19 +16,20 @@ with roots in Korea. We use blockchain technology to create practical and innova
 ### Estonia blockchain lab four core businesses include  
 #### Technology development
  - **a smart wallet called CUBE**
- - **a Token Factory**
-   Each brand and company enters the platform in the form of a consortium and publishes its own brand token. Customers can use this
-   token as well as freely exchange them for a new shopping experience. OTT, which is its own token in 1.2.3, functions as a kind of 
-   key telephone. Each brand must issue tokens in conjunction with OTT, which will be valued at a fraction of the value of OTT. 
-   Exchange ratio.
-   A protocol that uses tokens issued by each company and brand and can trade freely with each other. When a consumer or company
-   exchanges between brand tokens, the amount to be exchanged is determined based on OTT.  
+ - **a Token Factory**  
+   Each brand and company enters the platform in the form of a consortium and publishes its own brand token. 
+   Customers can use this token as well as freely exchange them for a new shopping experience. 
+   Lab Tokens, which is its own token in Lab Tokens functions as a kind of key telephone. Each brand must issue tokens in conjunction
+   with Lab Tokens, which will be valued at a fraction of the value of Lab Tokens. Exchange ratio. A protocol that uses tokens issued by
+   each company and brand and can trade freely with each other.
+   When a consumer or company exchanges between brand tokens, the amount to be exchanged is determined based on Lab Tokens.
    각 브랜드와 기업들은 컨소시엄 형태로 플랫폼에 들어오게 되고, 각자의 브랜드 토큰을 만들어 발행한다. 고객들은 이 토큰을 사용할 뿐만 아니라 
-   자유롭게 교환함으로써 새로운 쇼핑 경험을 할 수 있다. 1.2.3의 자체 토큰인 OTT가 일종의 기축통화 기능을 하는 셈이다. 각 브랜드는 OTT에 연계해 
-   토큰을 발행해야 하며 그 발행량에 따라 가치가 OTT의 몇 분의 1로 정해지게 된다. 교환비율이 생기는 셈이다. 
+   자유롭게 교환함으로써 새로운 쇼핑 경험을 할 수 있다. 
+   Lab Tokens의 자체 토큰인 Lab Tokens가 일종의 기축통화 기능을 하는 셈이다. 각 브랜드는 Lab Tokens에 연계해 토큰을 발행하며 그 발행량에 따라 
+   가치가 Lab Tokens의 몇 분의 1로 정해지게 된다. 교환비율이 생기는 셈이다.
 
-   각 기업 및 브랜드가 발행하는 토큰을 사용하고 상호 자유롭게 거래할 수 있는 프로토콜. 소비자, 기업이 각 브랜드 토큰 간 교환을 할 때도 OTT를 
-   기준으로 교환할 양이 정해진다.   
+   각 기업 및 브랜드가 발행하는 토큰을 사용하고 상호 자유롭게 거래할 수 있는 프로토콜. 소비자, 기업이 각 브랜드 토큰 간 교환을 할 때도 
+   Lab Tokens를 기준으로 교환할 양이 정해진다.
 
  - **BlockChain Loyalty Programs**
  - [P to P Crypto exchange:](https://github.com/wooriapt/Peer-to-Peer-Crypto-exchange "P to P Crypto exchange")  
