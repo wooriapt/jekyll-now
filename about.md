@@ -51,7 +51,7 @@ Decentralized Consulting Platform for ICO Developers, Advisors, Crypto-Experts a
 ### Our Roadmap
 Where we have been and where we are going.
   
-![_config.yml]({{ site.baseurl }}/images/ico roadmap.PNG)![_config.yml]({{ site.baseurl }}/images/123cashbag.jpg)  
+![_config.yml]({{ site.baseurl }}/images/ico roadmap.PNG)  
 
 
 ### Exchange Listing Roadmap.
@@ -73,7 +73,7 @@ Please also follow and like us on [github](https://github.com/wooriapt "github")
 Contact us for partnership opportunities  
 <a href="mailto:dany.me.park@gmail.com" class="btn btn-block"><i class="fa fa-user-circle-o"></i> Get in touch</a>
 #### | Doosung Global| 123CashBag|
-![_config.yml]({{ site.baseurl }}/images/cuberain.jpg)   
+![_config.yml]({{ site.baseurl }}/images/cuberain.jpg) ![_config.yml]({{ site.baseurl }}/images/123cashbag.jpg)    
 ### Contact me  
 <dany.me.park@gmail.com>
 
