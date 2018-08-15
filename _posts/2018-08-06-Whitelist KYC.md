@@ -56,51 +56,39 @@ The KYC process will open on the 08/01/18 and will run until the 08/31/18 GMT+8 
 
 ---
 
-### Landing page if whitelisted  
-**1. cubeon.co.in**  
-Landing page if not whitelisted 
+### Landing page if whitelisted    
+### Whitelist  
+In order to participate in the CUBE ON Token ICO, please fill in the form with accurate details. Refer to this blog post for detailed information regarding the whitelisting process.  
 
-**2. The Terms and Conditions of the Crowdsale which can be found here must be accepted to be able to participate**  
-Acceptance of the terms and conditions is confirmed by pressing the ‘I have read and agree to the button 
+**First name:**  
+**Last Name:**  
+**E-mail:**  
+**Surname:**  
+**Ethereum Address:**  
+0 of 42 character(s) left. Ensure this address is accurate as CUBE ON Tokens will be sent to this wallet.. Do Not Use An Exchange Or Centralized Wallet Service  
+MyEtherWallet, Mist, Ledger, imToken or Metamask wallet addresses are acceptable    
+**Expected ETH ICO Participation Amount:**  
+This information is to help us estimate total volume and does not reflect your amount at the time of sale. If your expected participation amount is >20 ETH, you may be subject to providing proof of residence.  
 
-**3. The bot will request these fields one-by-one, type your answer and send message to the bot**
-- First name:  
-- Surname:  
-Ethereum Address:  
- *Do Not Use An Exchange Or Centralized Wallet Service*
-   
- MyEtherWallet, Mist, Ledger, imToken or **Metamask wallet** addresses are acceptable 
- 
-- Country of Origin:  
-- Country of Citizenship:  
-- Country of Residence:  
-- Photo ID’s issuing country:  
-- Phone number:
-- Residential address:
-- Date of Birth:
+**Country of Origin:**  
+**Country of Citizenship:**  
+**Country of Residence:**  
+**Photo ID’s issuing country:**  
+**Phone number:**  
+**Residential address:**  
+**Date of Birth:**  
 
-**Photo of Passport on Identification Documentation (ID) page**  
-.jpg or .png file types only Photo of self with Passport    
-  
-All of this information will be optional but less information given means a greater chance of failure for KYC.   
-We strongly recommend you give as much detailed and accurate information as possible. 
+Photo of Passport on Identification Documentation (ID) page:  
+**Government-Issued ID Card or Passport**  
+If you are uploading your government-issued ID card, please upload both front and back images. For IDs without a back, you may upload the front only. The size limit on the images is 10MB (JPG or PNG)  
 
-**4. All ID docs uploaded for KYC must be clear with all information easily readable**  
-All parts of ID and important information must be able to be seen and not obscured
-Blurry or hard to read applications will be rejected 
+ I hereby confirm that the information contained in this website and/or the whitepaper therein shall not form the basis of any investment or purchase decision I make. I declare that I am thoroughly familiar and competent with cryptocurrency/blockchain technologies, have sought independent professional advice where necessary, and I am fully aware of the various risks (foreseeable and unforeseeable) involved in purchasing the CUBE ON Tokens, including but not limited to I.T. security issues, market volatility and regulatory uncertainty. I further accept and acknowledge that my personal data will be collected and confirm that I agree to the Privacy Policy and Terms contained herein.  
 
-**5. Confirm that information is correct and submit**  
-Click no to change any information that may be incorrect, e.g. spelling mistakes, and bot will take you back through the different fields for editing  
+ I hereby confirm that I am not a Chinese National, U.S. citizen, a U.S resident or a resident in any jurisdiction which prohibits the sale of CUBE ON Tokens.  
+Confirm that information is correct and submit  
+email <dany.me.park@gmail.com>
 
-**Click yes to submit your application**  
-**6. Notification of success or failure of will be sent via email and via the bot**  
-There is a ‘check status’ button you can use, emails will also be sent out periodically to update you of your status after your 
-application has been processed   
-
-**7. Users will be only able to make a maximum of 3 submissions, so make them count**  
-If having any difficulties talk to us in our telegram group https://t.me/cubeon or for more personal questions,   
-email <dany.me.park@gmail.com>    
-
+### Whitelist Write
 
  [ Estonis Blockchain Lab.](https://wooriapt.github.io " Estonis Blockchain Lab.")
 
