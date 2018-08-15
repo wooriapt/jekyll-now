@@ -88,7 +88,7 @@ If you are uploading your government-issued ID card, please upload both front an
 Confirm that information is correct and submit  
 email <dany.me.park@gmail.com>
 
-### Whitelist Write
+### [Whitelist Write]((https://docs.google.com/forms/d/e/1FAIpQLScMM8tetxF6k5PVyBlQvNMyPEWdr3bCURv2pslzHjAdMvSYOA/viewform?pli=1 "Whitelist Write")
 
  [ Estonis Blockchain Lab.](https://wooriapt.github.io " Estonis Blockchain Lab.")
 
