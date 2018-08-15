@@ -1,11 +1,7 @@
 ---
 layout: post
 title: estonia e-residency news 
-
 ---
-
-
-
 ### [Estonia E-Residency & Blockchain Governance, Explained](https://coincentral.com/estonia-e-residency-blockchain-governance-explained/ "Estonia E-Residency & Blockchain Governance, ExplainedBENNETT GARNER") 
 by BENNETT GARNER 
 ### estonia e-residency
