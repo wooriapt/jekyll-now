@@ -4,8 +4,8 @@ title: Three ways you can run side projects at your company like Google does
 
 ---
 
-## [Want to Boost Your Bottom Line? Encourage Your Employees to Work on Side Projects](https://www.inc.com/adam-robinson/google-employees-dedicate-20-percent-of-their-time-to-side-projects-heres-how-it-works.html "Want to Boost Your Bottom Line? Encourage Your Employees to Work on Side Projects")  
-###Three ways you can run side projects at your company like Google does.
+## [Want to Boost Your Bottom Line? Encourage Your Employees to Work on Side Projects](https://www.inc.com/adam-robinson/google-employees-dedicate-20-percent-of-their-time-to-side-projects-heres-how-it-works.html "Want to Boost Your Bottom Line? Encourage Your Employees to Work on Side Projects")    
+### Three ways you can run side projects at your company like Google does.  
 By Adam RobinsonCo-founder and CEO, Hireology@adrobins
 
 [![full-photo](photo "full-photo")](https://www.incimages.com/uploaded_files/image/970x450/getty_586970661_348811.jpg "full-photo")
