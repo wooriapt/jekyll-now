@@ -58,26 +58,26 @@ The KYC process will open on the 08/01/18 and will run until the 08/31/18 GMT+8 
 ### Whitelist  
 In order to participate in the CUBE ON Token ICO, please fill in the form with accurate details. Refer to this blog post for detailed information regarding the whitelisting process.  
 
-**First name:**  
-**Last Name:**  
-**E-mail:**  
-**Surname:**  
-**Ethereum Address:**  
+- **First name:**  
+- **Last Name:**  
+- **E-mail:**  
+- **Surname:**  
+- **Ethereum Address:**  
 0 of 42 character(s) left. Ensure this address is accurate as CUBE ON Tokens will be sent to this wallet.. Do Not Use An Exchange Or Centralized Wallet Service  
 MyEtherWallet, Mist, Ledger, imToken or Metamask wallet addresses are acceptable    
-**Expected ETH ICO Participation Amount:**  
+- **Expected ETH ICO Participation Amount:**  
 This information is to help us estimate total volume and does not reflect your amount at the time of sale. If your expected participation amount is >20 ETH, you may be subject to providing proof of residence.  
 
-**Country of Origin:**  
-**Country of Citizenship:**  
-**Country of Residence:**  
-**Photo ID’s issuing country:**  
-**Phone number:**  
-**Residential address:**  
-**Date of Birth:**  
+- **Country of Origin:**  
+- **Country of Citizenship:**  
+- **Country of Residence:**  
+- **Photo ID’s issuing country:**  
+- **Phone number:**  
+- **Residential address:**  
+- **Date of Birth:**  
 
 Photo of Passport on Identification Documentation (ID) page:  
-**Government-Issued ID Card or Passport**  
+- **Government-Issued ID Card or Passport**  
 If you are uploading your government-issued ID card, please upload both front and back images. For IDs without a back, you may upload the front only. The size limit on the images is 10MB (JPG or PNG)  
 
  I hereby confirm that the information contained in this website and/or the whitepaper therein shall not form the basis of any investment or purchase decision I make. I declare that I am thoroughly familiar and competent with cryptocurrency/blockchain technologies, have sought independent professional advice where necessary, and I am fully aware of the various risks (foreseeable and unforeseeable) involved in purchasing the CUBE ON Tokens, including but not limited to I.T. security issues, market volatility and regulatory uncertainty. I further accept and acknowledge that my personal data will be collected and confirm that I agree to the Privacy Policy and Terms contained herein.  
