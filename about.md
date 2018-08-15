@@ -68,6 +68,16 @@ Join our Telegram channel today to show your support!
 Please also follow and like us on [github](https://github.com/wooriapt "github"), [Twitter](https://twitter.com/wooriapt79 "Twitter"), and [Telegram](https://t.me/cubeon "Telegram").
 
 ### Our Team  
+
+
+#### Our Supports:
+Most of our advisors are Estonia blockchain Lab Member in the Lab. They have been working closely with the team daily to ensure that they actively support us as we build a great product in Cube ON ecoSystem.
+We are extremely fortunate to have the support of top industry leaders in blockchain, food Tech, technology sectors, and Marketing. 
+Each support of the team is a successful C-Level type executives, or a founder of a multi-million (and billion) dollar company. Their continued engagement with our team each week will help us grow our existing user base of 270,000 monthly active users into the global company we strive to be and help us make our impact on how people all across the world are able to earn.
+
+Additionally, we have signed contracts with some of the largest blockchain partners in the world. We are extremely excited and anxious to announce these great partnerships. 
+Working alongside these great partners will help us expand to facilitate the mass adoption of cubeon ecosystem as the primary loyatly ecosystem platform focused on cubeon ecosystem Token earning in the world.  
+
 ### Partner:Let’s Collaborate  
 **Cube ON**  
 Contact us for partnership opportunities  
