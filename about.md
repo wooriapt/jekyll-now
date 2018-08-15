@@ -71,6 +71,7 @@ Please also follow and like us on [github](https://github.com/wooriapt "github")
 
 
 #### Our Supports:
+*2018-08-15 15:37:07 wednesday*  
 Most of our advisors are Estonia blockchain Lab Member in the Lab. They have been working closely with the team daily to ensure that they actively support us as we build a great product in Cube ON ecoSystem.
 We are extremely fortunate to have the support of top industry leaders in blockchain, food Tech, technology sectors, and Marketing. 
 Each support of the team is a successful C-Level type executives, or a founder of a multi-million (and billion) dollar company. Their continued engagement with our team each week will help us grow our existing user base of 270,000 monthly active users into the global company we strive to be and help us make our impact on how people all across the world are able to earn.
