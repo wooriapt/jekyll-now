@@ -89,6 +89,8 @@ email <dany.me.park@gmail.com>
 ### [Whitelist Write](https://docs.google.com/forms/d/e/1FAIpQLScMM8tetxF6k5PVyBlQvNMyPEWdr3bCURv2pslzHjAdMvSYOA/viewform?pli=1 "Whitelist Write")  
 ![_config.yml]({{ site.baseurl }}/images/join the whitelist.png)
 
+[![_config.yml]({{ site.baseurl }}/images/join the whitelist.png)](https://docs.google.com/forms/d/e/1FAIpQLScMM8tetxF6k5PVyBlQvNMyPEWdr3bCURv2pslzHjAdMvSYOA/viewform?pli=1 "![_config.yml]({{ site.baseurl }}/images/join the whitelist.png)")
+
    [ Estonis Blockchain Lab.](https://wooriapt.github.io " Estonis Blockchain Lab.")
 
 
