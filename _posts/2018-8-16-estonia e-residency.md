@@ -6,7 +6,8 @@ title: estonia e-residency news
 
 
 
-### [Estonia E-Residency & Blockchain Governance, ExplainedBENNETT GARNER](https://coincentral.com/estonia-e-residency-blockchain-governance-explained/ "Estonia E-Residency & Blockchain Governance, ExplainedBENNETT GARNER")  
+### [Estonia E-Residency & Blockchain Governance, Explained](https://coincentral.com/estonia-e-residency-blockchain-governance-explained/ "Estonia E-Residency & Blockchain Governance, ExplainedBENNETT GARNER") 
+by BENNETT GARNER 
 ### estonia e-residency
 Estonia is a small Baltic nation of 1.3 million people, but they’re leading a digital revolution in governance with the Estonia e-Residency program. It’s a country where the state drives technological innovation, not just the private sector. Since 2007, they’ve been working on proposals to digitize identity and citizenship. Today, every citizen of Estonia has their own ID card and PIN that links with their digital identity.
 <img src="https://coincentral.com/wp-content/uploads/2018/03/estonia-874x437.png">
