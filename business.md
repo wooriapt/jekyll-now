@@ -16,7 +16,8 @@ with roots in Korea. We use blockchain technology to create practical and innova
 ### Estonia blockchain lab four core businesses include  
 #### Technology development
  - **a smart wallet called CUBE**
- - **a Token Factory**  
+ - **a Token Factory** 
+ ### Issue & Interact with Standard Token Contracts on Ethereum
    2018-08-15 01:26:28 Wednesday.  
    Each brand and company enters the platform in the form of a consortium and publishes its own brand token. 
    Customers can use this token as well as freely exchange them for a new shopping experience. 
