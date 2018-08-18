@@ -84,7 +84,7 @@ Working alongside these great partners will help us expand to facilitate the mas
 Contact us for partnership opportunities  
 <a href="mailto:dany.me.park@gmail.com" class="btn btn-block"><i class="fa fa-user-circle-o"></i> Get in touch</a>
 #### | Doosung Global| 123CashBag|
-![_config.yml]({{ site.baseurl }}/images/cuberain.jpg) ![_config.yml]({{ site.baseurl }}/images/123cashbag.jpg)    
+![_config.yml]({{ site.baseurl }}/images/cuberain.jpg) ![_config.yml]({{ site.baseurl }}/images/123cashbag.jpg) ![_config.yml]({{ site.baseurl }}/images/do logo.png)   
 ### Contact me  
 <dany.me.park@gmail.com>
 
