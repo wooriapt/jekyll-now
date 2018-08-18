@@ -58,7 +58,8 @@ Escrow Ether has seperate dashboards for buyers, sellers and escrow agents.
        - Coin Exchange    
        - Foreign exchange remittance    
        - Worldwide offline payment through MasterCard.  
-****     
+****  
+
      
 ### altcoin Mall: 
    (https://github.com/wooriapt/Coin-Mall "altcoin Mall:")       
