@@ -15,8 +15,8 @@ with roots in Korea. We use blockchain technology to create practical and innova
 
 ### Estonia blockchain lab four core businesses include  
 #### Technology development
- ### a smart wallet called CUBE**
- ### a Token Factory**   
+ ### a smart wallet called CUBE  
+ ### a Token Factory     
  #### Issue & Interact with Standard Token Contracts on Ethereum  
    2018-08-15 01:26:28 Wednesday.  
    Each brand and company enters the platform in the form of a consortium and publishes its own brand token. 
@@ -33,7 +33,7 @@ with roots in Korea. We use blockchain technology to create practical and innova
    각 기업 및 브랜드가 발행하는 토큰을 사용하고 상호 자유롭게 거래할 수 있는 프로토콜. 소비자, 기업이 각 브랜드 토큰 간 교환을 할 때도 
    Lab Tokens를 기준으로 교환할 양이 정해진다.
 
- ### BlockChain Loyalty Programs**
+ ### BlockChain Loyalty Programs  
  ### [P to P Crypto exchange:](https://github.com/wooriapt/Peer-to-Peer-Crypto-exchange "P to P Crypto exchange")    
    Install Ethereum node software:**Metamask Chrome Extension**  
    We suggest Metamask as they provide a fully synced Ethereum node and only takes 3 mins to setup. 
@@ -48,13 +48,13 @@ with roots in Korea. We use blockchain technology to create practical and innova
    ### Model    
    ![_config.yml]({{ site.baseurl }}/images/C roadmap.png)    
    #### Function
-       - Coin Exchange  
-       - Foreign exchange remittance  
-       - Worldwide offline payment through MasterCard.
+       - Coin Exchange    
+       - Foreign exchange remittance    
+       - Worldwide offline payment through MasterCard.  
      
      
- ### [altcoin Mall:](https://github.com/wooriapt/Coin-Mall "altcoin Mall:")     
-   Buy, Sell & Accept Cryptocurrency with CoinMall.  
+ ### [altcoin Mall:](https://github.com/wooriapt/Coin-Mall "altcoin Mall:")       
+   Buy, Sell & Accept Cryptocurrency with CoinMall.    
    The [Example Store](https://example.coingate.com/ "Example Store") is a simple e-shop environment that we've built to demonstrate the    functionality offered by CoinGate merchant payment processing platform for cryptocurrencies. You can try shopping on our demo store
    without downloading any apps or actually knowing what cryptocurrencies are, but read on if you'd like a more in depth explanation!.
    
