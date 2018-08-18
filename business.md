@@ -50,7 +50,7 @@ Escrow Ether has seperate dashboards for buyers, sellers and escrow agents.
    ### Model      
    ![_config.yml]({{ site.baseurl }}/images/coinmall.png)  
    
- - [and ICO Support Program:](http://cubeon.co.in "and ICO Support Program:")    
+### [and ICO Support Program:](http://cubeon.co.in "and ICO Support Program:")    
    ICO Landing Service page for your cryptocurrency project
    Decentralized Consulting Platform for ICO Developers, Advisors, Crypto-Experts and Investors.  
 
