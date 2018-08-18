@@ -15,8 +15,8 @@ with roots in Korea. We use blockchain technology to create practical and innova
 
 ### Estonia blockchain lab four core businesses include  
 #### Technology development
- ### 1.a smart wallet called CUBE  
- ### 2.a Token Factory     
+ ### a smart wallet called CUBE  
+ ### a Token Factory     
  #### Issue & Interact with Standard Token Contracts on Ethereum  
    2018-08-15 01:26:28 Wednesday.  
    Each brand and company enters the platform in the form of a consortium and publishes its own brand token. 
@@ -34,7 +34,7 @@ with roots in Korea. We use blockchain technology to create practical and innova
    Lab Tokens를 기준으로 교환할 양이 정해진다.
 
  ### BlockChain Loyalty Programs  
- ### 3.[P to P Crypto exchange:](https://github.com/wooriapt/Peer-to-Peer-Crypto-exchange "P to P Crypto exchange")    
+ ### [P to P Crypto exchange:](https://github.com/wooriapt/Peer-to-Peer-Crypto-exchange "P to P Crypto exchange")    
    Install Ethereum node software:**Metamask Chrome Extension**  
    We suggest Metamask as they provide a fully synced Ethereum node and only takes 3 mins to setup. 
    Parity requires storing the   blockchain locally and takes time to sync your node. Power users may benefit from Parity 
@@ -53,7 +53,7 @@ with roots in Korea. We use blockchain technology to create practical and innova
        - Worldwide offline payment through MasterCard.  
      
      
- ### 4.[altcoin Mall:](https://github.com/wooriapt/Coin-Mall "altcoin Mall:")       
+ ### [altcoin Mall:](https://github.com/wooriapt/Coin-Mall "altcoin Mall:")       
    Buy, Sell & Accept Cryptocurrency with CoinMall.    
    The [Example Store](https://example.coingate.com/ "Example Store") is a simple e-shop environment that we've built to demonstrate the    functionality offered by CoinGate merchant payment processing platform for cryptocurrencies. You can try shopping on our demo store
    without downloading any apps or actually knowing what cryptocurrencies are, but read on if you'd like a more in depth explanation!.
