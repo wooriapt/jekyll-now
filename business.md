@@ -4,10 +4,22 @@ upgraded 2018-08-08 15:31:27 Wednesday
 ### List
 - [CUBE ON is an Estonia-based blockchain Lab.](#cube-on-is-an-estonia-based-blockchain-lab)
 - [Estonia blockchain lab four core businesses include](#estonia-blockchain-lab-four-core-businesses-include)
-  * [Technology development](#technology-development)
-  * [Function](#function)
+- [Technology development](#technology-development)
+- [a smart wallet called CUBE](#a-smart-wallet-called-cube)
+- [a Token Factory](#a-token-factory)
+  * [Issue & Interact with Standard Token Contracts on Ethereum](#issue---interact-with-standard-token-contracts-on-ethereum)
+- [BlockChain Loyalty Programs](#blockchain-loyalty-programs)
+- [Peer to Peer Crypto exchange:](#peer-to-peer-crypto-exchange-)
+  * [Model](#model)
+  * [Fusion](#fusion)
+- [altcoin Mall:](#altcoin-mall-)
+  * [Model](#model-1)
+- [[and ICO Support Program:](http://cubeon.co.in "and ICO Support Program:")](#-and-ico-support-program---http---cubeoncoin--and-ico-support-program---)
 - [BlockChain Application](#blockchain-application)
 - [Related posts](#related-posts)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 
 ### CUBE ON is an Estonia-based blockchain Lab.
@@ -34,22 +46,23 @@ The Dapp is developed on Google chrome, Parity and Metamask. Other ethereum node
 Using the dashboard
 Escrow Ether has seperate dashboards for buyers, sellers and escrow agents.
  
-   ### Model 
+ #### Model  
    
    ![_config.yml]({{ site.baseurl }}/images/C roadmap.png)    
    
-   #### Function  
+  #### Fusion    
        - Coin Exchange    
        - Foreign exchange remittance    
        - Worldwide offline payment through MasterCard.  
      
      
- ### [altcoin Mall:](https://github.com/wooriapt/Coin-Mall "altcoin Mall:")       
+### altcoin Mall: 
+   (https://github.com/wooriapt/Coin-Mall "altcoin Mall:")       
    Buy, Sell & Accept Cryptocurrency with CoinMall.    
    The [Example Store](https://example.coingate.com/ "Example Store") is a simple e-shop environment that we've built to demonstrate the    functionality offered by CoinGate merchant payment processing platform for cryptocurrencies. You can try shopping on our demo store
    without downloading any apps or actually knowing what cryptocurrencies are, but read on if you'd like a more in depth explanation!.
    
-   ### Model
+   #### Model
    
    ![_config.yml]({{ site.baseurl }}/images/coinmall.png)  
    
