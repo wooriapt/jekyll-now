@@ -31,7 +31,7 @@ with roots in Korea. We use blockchain technology to create practical and innova
 ### a smart wallet called CUBE
 
 #### Labs   
-![_config.yml]({{ site.baseurl }}/images/Logoblockcompanies-14.jpg wigth="70")
+![_config.yml]({{ site.baseurl }}/images/Logoblockcompanies-14.jpg)  
 **ConsenSys Labs** operates our venture studio which provides world-class resources, tools, and talent to entrepreneurs and developers around the world. With a rigorous startup curriculum and an unparalleled network of experts, ConsenSys Labs provides the critical support needed to become a successful company.  
 ### a Token Factory 
 #### Issue & Interact with Standard Token Contracts on Ethereum
