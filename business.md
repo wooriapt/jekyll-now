@@ -34,9 +34,11 @@ The Dapp is developed on Google chrome, Parity and Metamask. Other ethereum node
 Using the dashboard
 Escrow Ether has seperate dashboards for buyers, sellers and escrow agents.
  
-   ### Model    
+   ### Model 
+   
    ![_config.yml]({{ site.baseurl }}/images/C roadmap.png)    
-   #### Function
+   
+   #### Function  
        - Coin Exchange    
        - Foreign exchange remittance    
        - Worldwide offline payment through MasterCard.  
@@ -47,7 +49,8 @@ Escrow Ether has seperate dashboards for buyers, sellers and escrow agents.
    The [Example Store](https://example.coingate.com/ "Example Store") is a simple e-shop environment that we've built to demonstrate the    functionality offered by CoinGate merchant payment processing platform for cryptocurrencies. You can try shopping on our demo store
    without downloading any apps or actually knowing what cryptocurrencies are, but read on if you'd like a more in depth explanation!.
    
-   ### Model      
+   ### Model
+   
    ![_config.yml]({{ site.baseurl }}/images/coinmall.png)  
    
 ### [and ICO Support Program:](http://cubeon.co.in "and ICO Support Program:")    
