@@ -57,6 +57,9 @@ with roots in Korea. We use blockchain technology to create practical and innova
    The [Example Store](https://example.coingate.com/ "Example Store") is a simple e-shop environment that we've built to demonstrate the    functionality offered by CoinGate merchant payment processing platform for cryptocurrencies. You can try shopping on our demo store
    without downloading any apps or actually knowing what cryptocurrencies are, but read on if you'd like a more in depth explanation!.
    
+   ### Model      
+   ![_config.yml]({{ site.baseurl }}/images/coinmall.png)  
+   
  - [and ICO Support Program:](http://cubeon.co.in "and ICO Support Program:")    
    ICO Landing Service page for your cryptocurrency project
    Decentralized Consulting Platform for ICO Developers, Advisors, Crypto-Experts and Investors.  
