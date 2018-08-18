@@ -14,7 +14,7 @@ upgraded 2018-08-08 15:31:27 Wednesday
   * [Fusion](#fusion)
 - [altcoin Mall:](#altcoin-mall-)
   * [Model](#model-1)
-- [[and ICO Support Program:](http://cubeon.co.in "and ICO Support Program:")](#-and-ico-support-program---http---cubeoncoin--and-ico-support-program---)
+- [and ICO Support Program:](#and-ico-support-program-)
 - [BlockChain Application](#blockchain-application)
 - [Related posts](#related-posts)
 
@@ -66,7 +66,7 @@ Escrow Ether has seperate dashboards for buyers, sellers and escrow agents.
    
    ![_config.yml]({{ site.baseurl }}/images/coinmall.png)  
    
-### [and ICO Support Program:](http://cubeon.co.in "and ICO Support Program:")    
+### and ICO Support Program:         
    ICO Landing Service page for your cryptocurrency project
    Decentralized Consulting Platform for ICO Developers, Advisors, Crypto-Experts and Investors.  
 
