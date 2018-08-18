@@ -27,7 +27,9 @@ with roots in Korea. We use blockchain technology to create practical and innova
 
 ### Estonia blockchain lab four core businesses include
 ### Technology development
+****
 ### a smart wallet called CUBE
+****
 ### a Token Factory 
 #### Issue & Interact with Standard Token Contracts on Ethereum
 2018-08-15 01:26:28 Wednesday.
@@ -35,8 +37,9 @@ Each brand and company enters the platform in the form of a consortium and publi
 각 브랜드와 기업들은 컨소시엄 형태로 플랫폼에 들어오게 되고, 각자의 브랜드 토큰을 만들어 발행한다. 고객들은 이 토큰을 사용할 뿐만 아니라 자유롭게 교환함으로써 새로운 쇼핑 경험을 할 수 있다. Lab Tokens의 자체 토큰인 Lab Tokens가 일종의 기축통화 기능을 하는 셈이다. 각 브랜드는 Lab Tokens에 연계해 토큰을 발행하며 그 발행량에 따라 가치가 Lab Tokens의 몇 분의 1로 정해지게 된다. 교환비율이 생기는 셈이다.
 
 각 기업 및 브랜드가 발행하는 토큰을 사용하고 상호 자유롭게 거래할 수 있는 프로토콜. 소비자, 기업이 각 브랜드 토큰 간 교환을 할 때도 Lab Tokens를 기준으로 교환할 양이 정해진다.
-
+****
 ### BlockChain Loyalty Programs
+****
 ### Peer to Peer Crypto exchange: 
 Install Ethereum node software:Metamask Chrome Extension
 We suggest Metamask as they provide a fully synced Ethereum node and only takes 3 mins to setup. Parity requires storing the blockchain locally and takes time to sync your node. Power users may benefit from Parity (such as high volume sellers and escrows), as it loads transaction history quicker.
@@ -46,15 +49,16 @@ The Dapp is developed on Google chrome, Parity and Metamask. Other ethereum node
 Using the dashboard
 Escrow Ether has seperate dashboards for buyers, sellers and escrow agents.
  
- #### Model  
+#### Model    
    
    ![_config.yml]({{ site.baseurl }}/images/C roadmap.png)    
-   
-  #### Fusion    
+ 
+ 
+#### Fusion    
        - Coin Exchange    
        - Foreign exchange remittance    
        - Worldwide offline payment through MasterCard.  
-     
+****     
      
 ### altcoin Mall: 
    (https://github.com/wooriapt/Coin-Mall "altcoin Mall:")       
@@ -62,10 +66,12 @@ Escrow Ether has seperate dashboards for buyers, sellers and escrow agents.
    The [Example Store](https://example.coingate.com/ "Example Store") is a simple e-shop environment that we've built to demonstrate the    functionality offered by CoinGate merchant payment processing platform for cryptocurrencies. You can try shopping on our demo store
    without downloading any apps or actually knowing what cryptocurrencies are, but read on if you'd like a more in depth explanation!.
    
-   #### Model
+#### Model
    
    ![_config.yml]({{ site.baseurl }}/images/coinmall.png)  
    
+****   
+
 ### and ICO Support Program:         
    ICO Landing Service page for your cryptocurrency project
    Decentralized Consulting Platform for ICO Developers, Advisors, Crypto-Experts and Investors.  
