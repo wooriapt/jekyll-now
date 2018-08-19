@@ -17,7 +17,7 @@ so be sure to check that out too.
 
 > _I have been up against tough competition all my life. I wouldn't know how to get along without it._ - Walt Disney
 
-- [ ] Make a list of competitors (see [this list of tools to research competitors](https://www.sideprojectchecklist.com/2017/competition-tools/)).
+ [ ] Make a list of competitors (see [this list of tools to research competitors](https://www.sideprojectchecklist.com/2017/competition-tools/)).
   
   ##### Competitor data to collect
   - [ ] Link to their website.
