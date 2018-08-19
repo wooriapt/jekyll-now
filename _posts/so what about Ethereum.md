@@ -1,4 +1,8 @@
+---
+layout: post
+title: Ok so what about Ethereum
 
+---
 
 
 ### Ok, so what about Ethereum?  
@@ -11,7 +15,7 @@ So what kinds of things would you like as public data? Let’s start with some o
 [View more](https://media.consensys.net/programmable-blockchains-in-context-ethereum-s-future-cd8451eb421e "View more")
 
 2018-08-19 12:50:23 Sunday
-### Crowdfunding as a test bed
+### Crowdfunding as a test bed  
 <img src="https://cdn-images-1.medium.com/max/800/1*ZkF0JFQvDdGIRCFunf_1Mg.png">
 Another good example is crowdfunding for projects, as done by places like KickStarter, IndieGoGo and so on. In these systems, somebody puts a project online and gather funds, and there’s a public record of how much funding has flown in. If it’s over a certain number, the project goes live — and we’d like them to document what they did with the money. This is a very important step: we want them to be accountable for the funds they have taken in, and if the funds aren’t sufficient, we want them returned where they came from. We have a global public good, the ability for people to organize and fund projects together. Transparency really helps, so this is a natural place for a blockchain.
 
