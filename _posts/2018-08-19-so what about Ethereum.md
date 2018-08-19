@@ -1,15 +1,10 @@
 ---
 layout: post
 title: Ok so what about Ethereum
-
 ---
-
-
 ### Ok, so what about Ethereum?  
-<img src="https://cdn-images-1.medium.com/max/800/1*eopPhYxSfvMSvIpPPRAzVA.png">
-
-Ethereum takes this “beyond the paper metaphor” approach to getting databases to work together even further than bitcoin. Rather than replacing cash, Ethereum presents a new model, a fourth way. You push the data into Ethereum, it’s bound permanently in public storage (the “blockchain”). All the organizations that need to access that information — from your cousin to your government — can see it. Ethereum seeks to replace all the other places where you have to fill in forms to get computers to work together. This might seem a little odd at first — after all, you don’t want your health records in such a system — and that’s right, you don’t. If you were going to store health records online, you’d need to protect them with an additional layer of encryption to ensure they couldn’t be read — and we should be doing this anyway. It’s not common practice to apply appropriate encryption to private data, that’s why you keep hearing about these enormous hacks and leaks.
-
+Ethereum takes this “beyond the paper metaphor” approach to getting databases to work together even further than bitcoin. Rather than replacing cash, Ethereum presents a new model, a fourth way. You push the data into Ethereum, it’s bound permanently in public storage (the “blockchain”). All the organizations that need to access that information — from your cousin to your government — can see it. Ethereum seeks to replace all the other places where you have to fill in forms to get computers to work together. This might seem a little odd at first — after all, you don’t want your health records in such a system — and that’s right, you don’t. If you were going to store health records online, you’d need to protect them with an additional layer of encryption to ensure they couldn’t be read — and we should be doing this anyway. It’s not common practice to apply appropriate encryption to private data, that’s why you keep hearing about these enormous hacks and leaks.  
+<img src="https://cdn-images-1.medium.com/max/800/1*eopPhYxSfvMSvIpPPRAzVA.png">  
 So what kinds of things would you like as public data? Let’s start with some obvious things: your domain names. You own a domain name for your business, and people need to know that your business owns that domain name — not somebody else. That unique system of names is how we navigate the internet as a whole: that’s a clear example of something we want in a permanent public database. We’d also like it if governments didn’t keep editing those public records and taking domains offline based on their local laws: if the internet is a global public good, it’s annoying to have governments constantly poking holes in it by censoring things they don’t like.
 
 [View more](https://media.consensys.net/programmable-blockchains-in-context-ethereum-s-future-cd8451eb421e "View more")
