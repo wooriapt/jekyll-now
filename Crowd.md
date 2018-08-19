@@ -107,8 +107,21 @@ Ethereum account for donations CUBE ON Address:
 <a href="https://etherdonation.com/d?to=0x04f4b14279714abee7B9b1568D487C1586860a8D&amount=0.002" target="_blank" 
 title="Donate ETH A Cup of Coffee"><img src="https://etherdonation.com/i/btn/donate-btn.png" alt="Donate ETH A Cup of Coffee"/></a>-->
 [Donation:](https://goo.gl/gg31cg "Donation") https://goo.gl/gg31cg  
-*Please join the donation.Thank you.*  
+*Please join the donation.Thank you.*   
+### FOR MONEY DONATIONS:
+**If you want to contribute with traditional currency, 
+please contact us at mail to : <dany.me.park@gmail.com>**  
+**BEFORE YOU DONATE,** we want to make sure you know a few important things.
+- **Use of Donations.** Donations are used for general purposes to support the Foundation.
+- **Non tax deductible contribution.** A donation to the Foundation does not qualify as a tax deductible charitable contribution.
+For more information on specific tax benefits to which you may be entitled through your contribution, you should check with a professional tax advisor or attorney.
+- **No cancellations, changes or refunds.** Before completing your donations, it is very important that you check and double check the address, the amount and other information you provide. We are sorry but we cannot accept requests to cancel, change or refund donations.
 
+- **Illegal Funds.** The Foundation cannot and does not accept funds that have been illegally obtained or that would otherwise be judged to damage the reputation or integrity of the Foundation. By checking the box below, you confirm that to the best of your knowledge, the donation comes from a legal source and is compliant with the tax laws of your applicable jurisdiction. Once you check the box, the Bitcoin and Ether addresses for donations will appear below.
+
+- **Security**. For online donations through the blockchain, your transaction would be securely pushed through to the address you provide. The security of your transaction would depend on your safe keeping over your private keys and proper security practices with your computer. Please remember that the blockchain is decentralized so you must be very careful with inputting the address. If you send currency to the wrong address, there is no centralized bank or other authority that can retrieve that currency for you.
+
+- **Handling of personal information.** Any personal information provided by donors will be kept strictly confidential. 
 ##### information file  
 *the documents below will be updated in the future.  
 the updated information will be guided through the lab's social networks and blogs.*  
