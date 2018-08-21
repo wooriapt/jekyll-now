@@ -92,7 +92,7 @@ email <dany.me.park@gmail.com>
 2. [Electronic wallet metamask setting](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn "Electronic wallet metamask setting")
   - Download https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn  
   - [manual](https://wooriapt.github.io/wooriapt.github.io/MetaMask/ "manual")  https://wooriapt.github.io/wooriapt.github.io/MetaMask/
-3. Whitelist  
+3. Whitelist (Google E-Mail login required)    
 ### [Whitelist Write](https://docs.google.com/forms/d/e/1FAIpQLScMM8tetxF6k5PVyBlQvNMyPEWdr3bCURv2pslzHjAdMvSYOA/viewform?pli=1 "Whitelist Write")    
 
 
@@ -113,8 +113,10 @@ Ethereum account for donations CUBE ON Address:
 <!--<a href="https://etherdonation.com/d?to=0x04f4b14279714abee7B9b1568D487C1586860a8D" target="_blank" title="Donate ETH"><img src="https://etherdonation.com/i/btn/donate-btn.png" alt="Donate ETH"/></a>  
 <a href="https://etherdonation.com/d?to=0x04f4b14279714abee7B9b1568D487C1586860a8D&amount=0.002" target="_blank" 
 title="Donate ETH A Cup of Coffee"><img src="https://etherdonation.com/i/btn/donate-btn.png" alt="Donate ETH A Cup of Coffee"/></a>-->
-[Donation:](https://goo.gl/gg31cg "Donation") https://goo.gl/gg31cg  
+## [Donation](https://goo.gl/gg31cg "Donation")   
+ - Donation Address : <https://goo.gl/gg31cg>  
 *Please join the donation.Thank you.*   
+
 ### FOR MONEY DONATIONS:
 **If you want to contribute with traditional currency, 
 please contact us at mail to : <dany.me.park@gmail.com>**  
