@@ -47,7 +47,7 @@ KYC checks are necessary to identify crowdsale participants and comply with anti
 - Quantity: 100,000,000 XCB (one hundred million 100 million XCB)
 - Investment deadline: Aug 31, 2018
 - Key Policies: 1 XCB is available for . 0.04 US Dollars (KRW\ 50),
-  - Guaranteed 0.09 US Dollars(KRW \100won) for 1 XCB after 6 months
+  - expectancy 0.09 US Dollars(KRW \100won) for 1 XCB after 6 months
   - Cube on can be switched to master card after 12 months
 
 The KYC process will open on the 08/01/18 and will run until the 08/31/18 GMT+8 2pm (Estonia time)
@@ -86,7 +86,13 @@ If you are uploading your government-issued ID card, please upload both front an
 Confirm that information is correct and submit  
 email <dany.me.park@gmail.com>
 
-### [Whitelist Write](https://docs.google.com/forms/d/e/1FAIpQLScMM8tetxF6k5PVyBlQvNMyPEWdr3bCURv2pslzHjAdMvSYOA/viewform?pli=1 "Whitelist Write")  
+### Participation methods and procedures  
+1. [Browser chrome settings](https://www.google.com/intl/ko_ALL/chrome/ "Browser chrome settings")
+  - https://www.google.com/intl/ko_ALL/chrome/  
+2. [Electronic wallet metamask setting](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn "Electronic wallet metamask setting")
+  -  https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn  
+3. Whitelist  
+### [Whitelist Write](https://docs.google.com/forms/d/e/1FAIpQLScMM8tetxF6k5PVyBlQvNMyPEWdr3bCURv2pslzHjAdMvSYOA/viewform?pli=1 "Whitelist Write")    
 
 
 [![_config.yml]({{ site.baseurl }}/images/join the whitelist.png)](https://docs.google.com/forms/d/e/1FAIpQLScMM8tetxF6k5PVyBlQvNMyPEWdr3bCURv2pslzHjAdMvSYOA/viewform?pli=1 "![_config.yml]({{ site.baseurl }}/images/join the whitelist.png)")
