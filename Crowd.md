@@ -88,9 +88,10 @@ email <dany.me.park@gmail.com>
 
 ### Participation methods and procedures  
 1. [Browser chrome settings](https://www.google.com/intl/ko_ALL/chrome/ "Browser chrome settings")
-  - https://www.google.com/intl/ko_ALL/chrome/  
+  - Download https://www.google.com/intl/ko_ALL/chrome/  
 2. [Electronic wallet metamask setting](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn "Electronic wallet metamask setting")
-  -  https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn  
+  - Download https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn  
+  - [manual](https://wooriapt.github.io/wooriapt.github.io/MetaMask/ "manual")  https://wooriapt.github.io/wooriapt.github.io/MetaMask/
 3. Whitelist  
 ### [Whitelist Write](https://docs.google.com/forms/d/e/1FAIpQLScMM8tetxF6k5PVyBlQvNMyPEWdr3bCURv2pslzHjAdMvSYOA/viewform?pli=1 "Whitelist Write")    
 
