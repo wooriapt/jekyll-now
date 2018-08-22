@@ -43,6 +43,9 @@ KYC checks are necessary to identify crowdsale participants and comply with anti
 
 ---
 ### Private Sale 
+
+![_config.yml]({{ site.baseurl }}/images/Warning_2.png)
+  
 - Sales: 4,429,480,24 US Dollars (KRW \5,000,000,000)
 - Quantity: 100,000,000 XCB (one hundred million 100 million XCB)
 - Investment deadline: Aug 31, 2018
