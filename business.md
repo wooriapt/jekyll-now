@@ -22,7 +22,9 @@ upgraded 2018-08-08 15:31:27 Wednesday
 
 
 
-### CUBE ON is an Estonia-based blockchain Lab.
+### CUBE ON is an Estonia-based blockchain Lab.  
+<img src="https://cdn.dribbble.com/users/303702/screenshots/2288812/cube7.gif">
+
 with roots in Korea. We use blockchain technology to create practical and innovative solutions for companies, helping them unlock new markets. Estonia blockchain Lab is developing an ecosystem for the incubation of projects that have the potential to benefit from blockchain technology.
 
 ### Estonia blockchain lab four core businesses include
