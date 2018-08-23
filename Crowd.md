@@ -95,7 +95,14 @@ email <dany.me.park@gmail.com>
 2. [Electronic wallet metamask setting](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn "Electronic wallet metamask setting")
   - Download https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn  
   - [manual](https://wooriapt.github.io/wooriapt.github.io/MetaMask/ "manual")  https://wooriapt.github.io/wooriapt.github.io/MetaMask/
-3. Whitelist (Google E-Mail login required)    
+3. Whitelist (Google E-Mail login required)  
+
+### Checklist
+
+**Copy the e-wallet address created by metamask and put it in the whitelist box.**
+>  - Existing Etherium wallet holders will please your old wallet address only
+>  - Cryptographic exchange wallets are excluded
+ 
 ### [Whitelist Write](https://docs.google.com/forms/d/e/1FAIpQLScMM8tetxF6k5PVyBlQvNMyPEWdr3bCURv2pslzHjAdMvSYOA/viewform?pli=1 "Whitelist Write")    
 
 
@@ -119,6 +126,8 @@ title="Donate ETH A Cup of Coffee"><img src="https://etherdonation.com/i/btn/don
 ## [Donation](https://goo.gl/gg31cg "Donation")   
  - Donation Address : <https://goo.gl/gg31cg>  
 *Please join the donation.Thank you.*   
+
+<img src="https://cdn.dribbble.com/users/303702/screenshots/2288815/cube6.gif">
 
 ### FOR MONEY DONATIONS:
 **If you want to contribute with traditional currency, 
