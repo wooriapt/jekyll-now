@@ -46,6 +46,8 @@ Each brand and company enters the platform in the form of a consortium and publi
 ### BlockChain Loyalty Programs
 
 ### Peer to Peer Crypto exchange: 
+![_config.yml]({{ site.baseurl }}/images/peer to peer.jpg)   	
+
 Install Ethereum node software:Metamask Chrome Extension
 We suggest Metamask as they provide a fully synced Ethereum node and only takes 3 mins to setup. Parity requires storing the blockchain locally and takes time to sync your node. Power users may benefit from Parity (such as high volume sellers and escrows), as it loads transaction history quicker.
 
@@ -78,7 +80,9 @@ Escrow Ether has seperate dashboards for buyers, sellers and escrow agents.
    
   
 
-### and ICO Support Program:         
+### and ICO Support Program: 
+![_config.yml]({{ site.baseurl }}/images/project dev.png)  
+
    ICO Landing Service page for your cryptocurrency project
    Decentralized Consulting Platform for ICO Developers, Advisors, Crypto-Experts and Investors.  
 
