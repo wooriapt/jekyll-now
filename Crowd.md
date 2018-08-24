@@ -124,26 +124,18 @@ Ethereum account for donations CUBE ON Address:
 <a href="https://etherdonation.com/d?to=0x04f4b14279714abee7B9b1568D487C1586860a8D&amount=0.002" target="_blank" 
 title="Donate ETH A Cup of Coffee"><img src="https://etherdonation.com/i/btn/donate-btn.png" alt="Donate ETH A Cup of Coffee"/></a>-->
 ![_config.yml]({{ site.baseurl }}/images/Donation.jpg)
-##  - [Donation click](https://goo.gl/gg31cg "Donation")   
- - Donation Address : <https://goo.gl/gg31cg>  
-*Please join the donation.Thank you.*   
-
+##  - Donation click  
+ 
+  
 <!-- Target -->
-<input id="foo" value="0x04f4b14279714abee7B9b1568D487C1586860a8D">
-
-<!-- Trigger -->
-<button class="btn" data-clipboard-target="#foo">
-    <img src="assets/clippy.svg" alt="Copy to clipboard">
-</button>
-
-<!-- Target -->
-<textarea id="bar">0x04f4b14279714abee7B9b1568D487C1586860a8D</textarea>
+<textarea id="bar">0x04f4b14279714abee7B9b1568D487C1586860a8D </textarea>
 
 <!-- Trigger -->
 <button class="btn" data-clipboard-action="cut" data-clipboard-target="#bar">
-    Cut to clipboard
-</button>
+    Copy to clipboard
+</button>    
 
+*Please join the donation.Thank you.* 
 
 
 
