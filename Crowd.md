@@ -108,12 +108,13 @@ email <dany.me.park@gmail.com>
 
 [![_config.yml]({{ site.baseurl }}/images/join the whitelist.png)](https://docs.google.com/forms/d/e/1FAIpQLScMM8tetxF6k5PVyBlQvNMyPEWdr3bCURv2pslzHjAdMvSYOA/viewform?pli=1 "![_config.yml]({{ site.baseurl }}/images/join the whitelist.png)")
 
+<!--
    [ Estonis Blockchain Lab.](https://wooriapt.github.io " Estonis Blockchain Lab.")
+-->
 
 
 
-
-
+<img src="https://cdn.business2community.com/wp-content/uploads/2012/09/donorlove-200x300.jpg">
 
 ## Donate & Crowd Sale cube on Ethereum to account:
 
