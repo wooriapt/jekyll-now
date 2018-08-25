@@ -118,7 +118,9 @@ email <dany.me.park@gmail.com>
 -->
 
 ## Donate & Crowd Sale cube on Ethereum to account:
-
+    ```ruby
+    gem "github-pages", group: :jekyll_plugins
+    ```
 
 Ethereum account for donations CUBE ON Address:
 0x04f4b14279714abee7B9b1568D487C1586860a8D  
