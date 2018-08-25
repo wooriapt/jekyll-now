@@ -80,6 +80,7 @@ sass:
 gems:
   - jekyll-sitemap 
   - jekyll-feed 
+gem "github-pages", group: :jekyll_plugins
 
 # Exclude these files from your production _site
 exclude:
