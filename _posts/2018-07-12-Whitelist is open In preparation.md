@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Whitelist is open Aug 31, 2018
+title: Whitelist is open july 02, 2018
 
 ---
 
