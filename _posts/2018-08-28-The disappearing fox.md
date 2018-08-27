@@ -15,7 +15,8 @@ We’re back up and running smoothly, and you can read our informal post-mortem 
 
 
 **July flew by, and we’re back with another update!**  
-We’ve got some big announcements here, and a fresh version of the extension (4.9.0) just hit browsers near you. 
+We’ve got some big announcements here, and a fresh version of the extension (4.9.0)   
+just hit browsers near you.   
 Read on to learn what your new MetaMask has in store.
 
 <img src="https://metamask.io/img/metamask.png">  
@@ -26,18 +27,18 @@ If you're a web dapp developer, we've got two types of guides for you:
 
  - [How to port MetaMask to a new platform](https://github.com/MetaMask/metamask-extension/blob/develop/docs/porting_to_new_environment.md "new platform")    
 
- ```ruby
-    const controller = new MetamaskController({
-    // User confirmation callbacks:
-    showUnconfirmedMessage: triggerUi,
-    unlockAccountMessage: triggerUi,
-    showUnapprovedTx: triggerUi,
-    // initial state
-    initState,
-    // platform specific api
-    platform,
-})
- ```
+    const controller = new MetamaskController({  
+    // User confirmation callbacks:  
+    showUnconfirmedMessage: triggerUi,  
+    unlockAccountMessage: triggerUi,  
+    showUnapprovedTx: triggerUi,  
+    // initial state  
+    initState,  
+    // platform specific api  
+    platform,  
+})  
+
+
 
 
 ### New Dapp Developers  
