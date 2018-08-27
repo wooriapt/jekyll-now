@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Metamask Managing ERC20 Tokens 
+title: 블록체인과의 만남 
 
 ---
 
