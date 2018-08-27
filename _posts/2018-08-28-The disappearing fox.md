@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Important to me: The disappearing fox
+title: Important to me The disappearing fox
+
 ---
 
 ### Important to me
@@ -8,15 +9,16 @@ title: Important to me: The disappearing fox
 On Wednesday 7/26, the MetaMask extension was mistakenly removed from the Chrome store for several hours.   
 As most of our users are on Chrome, this caused trouble for our release process and our users’ security.   
 We’re back up and running smoothly, and you can read our informal post-mortem here.  
-
+<!--
 <img src="https://cdn-images-1.medium.com/max/800/1*O7Wnq_15OYStkdUAEKJnAA.png">
+-->
 
 
-** July flew by, and we’re back with another update!**  
+**July flew by, and we’re back with another update!**  
 We’ve got some big announcements here, and a fresh version of the extension (4.9.0) just hit browsers near you. 
 Read on to learn what your new MetaMask has in store.
 
-<img src="https://metamask.io/img/metamask.png">
+<img src="https://metamask.io/img/metamask.png">  
 Brings Ethereum to your browser.
 
 ### Developing Compatible Dapps  
