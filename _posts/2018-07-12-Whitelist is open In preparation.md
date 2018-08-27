@@ -18,7 +18,7 @@ CUBE ON Whitelist — Live on July 2, 2018y
 They are only accepting 5,000 qualified whitelisted applicants to participate in our public contribution round. 
 We will be favouring early supporters of the community, which will be determined by the timestamp the contributor   
 joined our [Telegram](https://t.me/cubeon) community.  
-#### Private Sale  
+### Private Sale  
 - **Sales:** 442,948.24 US Dollars (KRW 500,000,000)  
 - **Quantity:** 100,000,000 XCB (one hundred million 100 million XCB)  
 - **Investment deadline:** Aug 31, 2018  
@@ -26,7 +26,7 @@ joined our [Telegram](https://t.me/cubeon) community.
                 Guaranteed 0.09 US Dollars(KRW \100won) for 1 XCB after 6 months  
                 Cube on can be switched to master card after 12 months  
 
-#### Pre Sale  
+### Pre Sale  
 - **sale price:** 2,657,689.47 US Dollars  (KRW \3,000,000,000 )  
 - **Delivery quantity:** 400,000,000 XCB  
 - **Investment deadline:** February 01, 2019 April 30, 2019    
