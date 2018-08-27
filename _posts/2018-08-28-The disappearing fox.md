@@ -24,8 +24,10 @@ Brings Ethereum to your browser.
 ### Developing Compatible Dapps  
 If you're a web dapp developer, we've got two types of guides for you:
 
-'''How to port MetaMask to a new platform
-const controller = new MetamaskController({
+ - [How to port MetaMask to a new platform](https://github.com/MetaMask/metamask-extension/blob/develop/docs/porting_to_new_environment.md "new platform")    
+
+ ```ruby
+    const controller = new MetamaskController({
     // User confirmation callbacks:
     showUnconfirmedMessage: triggerUi,
     unlockAccountMessage: triggerUi,
@@ -35,7 +37,8 @@ const controller = new MetamaskController({
     // platform specific api
     platform,
 })
-'''  
+ ```
+
 
 ### New Dapp Developers  
   - We recommend this [Learning Solidity tutorial](https://karl.tech/learning-solidity-part-1-deploy-a-contract/ "tutorial")
