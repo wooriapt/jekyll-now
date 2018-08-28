@@ -130,7 +130,7 @@ title="Donate ETH A Cup of Coffee"><img src="https://etherdonation.com/i/btn/don
 <script src="/bower_components/clipboard/dist/clipboard.min.js"></script>
 
 <!-- 1. URL copy -->
-<a href="https://github.com/wooriapt/wooriapt.github.io/edit/master/Crowd.md" id="btnCopyUrl" data-clipboard-action="copy" >url 복사</a>
+<a href="https://github.com/wooriapt/wooriapt.github.io/edit/master/Crowd.md" id="btnCopyUrl" data-clipboard-action="copy" >url COPY</a>
 <script>
 $(function({
     // 복사 버튼을 만들시 data-clipboard-text 안에 복사할 문구를 넣어준다
