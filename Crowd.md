@@ -126,32 +126,6 @@ Ethereum account for donations CUBE ON Address:
 title="Donate ETH A Cup of Coffee"><img src="https://etherdonation.com/i/btn/donate-btn.png" alt="Donate ETH A Cup of Coffee"/></a>-->
 <!--![_config.yml]({{ site.baseurl }}/images/Donation.jpg)-->
 ##  Donation click  
- 
-<script src="/bower_components/clipboard/dist/clipboard.min.js"></script>
-
-<!-- 1. URL copy -->
-
-<a href="https://wooriapt.github.io/wooriapt.github.io/Crowd/" id="btnCopyUrl" data-clipboard-action="copy" >url COPY</a>
-<script> 
-$(function({
-    // 복사 버튼을 만들시 data-clipboard-text 안에 복사할 문구를 넣어준다
-    $('#btnCopyUrl').attr('0x04f4b14279714abee7B9b1568D487C1586860a8D', document.location.href); 
-    // callback 설정
-    var clipboard = new Clipboard('#btnCopyUrl');
-    clipboard.on('success', function(e) {
-        alert('복사되었습니다');
-    });
-    clipboard.on('error', function(e) {
-        console.log(e);
-    });
-});
-</script>
-
-<!-- 2. Text copy -->
-<textarea id="textBody" font color="red" cols="50" rows="2"></textarea>
-<button type="button" id="btnCopyText" data-clipboard-action="copy" data-clipboard-target="#textBody">Address Copy</button> 
- 
-
 *Please join the donation.Thank you.* 
 
 
