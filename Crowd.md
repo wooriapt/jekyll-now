@@ -148,7 +148,7 @@ $(function({
 </script>
 
 <!-- 2. Text copy -->
-<textarea id="textBody" font clolor="000000" cols="50" rows="2"></textarea>
+<textarea id="textBody" font color="red" cols="50" rows="2"></textarea>
 <button type="button" id="btnCopyText" data-clipboard-action="copy" data-clipboard-target="#textBody">Address Copy</button> 
  
 
