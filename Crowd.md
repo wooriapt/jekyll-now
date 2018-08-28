@@ -129,12 +129,12 @@ title="Donate ETH A Cup of Coffee"><img src="https://etherdonation.com/i/btn/don
  
   
 <!-- Target -->
-<textarea id="bar">0x04f4b14279714abee7B9b1568D487C1586860a8D </textarea>
+0x04f4b14279714abee7B9b1568D487C1586860a8D Copy to clipboard  
 
 <!-- Trigger -->
-<button class="btn" data-clipboard-action="cut" data-clipboard-target="#bar">
+<!--<button class="btn" data-clipboard-action="cut" data-clipboard-target="#bar">
     Copy to clipboard
-</button>    
+</button> -->   
 
 *Please join the donation.Thank you.* 
 
