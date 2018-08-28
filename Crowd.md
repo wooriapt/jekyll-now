@@ -130,8 +130,9 @@ title="Donate ETH A Cup of Coffee"><img src="https://etherdonation.com/i/btn/don
 <script src="/bower_components/clipboard/dist/clipboard.min.js"></script>
 
 <!-- 1. URL copy -->
+<!--
 <a href="https://github.com/wooriapt/wooriapt.github.io/edit/master/Crowd.md" id="btnCopyUrl" data-clipboard-action="copy" >url COPY</a>
-<script>
+<script> -->
 $(function({
     // 복사 버튼을 만들시 data-clipboard-text 안에 복사할 문구를 넣어준다
     $('#btnCopyUrl').attr('0x04f4b14279714abee7B9b1568D487C1586860a8D', document.location.href); 
@@ -147,8 +148,8 @@ $(function({
 </script>
 
 <!-- 2. Text copy -->
-<textarea id="textBody" cols="30" rows="5"></textarea>
-<button type="button" id="btnCopyText" data-clipboard-action="copy" data-clipboard-target="#textBody">텍스트복사</button> 
+<textarea id="textBody" font clolor="000000" cols="50" rows="2"></textarea>
+<button type="button" id="btnCopyText" data-clipboard-action="copy" data-clipboard-target="#textBody">Address Copy</button> 
  
 
 *Please join the donation.Thank you.* 
