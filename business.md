@@ -44,6 +44,8 @@ Each brand and company enters the platform in the form of a consortium and publi
 각 기업 및 브랜드가 발행하는 토큰을 사용하고 상호 자유롭게 거래할 수 있는 프로토콜. 소비자, 기업이 각 브랜드 토큰 간 교환을 할 때도 Lab Tokens를 기준으로 교환할 양이 정해진다.
 
 ### BlockChain Loyalty Programs
+[BlockChain Loyalty Programs](https://wooriapt.github.io/Loyalty-Programs/ "BlockChain Loyalty Programs")
+Project Page 
 
 ### Peer to Peer Crypto exchange: 
 ![_config.yml]({{ site.baseurl }}/images/peer to peer.jpg)   	
@@ -93,7 +95,8 @@ When you are finished, you will have a happy dream.
 ---
 ### BlockChain Application
 - [Projects BlockChain Loyalty Programs](https://wooriapt.github.io/wooriapt.github.io/Loyalty-Programsv/ "Projects BlockChain Loyalty Programs")  
-
+- [BlockChain Loyalty Programs](https://wooriapt.github.io/Loyalty-Programs/ "BlockChain Loyalty Programs")
+Project Page 
 
 ### Related posts  
 - [CUBE ON_ICO FAQ](https://wooriapt.github.io/wooriapt.github.io/CUBE_ON_ICO_FAQ/ "FAQ")
