@@ -119,8 +119,10 @@ email <dany.me.park@gmail.com>
 
 ## Donate & Crowd Sale cube on Ethereum to account:
 
-Ethereum account for donations CUBE ON Address:
+Ethereum account for donations CUBE ON Address:  
+```
 0x04f4b14279714abee7B9b1568D487C1586860a8D  
+```
 <!--<a href="https://etherdonation.com/d?to=0x04f4b14279714abee7B9b1568D487C1586860a8D" target="_blank" title="Donate ETH"><img src="https://etherdonation.com/i/btn/donate-btn.png" alt="Donate ETH"/></a>  
 <a href="https://etherdonation.com/d?to=0x04f4b14279714abee7B9b1568D487C1586860a8D&amount=0.002" target="_blank" 
 title="Donate ETH A Cup of Coffee"><img src="https://etherdonation.com/i/btn/donate-btn.png" alt="Donate ETH A Cup of Coffee"/></a>-->
