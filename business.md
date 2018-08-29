@@ -94,6 +94,9 @@ When you are finished, you will have a happy dream.
 
 ---
 ### BlockChain Application
+Loyalty Program A company that makes blockchain ecosystems.
+암호화폐를 사용하는 충성도 보너스 프로그램을 통한 블록체인 생태계를 만들어가는 기업.  
+Project: Loyalty Rewards Programs    
 - [Projects BlockChain Loyalty Programs](https://wooriapt.github.io/wooriapt.github.io/Loyalty-Programsv/ "Projects BlockChain Loyalty Programs")  
 - [BlockChain Loyalty Programs](https://wooriapt.github.io/Loyalty-Programs/ "BlockChain Loyalty Programs")
 Project Page 
