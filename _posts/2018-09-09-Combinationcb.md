@@ -85,5 +85,5 @@ publish_date: 2018-09-09 11:08:38 Sunday
 - 서로 한 단계 더 발전하는 모습이 나타나길 기대해봅니다.
 
 
-
-[큐브온: 프로젝트 로얄티 리워드 프로그램](https://wooriapt.github.io/Loyalty-Programs)
+------------------------
+[큐브온: 프로젝트 로얄티 리워드 프로그램](https://wooriapt.github.io/Loyalty-Programs) 잠시보시면..
