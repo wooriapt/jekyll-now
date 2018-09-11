@@ -1,7 +1,7 @@
 ---
 title: Combination of cooperatives and blockchains
 layout: post
-description: Projects by CuBe oN College
+description: 슬로생협 블록체인 
 publish_date: 2018-09-09 11:08:38 Sunday
 
 ---
