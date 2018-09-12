@@ -25,8 +25,8 @@ I get 10 times more traffic from [Google] [1] than from
   [2]: http://www.naver.com/  "Naver"  
   [3]: http://www.daum.net/   "Daum Search"  
 
+![_config.yml]({{ site.baseurl }}/images/Screen+Shot+2017-10-14+at+14.39.30.png)
 
-![_config.yml]({{ site.baseurl }}/assets/img/Screen+Shot+2017-10-14+at+14.39.30.png)  
 
 출처:바르다가 사랑한 얼굴들.
 
