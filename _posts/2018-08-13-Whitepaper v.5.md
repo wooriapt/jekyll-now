@@ -78,7 +78,7 @@ What Ethereum intends to provide is a blockchain with a built-in fully fledged T
 
 ---
 
-#### What is the 123OTT token business network?  
+#### What is the OTT token business network?  
 The 123OTT token business network is a group of SMEs in agreement with each other to have a loyalty rewards system. 
 As a SME joins the 123OTT token network they agree to join the loyalty rewards program and offer customers tokens as a reward for shopping with them as well as redeem tokens for products within their store. 
 These agreements are strictly business-to-business and are stored in smart contracts on the Ethereum blockchain. 
@@ -129,7 +129,7 @@ To manage a strategic partnership takes time and resources, which is something S
 #### ROI  
 Oftentimes, even if a SME has developed a great strategic partnership it's difficult to calculate and track the return on investment. A SME wants to quickly and easily know exactly how the strategic partnership is improving their business. Without a trackable and dynamic value mechanism, it’s difficult to have exact details on the success or failure of a partnership. The metrics need to be displayed in a manner that is easy to comprehend, quick to generate, and usable for decision making. In fact, the technology should be smart enough to suggest actionable info the SME can implement immediately to improve the partnership or if the partnership is failing and should be divested.
 
-###  What is 123OTT Coin?  
+###  What is OTT Coin?  
 123OTT token is a software company that builds simple and easy to use tools to help SMEs create, manage, and leverage universal loyalty reward programs. 123OTT token uses blockchain technology to secure business-to-business agreements and execute the terms of the partnership on the Ethereum blockchain without an intermediary. CollabCoin is building a universal loyalty rewards system that will generate value for consumers and participating businesses. 
 
 123OTT Coin understands the limited time SMEs have and, therefore, we are focused on building tools as simple as possible with an intuitive user interface. The 123OTT Coin business network will help SMEs compete against the Large MNCs by forming partnerships. 123OTT token will award consumers for shopping at small to medium sized businesses within the network with 123OTT token which can be used for discounts, sold for cash, or gifted to someone. CollabCoin will align incentives for all parties and create a network that naturally promotes behaviors that benefit all participants. This will allow more SMEs to enter the 123OTT token business network as there is a significant decrease in risk, time, and resources.
@@ -221,13 +221,13 @@ Once targets within a specific area is reached based on downloads of the app and
 After reaching critical mass from having “boots on the ground” 123OTT token will then turn to digital marketing to organically grow -- attracting additional merchants and consumers. 123OTT token will look to leverage Google Search Ads, Facebook Ads and YouTube Video Ads as a targeted way to reach new businesses and consumers.
 
 #### Technical Architecture  
-123OTT Coin is built on the Ethereum blockchain. Our business-to-business strategic partnerships are built using smart contracts. 
+OTT Tokens is built on the Ethereum blockchain. Our business-to-business strategic partnerships are built using smart contracts. 
 The terms and conditions of the partnership will be developed and then pushed to the Ethereum blockchain. 
 As the partnership continues there will be events that will update/add data to the agreements via the Ethereum virtual machine. 
 The contract can continue to exist or terminate once all required events are completed. Each interaction with the Ethereum blockchain is associated with a small transaction fee, therefore, we will only push data to the contract when a previously defined event occurs such as a desired outcome (revenue, new customers, increased engagement etc...), failed outcome, cancellation, or renewal. 
 The Ethereum blockchain allows binding contracts that don’t need a 3rd party enforcer, if all conditions are not met then it will be clearly visible; this lowers risks and barriers to adoption. The Ethereum protocol is perfectly suited for creating, managing, and analyzing strategic partnerships. It is the leading protocol for smart contracts and the Ethereum network is focused on building a truly decentralized Internet -- trustless, open, and secure.
 Benefits of Having Loyalty Rewards on the Blockchain
-123OTT token is focused on creating a platform for business-to-business collaboration. However, traditionally introducing intermediaries heightens the chance of a security breach, while collaborating without an intermediary is hard to scale. With blockchain technology, there is no third-party intermediary.
+OTT Tokens is focused on creating a platform for business-to-business collaboration. However, traditionally introducing intermediaries heightens the chance of a security breach, while collaborating without an intermediary is hard to scale. With blockchain technology, there is no third-party intermediary.
 
 The most successful application of blockchain until now is Bitcoin, the digital cryptocurrency. In short, loyalty rewards are also a type of digital currency, so it is only natural that the engine that enables Bitcoin to be transacted among multiple parties in exchange for services, goods, and even other monetary tender could do the same for loyalty reward points. Through a rigorous online protocol, well-programmed building blocks, and connecting a disconnected world, smart contracts and blockchain
 “We maintain that blockchain will allow instantaneous and secure creation, redemption, and exchange of loyalty reward points across programs, vendors, and industries through a trustless environment using cryptographic proofs in lieu of trusted third parties and administrators.”
@@ -240,20 +240,20 @@ For customers, the ability to use points more readily and quickly will increase 
 #### technology   
 have the capability to operate without intermediaries. This environment is perfectly suited for a loyalty network platform.
 
-#### 123OTT Tokens  
+#### OTT Tokens 
 It's essential for business-to-business partnerships to have a way to track progress and pass the value of their partnership onto their consumers. Currently this is often done through coupon codes, referral links, and loyalty points. 
 
 However, the current tools available can't answer fundamental questions such as: How many coupons/referral codes/points were distributed? Exactly how many are being used by consumers? How many are held by consumers? How do I, as a business stakeholder know that my partner is promoting the partnership? And most importantly what incentives are in place to ensure both businesses adhere to the terms of the partnership? 
 
-The 123OTT Coin token solves these problems and many others. By tying a digital coin to the terms of the agreement 123OTT Coin can now track exactly how the partnership is progressing. Also, in the unlikely event that one business is generating more transactions (referrals or coupons for example) than the other; the value of the coins given to the consumers for each transaction will increase for the business generating more transactions and decrease for the business generating less transactions. 
+The OTT Tokens solves these problems and many others. By tying a digital coin to the terms of the agreement OTT Tokens can now track exactly how the partnership is progressing. Also, in the unlikely event that one business is generating more transactions (referrals or coupons for example) than the other; the value of the coins given to the consumers for each transaction will increase for the business generating more transactions and decrease for the business generating less transactions. 
 
 The consumer will naturally go to the business that gives them more coins per transaction, therefore, incentivizing both businesses to generate as many transactions as possible and allowing the behavior of the network and its software to become aligned with the interests of its users. This is critical to having successful partnerships.
 
 Currently, many blockchain companies are issuing tokens that have no actual utility.   
-The CollabCoin token can be used for many possibilities including:  
+The OTT Tokens can be used for many possibilities including:  
 
 ● Incentives to follow and promote the terms of the strategic partnership  
-● Governance of the platform  
+● Governance of the platform
 ● Track progress of partnership  
 ● Increase value proposition by having consumers accumulate coins  
 ● A way for consumers to buy products  
