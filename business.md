@@ -20,7 +20,7 @@ upgraded 2018-08-08 15:31:27 Wednesday
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
-
+---------------------------------------
 
 ### CUBE ON is an Estonia-based blockchain Lab.  
 <img src="https://cdn.dribbble.com/users/303702/screenshots/2288812/cube7.gif">
@@ -29,6 +29,8 @@ with roots in Korea. We use blockchain technology to create practical and innova
 
 ### Estonia blockchain lab four core businesses include
 ### Technology development
+
+--------------------------
 
 ### a smart wallet called CUBE
 
@@ -42,6 +44,8 @@ Each brand and company enters the platform in the form of a consortium and publi
 각 브랜드와 기업들은 컨소시엄 형태로 플랫폼에 들어오게 되고, 각자의 브랜드 토큰을 만들어 발행한다. 고객들은 이 토큰을 사용할 뿐만 아니라 자유롭게 교환함으로써 새로운 쇼핑 경험을 할 수 있다. Lab Tokens의 자체 토큰인 Lab Tokens가 일종의 기축통화 기능을 하는 셈이다. 각 브랜드는 Lab Tokens에 연계해 토큰을 발행하며 그 발행량에 따라 가치가 Lab Tokens의 몇 분의 1로 정해지게 된다. 교환비율이 생기는 셈이다.
 
 각 기업 및 브랜드가 발행하는 토큰을 사용하고 상호 자유롭게 거래할 수 있는 프로토콜. 소비자, 기업이 각 브랜드 토큰 간 교환을 할 때도 Lab Tokens를 기준으로 교환할 양이 정해진다.
+
+-------------------------------------------
 
 ### BlockChain Loyalty Programs  
 **Loyalty Program A company that makes blockchain ecosystems.**
@@ -63,6 +67,8 @@ start now to collect everywhere, exhange anytime and redeem whenever and whereve
 
 [BlockChain Loyalty Programs](https://wooriapt.github.io/Loyalty-Programs/ "BlockChain Loyalty Programs")
 Project Page 
+
+----------------------------------------
 
 ### Peer to Peer Crypto exchange: 
 ![_config.yml]({{ site.baseurl }}/images/peer to peer.jpg)   	
@@ -86,6 +92,7 @@ Escrow Ether has seperate dashboards for buyers, sellers and escrow agents.
        - Worldwide offline payment through MasterCard.  
  
 
+-----------------------------------------------------------------
      
 ### altcoin Mall: 
    (https://github.com/wooriapt/Coin-Mall "altcoin Mall:")       
@@ -97,7 +104,7 @@ Escrow Ether has seperate dashboards for buyers, sellers and escrow agents.
    
    ![_config.yml]({{ site.baseurl }}/images/coinmall.png)  
    
-  
+--------------------------------------------------  
 
 ### and ICO Support Program: 
 ![_config.yml]({{ site.baseurl }}/images/project dev.png)    
