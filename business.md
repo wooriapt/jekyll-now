@@ -27,6 +27,8 @@ upgraded 2018-08-08 15:31:27 Wednesday
 
 with roots in Korea. We use blockchain technology to create practical and innovative solutions for companies, helping them unlock new markets. Estonia blockchain Lab is developing an ecosystem for the incubation of projects that have the potential to benefit from blockchain technology.
 
+----------------------------------
+
 ### Estonia blockchain lab four core businesses include
 ### Technology development
 
@@ -37,6 +39,9 @@ with roots in Korea. We use blockchain technology to create practical and innova
 #### Labs   
 ![_config.yml]({{ site.baseurl }}/images/Logoblockcompanies-14.jpg)  
 **ConsenSys Labs** operates our venture studio which provides world-class resources, tools, and talent to entrepreneurs and developers around the world. With a rigorous startup curriculum and an unparalleled network of experts, ConsenSys Labs provides the critical support needed to become a successful company.  
+
+-------------------------------
+
 ### a Token Factory 
 #### Issue & Interact with Standard Token Contracts on Ethereum
 2018-08-15 01:26:28 Wednesday.
@@ -52,8 +57,6 @@ Each brand and company enters the platform in the form of a consortium and publi
 ### <span style="color:navy blue"> 암호화폐를 사용하는 충성도 보너스 프로그램을 통한 블록체인 생태계</span>  
 ### Project: Loyalty Rewards Programs   
 [[궁금한 내용 묻고 답하기]](https://wooriapt.github.io/wooriapt.github.io/Loyalty-Program-Q&A/)   
-
---------------------------
 
 ### <span style="color: #999900">Loyalty20 Blockchain Tokens ?</span>  
 **Korea Blockchain Tokens**-을 추구합니다.  
