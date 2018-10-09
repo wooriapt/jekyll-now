@@ -43,7 +43,24 @@ Each brand and company enters the platform in the form of a consortium and publi
 
 각 기업 및 브랜드가 발행하는 토큰을 사용하고 상호 자유롭게 거래할 수 있는 프로토콜. 소비자, 기업이 각 브랜드 토큰 간 교환을 할 때도 Lab Tokens를 기준으로 교환할 양이 정해진다.
 
-### BlockChain Loyalty Programs
+### BlockChain Loyalty Programs  
+**Loyalty Program A company that makes blockchain ecosystems.**
+## <span style="color:navy blue"> 암호화폐를 사용하는 충성도 보너스 프로그램을 통한 블록체인 생태계</span>  
+### Project: Loyalty Rewards Programs   
+[[궁금한 내용 묻고 답하기]](https://wooriapt.github.io/wooriapt.github.io/Loyalty-Program-Q&A/)   
+
+--------------------------
+
+### <span style="color: #999900">Loyalty20 Blockchain Tokens ?</span>  
+**Korea Blockchain Tokens**-을 추구합니다.  
+화려하고 아름다운 암호 화페형 마일리지입니다.  
+**핀란드어로 Korea는 화려하고 아름다움(Decoration)입니다.**  
+### <span style="color: #999900">Shopping rewards you can trade</span>
+
+**The Future of Shopping**    
+Loyalty20 Token makes your loyalty rewards tradeable   
+start now to collect everywhere, exhange anytime and redeem whenever and wherever you like 
+
 [BlockChain Loyalty Programs](https://wooriapt.github.io/Loyalty-Programs/ "BlockChain Loyalty Programs")
 Project Page 
 
