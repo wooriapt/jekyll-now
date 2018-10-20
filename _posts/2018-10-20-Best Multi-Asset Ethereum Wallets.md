@@ -17,6 +17,7 @@ Second, when it comes to fraud or theft, there is no institution to complain to 
 
 Here comes the need for cryptocurrency wallets – specialised software to securely store and conveniently spend crypto. Below, we overview wallets that support Ethereum specifically, but most of them also allow storing Ethereum-based tokens and other coins.
 
+![_config.yml]({{ site.baseurl }}/images/kryptokit-launches-jaxx-ethereum-bitcoin-wallet-for-android-tablets.jpg)  
 
 #### Types of Ethereum Wallets  
 Ethereum 지갑 유형
