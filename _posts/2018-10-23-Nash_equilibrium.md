@@ -1,5 +1,5 @@
 ---
-title: Nash equilibrium
+title: 내쉬 균형 Nash equilibrium
 layout: post
 date: 2018-10-23
 description: 내쉬균형 Nash equilibrium
