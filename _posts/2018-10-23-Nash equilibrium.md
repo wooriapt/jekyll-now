@@ -3,7 +3,7 @@ title: Nash equilibrium
 layout: post
 category: [issues]
 date: 2018-10-23
-description: Nash equilibrium
+description: 내쉬 균형(Nash equilibrium)
 
 ---
 
