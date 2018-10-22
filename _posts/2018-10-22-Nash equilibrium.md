@@ -24,7 +24,7 @@ description: Nash equilibrium
 혹시 모를 부작용과 그것이 모든 관련자들에게 미칠 영향을 미리 탐색하고 사전 예방할 수 있는 규약에 모두가 동의하는 방식이다. 
 그런데 최근 나온 연구 결과에 의하면 이런 전통적 규제의 방법은 가속화하는 과학 기술의 변화에 더 이상 효과적이지 않다고 한다.  
 
-![_config.yml]({{ site.baseurl }}/images/2018101903415_0.jpg)
+![_config.yml]({{ site.baseurl }}/images/IE001775156_STD.jpg)
 
 오마이뉴스 참조.  
 
@@ -49,9 +49,9 @@ description: Nash equilibrium
 소속된 그룹을 위해서도 최선을 다해야 오기 때문이지.   
 
 애덤 스미스가 틀린 거야.  
+### ?.  
 
-![_config.yml]({{ site.baseurl }}/images/2018101903415_0.jpg)
-
+![_config.yml]({{ site.baseurl }}/images/fcdd31a9e74a2341cbd8fbd8e24704fd.jpg)
 
 
 
