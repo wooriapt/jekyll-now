@@ -84,6 +84,7 @@ sass:
 gems:
   - jekyll-sitemap 
   - jekyll-feed 
+  - jekyll-paginate
 gem "github-pages", group: :jekyll_plugins
 
 # Exclude these files from your production _site
