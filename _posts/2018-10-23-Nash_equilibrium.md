@@ -1,9 +1,8 @@
 ---
 title: Nash equilibrium
 layout: post
-category: [issues]
 date: 2018-10-23
-description: 내쉬 균형Nash equilibrium
+description: 내쉬균형 Nash equilibrium
 
 ---
 ### Nash equilibrium  
