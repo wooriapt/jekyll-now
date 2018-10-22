@@ -7,7 +7,7 @@ description: 내쉬 균형(Nash equilibrium)
 
 ---
 
-### Nash equilibrium
+### Nash equilibrium  
 
 **내쉬 균형(Nash equilibrium)** 은 게임 이론에서 경쟁자 대응에 따라 최선의 선택을   
 하면 서로가 자신의 선택을 바꾸지 않는 균형상태를 말한다.
