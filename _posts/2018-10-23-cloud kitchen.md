@@ -1,5 +1,5 @@
 ---
-title: Travis Cordell Kalanick ‘cloud kitchen’ Biz in Korea
+title: Travis Cordell Kalanick cloud kitchen 
 layout: post
 category: [issues]
 date: 2018-10-20
