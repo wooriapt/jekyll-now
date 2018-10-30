@@ -8,9 +8,11 @@ description: Ethereum A Guide to Gas
 ---
 
 ### A Guide to Gas
-#### A guide to gas, its purpose, its nuances, and its utility on the Ethereum blockchain.
-
-Between January 1, 2018 and January 3, 2018, the average cost to execute a transaction on the Ethereum blockchain increased 187%. The cause was related to the increased price of “gas,” the unit of measurement used to represent the cost of running operations on Ethereum. Increased network traffic in early January put upward pressure on the price of gas as people competed for their transactions to be prioritized. Gas — as we will explore — is a fundamental and useful element of the Ethereum blockchain. It is, however, undoubtedly confusing and frustrating to manage, particularly for those beginning to transact on the blockchain.
+#### A guide to gas, its purpose, its nuances, and its utility on the Ethereum blockchain.  
+Between January 1, 2018 and January 3, 2018, the average cost to execute a transaction on the Ethereum blockchain increased 187%. 
+The cause was related to the increased price of “gas,” the unit of measurement used to represent the cost of running operations on Ethereum. Increased network traffic in early January put upward pressure on the price of gas as people competed for their transactions to be prioritized.   
+Gas — as we will explore — is a fundamental and useful element of the Ethereum blockchain.   
+It is, however, undoubtedly confusing and frustrating to manage, particularly for those beginning to transact on the blockchain.  
 
 
 
