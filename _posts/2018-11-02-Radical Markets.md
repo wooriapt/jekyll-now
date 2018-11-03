@@ -6,8 +6,7 @@ date: 2018-11-02
 description: Radical Markets
 
 ---
-### On Radical Markets
-Apr 20, 2018  
+### On Radical Markets Apr 20, 2018  
 
 Recently I had the fortune to have received an advance copy of Eric Posner and Glen Weyl’s new book, Radical Markets, which could be best described as an interesting new way of looking at the subject that is sometimes called “political economy” - tackling the big questions of how markets and politics and society intersect. The general philosophy of the book, as I interpret it, can be expressed as follows. Markets are great, and price mechanisms are an awesome way of guiding the use of resources in society and bringing together many participants’ objectives and information into a coherent whole. However, markets are socially constructed because they depend on property rights that are socially constructed, and there are many different ways that markets and property rights can be constructed, some of which are unexplored and potentially far better than what we have today. Contra doctrinaire libertarians, freedom is a high-dimensional design space.
 
