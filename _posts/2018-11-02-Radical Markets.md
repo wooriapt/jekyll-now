@@ -6,13 +6,12 @@ date: 2018-11-02
 description: Radical Markets
 
 ---
-
-
-
 ### On Radical Markets
-Apr 20, 2018
+Apr 20, 2018  
 
 Recently I had the fortune to have received an advance copy of Eric Posner and Glen Weyl’s new book, Radical Markets, which could be best described as an interesting new way of looking at the subject that is sometimes called “political economy” - tackling the big questions of how markets and politics and society intersect. The general philosophy of the book, as I interpret it, can be expressed as follows. Markets are great, and price mechanisms are an awesome way of guiding the use of resources in society and bringing together many participants’ objectives and information into a coherent whole. However, markets are socially constructed because they depend on property rights that are socially constructed, and there are many different ways that markets and property rights can be constructed, some of which are unexplored and potentially far better than what we have today. Contra doctrinaire libertarians, freedom is a high-dimensional design space.
+
+
 
 The book interests me for multiple reasons. First, although I spend most of my time in the blockchain/crypto space heading up the Ethereum project and in some cases providing various kinds of support to projects in the space, I do also have broader interests, of which the use of economics and mechanism design to make more open, free, egalitarian and efficient systems for human cooperation, including improving or replacing present-day corporations and governments, is a major one. The intersection of interests between the Ethereum community and Posner and Weyl’s work is multifaceted and plentiful; Radical Markets dedicates an entire chapter to the idea of “markets for personal data”, redefining the economic relationship between ourselves and services like Facebook, and well, look what the Ethereum community is working on: markets for personal data.
 
