@@ -7,13 +7,13 @@ description: Incentive structures are difficult to design
 
 ---
 
-### Why Blockchain is Hard  
-The hype around blockchain is massive. To hear the blockchain hype train tell it, blockchain will now:
-
-- Solve income inequality
-- Make all data secure forever
-- Make everything much more efficient and trustless
-- Save dying babies
+### Why Blockchain is Hard    
+The hype around blockchain is massive.   
+To hear the blockchain hype train tell it, blockchain will now:  
+- Solve income inequality  
+- Make all data secure forever  
+- Make everything much more efficient and trustless  
+- Save dying babies  
 
 
 
